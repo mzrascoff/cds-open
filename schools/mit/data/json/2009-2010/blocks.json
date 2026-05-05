@@ -1,0 +1,348 @@
+{
+  "A": {
+    "_section_label": "A. General Information",
+    "A1": {
+      "label": ". Address Information",
+      "raw_text": "A1. Address Information\n\nName of College or University: Massachusetts Institute of Technology\nMailing Address: 77 Massachusetts Avenue\nCity, State, Zip, Country: Cambridge, MA 02139 USA\n\nStreet Address (if different): ___\nCity, State, Zip, Country: ___\n\nMain Phone Number: 617.253.1000\nWWW Home Page Address: http://web.mit.edu/\n\nAdmissions Phone Number: 617.253.3400\nAdmissions Toll-free Number: ___\nAdmissions Office Mailing Address: 77 Massachusetts Avenue, Room 3-108\nCity, State, Zip, Country: Cambridge, MA 02139 USA\nAdmissions Fax Number: 617.258.8304\nAdmissions E-mail Address: admissions@mit.edu\nIf there is a separate URL for your school\u2019s online application, please specify: http://my.mit.edu/\nIf you have a mailing address other than the above to which applications should be sent, please\nprovide: ___"
+    },
+    "A2": {
+      "label": ". Source of institutional control (check one only)",
+      "raw_text": "A2. Source of institutional control (check one only)\n\n___ Public\n_X_ Private (nonprofit)\n___ Proprietary\n\fA3. Classify your undergraduate institution:\n\n_X_ Coeducational college\n___ Men's college\n___ Women's college"
+    },
+    "A4": {
+      "label": ". Academic year calendar",
+      "raw_text": "A4. Academic year calendar\n\n___ Semester                 _X_ 4-1-4\n___ Quarter                  ___ Continuous\n___ Trimester                ___ Differs by program (describe):\n___ Other (describe):"
+    },
+    "A5": {
+      "label": ". Degrees offered by your institution",
+      "raw_text": "A5. Degrees offered by your institution\n\n___ Certificate      ___ Postbachelor's certificate\n___ Diploma          _X_ Master's\n___ Associate        ___ Post-master's certificate\n___    Transfer      _X_ Doctoral degree\u2013research/scholarship\n___    Terminal      ___ Doctoral degree\u2013 professional practice\n_X_ Bachelor's       ___ Doctoral degree\u2013 other"
+    }
+  },
+  "B": {
+    "_section_label": "B. ENROLLMENT AND PERSISTENCE",
+    "B1": {
+      "label": ". Institutional Enrollment--Men and Women Provide numbers of students for each of the",
+      "raw_text": "B1. Institutional Enrollment--Men and Women Provide numbers of students for each of the\nfollowing categories as of the institution's official fall reporting date or as of October 15, 2009.\n\n                                                         FULL-TIME         PART-TIME\n                                                        Men Women         Men Women\nUndergraduates\nDegree-seeking, first-time freshmen                      593       479        0        0\nOther first-year, degree-seeking                            3         3       0        0\nAll other degree-seeking                                1695      1417      16        12\nTotal degree-seeking                                    2291      1899      16        12\nAll other undergraduates enrolled in credit courses         9         2       0        3\nTotal undergraduates                                    2300      1901      16        15\nGraduate\nDegree-seeking, first-time                              1174       564        0        1\n\fAll other degree-seeking                             2949        1315      23       6\nAll other graduates enrolled in credit courses           18          2     72      28\nTotal graduate                                       4141        1881      95      35\n\nTotal all undergraduates: 4232\n\nTotal all graduate and professional students: 6152\n\nGRAND TOTAL ALL STUDENTS: 10,384"
+    },
+    "B2": {
+      "label": ". Enrollment by Racial/Ethnic Category. Provide numbers of undergraduate students for each",
+      "raw_text": "B2. Enrollment by Racial/Ethnic Category. Provide numbers of undergraduate students for each\nof the following categories as of the institution's official fall reporting date or as of October 15,\n2009. Include international students only in the category \"Nonresident aliens.\" Complete the \"Total\nUndergraduate\"column only if you cannot provide data for the first two columns.\n\n                                                              Degree-seeking            Total\n                                      Degree-seeking          Undergraduates      Undergraduates\n                                      First-time First         (include first-   (both degree- and\n                                            year                     time           non-degree-\n                                                                 first-year)          seeking)\nNonresident aliens                            88                    385                 394\nBlack, non-Hispanic                           93                    357                 358\nAmerican Indian or Alaskan\n                                              10                    42                  42\nNative\nAsian or Pacific Islander                    274                   1085                 1086\nHispanic                                     154                    556                 557\nWhite, non-Hispanic                          386                   1523                 1525\nRace/ethnicity unknown                        67                    270                 270\nTotal                                       1072                   4218                 4232\n\n\n\nPersistence"
+    },
+    "B3": {
+      "label": ". Number of degrees awarded by your institution from July 1, 2008, to June 30, 2009.",
+      "raw_text": "B3. Number of degrees awarded by your institution from July 1, 2008, to June 30, 2009.\n\nCertificate/diploma                          ___\nAssociate degrees                            ___\nBachelor's degrees                           1146\nPostbachelor's certificates                  ___\nMaster's degrees                             1474\nPost-master's certificates                   ___\nDoctoral degrees \u2013 research/scholarship       607\n\fDoctoral degrees \u2013 professional practice       ___\nDoctoral degrees \u2013 other                       ___\n\n\n\nGraduation Rates\nThe items in this section correspond to data elements collected by the IPEDS Web-based Data\nCollection System's Graduation Rate Survey (GRS). For complete instructions and definitions of\ndata elements, see the IPEDS GRS instructions and glossary on the 2009 Web-based survey.\n\nFor Bachelor's or Equivalent Programs\n\nPlease provide data for the fall 2003 cohort if available. If fall 2003 cohort data are not available,\nprovide data for the fall 2002 cohort.\n\nFall 2003 Cohort\nReport for the cohort of full-time first-time bachelor's (or equivalent) degree-seeking undergraduate\nstudents who entered in fall 2003. Include in the cohort those who entered your institution during\nthe summer term preceding fall 2003."
+    },
+    "B4": {
+      "label": ". Initial 2003 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking",
+      "raw_text": "B4. Initial 2003 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking\nundergraduate students; total all students: 1019\nB4. Initial 2002 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking\nundergraduate students; total all students: 977\n\fB5. Of the initial 2002 cohort, how many did not persist and did not graduate for the following\nreasons: death, permanent disability, or service in the armed forces, foreign aid service of the\nfederal government, or official church missions; total allowable exclusions: 0"
+    },
+    "B5": {
+      "label": ". Of the initial 2003 cohort, how many did not persist and did not graduate for the following",
+      "raw_text": "B5. Of the initial 2003 cohort, how many did not persist and did not graduate for the following\nreasons: death, permanent disability, or service in the armed forces, foreign aid service of the\nfederal government, or official church missions; total allowable exclusions: 1"
+    },
+    "B6": {
+      "label": ". Final 2003 cohort, after adjusting for allowable exclusions: 1018",
+      "raw_text": "B6. Final 2003 cohort, after adjusting for allowable exclusions: 1018\n(Subtract question B5 from question B4)\nB6. Final 2002 cohort, after adjusting for allowable exclusions: 977\n(Subtract question B5 from question B4)"
+    },
+    "B7": {
+      "label": ". Of the initial 2003 cohort, how many completed the program in four years or less (by August",
+      "raw_text": "B7. Of the initial 2003 cohort, how many completed the program in four years or less (by August\n31, 2007): 843\nB7. Of the initial 2002 cohort, how many completed the program in four years or less (by August\n31, 2006): 806"
+    },
+    "B8": {
+      "label": ". Of the initial 2003 cohort, how many completed the program in more than four years but in five",
+      "raw_text": "B8. Of the initial 2003 cohort, how many completed the program in more than four years but in five\nyears or less (after August 31, 2007 and by August 31, 2008): 74\nB8. Of the initial 2002 cohort, how many completed the program in more than four years but in five\nyears or less (after August 31, 2006 and by August 31, 2007): 90"
+    },
+    "B9": {
+      "label": ". Of the initial 2003 cohort, how many completed the program in more than five years but in six",
+      "raw_text": "B9. Of the initial 2003 cohort, how many completed the program in more than five years but in six\nyears or less (after August 31, 2008 and by August 31, 2009): 14\nB9. Of the initial 2002 cohort, how many completed the program in more than five years but in six\nyears or less (after August 31, 2007 and by August 31, 2008): 18"
+    },
+    "B10": {
+      "label": ". Total graduating within six years (sum of questions B7, B8, and B9): 931",
+      "raw_text": "B10. Total graduating within six years (sum of questions B7, B8, and B9): 931\nB10. Total graduating within six years (sum of questions B7, B8, and B9): 914"
+    },
+    "B11": {
+      "label": ". Six-year graduation rate for 2003 cohort (question B10 divided by question B6): 91%",
+      "raw_text": "B11. Six-year graduation rate for 2003 cohort (question B10 divided by question B6): 91%\n\n\n\nFall 2002 Cohort\nReport for the cohort of full-time first-time bachelor's (or equivalent) degree-seeking undergraduate\nstudents who entered in fall 2002. Include in the cohort those who entered your institution during\nthe summer term preceding fall 2002.\nB11. Six-year graduation rate for 2002 cohort (question B10 divided by question B6): 94%\n\nNote: Questions B12 - B21 have been omitted. They apply to Two-Year Institutions only.\n\nRetention Rates\nReport for the cohort of all full-time, first-time bachelor's (or equivalent) degree-seeking\nundergraduate students who entered in fall 2008 (or the preceding summer term). The initial cohort\nmay be adjusted for students who departed for the following reasons: death, permanent disability,\nor service in the armed forces, foreign aid service of the federal government or official church\nmissions. No other adjustments to the initial cohort should be made."
+    },
+    "B22": {
+      "label": ". For the cohort of all full-time bachelor's (or equivalent) degree-seeking undergraduate",
+      "raw_text": "B22. For the cohort of all full-time bachelor's (or equivalent) degree-seeking undergraduate\nstudents who entered your institution as freshmen in fall 2008 (or the preceding summer term),\nwhat percentage was enrolled at your institution as of the date your institution calculates its official\nenrollment in fall 2009? 97%"
+    }
+  },
+  "C": {
+    "_section_label": "C. FIRST-TIME,? FIRST-YEAR (?:\\(?FRESHMAN\\)? )?ADMISSION",
+    "C1": {
+      "label": ". First-time, first-year (freshman) students: Provide the number of degree-seeking, first-time,",
+      "raw_text": "C1. First-time, first-year (freshman) students: Provide the number of degree-seeking, first-time,\nfirst-year students who applied, were admitted, and enrolled (full- or part-time) in fall 2009. Include\nearly decision, early action, and students who began studies during summer in this cohort.\nApplicants should include only those students who fulfilled the requirements for consideration for\nadmission (i.e., who completed actionable applications) and who have been notified of one of the\nfollowing actions: admission, nonadmission, placement on waiting list, or application withdrawn (by\napplicant or institution). Admitted applicants should include wait-listed students who were\nsubsequently offered admission.\n\nTotal first-time, first-year (freshman) men who applied                  10,970\nTotal first-time, first-year (freshman) women who applied                 4693\n\fTotal first-time, first-year (freshman) men who were admitted             864\nTotal first-time, first-year (freshman) women who were admitted           812\n\n\nTotal full-time, first-time, first-year (freshman) men who enrolled       594\nTotal part-time first-time, first-year (freshman) men who enrolled          0\n\n\nTotal full-time, first-time, first-year (freshman) women who enrolled     478\nTotal part-time first-time, first-year (freshman) women who enrolled        0"
+    },
+    "C2": {
+      "label": ". Freshman wait-listed students (students who met admission requirements but whose",
+      "raw_text": "C2. Freshman wait-listed students (students who met admission requirements but whose\nfinal admission was contingent on space availability)\n\nDo you have a policy of placing students on a waiting list? _X_Yes      ___No\n\nIf yes, please answer the questions below for fall 2009 admissions:\n Number of qualified applicants offered a place on waiting list 455\n Number accepting a place on the waiting list                   455\n Number of wait-listed students admitted                         78\n\nIs your waiting list ranked? No\nIf yes, do you release that information to students? ___\nDo you release that information to school counselors? ___\n\nAdmission Requirements"
+    },
+    "C3": {
+      "label": ". High school completion requirement",
+      "raw_text": "C3. High school completion requirement\nCheck the appropriate box to identify your high school completion requirement for degree-seeking\nentering students:\n\n___   High school diploma is required and GED is accepted\n___   High school diploma is required and GED is not accepted\n_X_   High school diploma or equivalent is not required"
+    },
+    "C4": {
+      "label": ". Does your institution require or recommend a general college-preparatory program for",
+      "raw_text": "C4. Does your institution require or recommend a general college-preparatory program for\ndegree-seeking students?\n\n___   Require\n_X_   Recommend\n___   Neither require nor recommend"
+    },
+    "C5": {
+      "label": ". Distribution of high school units required and/or recommended. Specify the distribution of",
+      "raw_text": "C5. Distribution of high school units required and/or recommended. Specify the distribution of\nacademic high school course units required and/or recommended of all or most degree-seeking\nstudents using Carnegie units (one unit equals one year of study or its equivalent). If you use a\ndifferent system for calculating units, please convert.\n\n                                    Units Required Units Recommended\n\fTotal academic units\nEnglish                                                         4\nMathematics                                                     4\nScience                                                         4\n  Of these, units that must be lab\nForeign language                                                2\nSocial studies                                                  2\nHistory\nAcademic electives\nComputer Science\nVisual / Performing Arts\nOther (specify)\n\nBasis for Selection"
+    },
+    "C6": {
+      "label": ". Do you have an open admission policy, under which virtually all secondary school graduates or",
+      "raw_text": "C6. Do you have an open admission policy, under which virtually all secondary school graduates or\nstudents with GED equivalency diplomas are admitted without regard to academic record, test\nscores, or other qualifications? No\nIf so, check which applies:\n\nOpen admission policy as described above for all students ___\n\nOpen admission policy as described above for most students, but\nselective admission for out-of-state students ___\nselective admission to some programs ___\nother (explain) ___"
+    },
+    "C7": {
+      "label": ". Relative importance of each of the following academic and nonacademic factors in your",
+      "raw_text": "C7. Relative importance of each of the following academic and nonacademic factors in your\nfirst-time, first-year, degree-seeking (freshman) admission decisions.\n\n                                          Very                                       Not\n                                                      Important     Considered\n                                        Important                                 Considered\nAcademic\nRigor of secondary school record                           X\nClass rank                                                 X\nAcademic GPA                                               X\nStandardized test scores                                   X\nApplication Essay                                                        X\nRecommendation                                             X\n\n\n                                         Very                                       Not\n                                                     Important      Considered\n                                       Important                                 Considered\n\fNonacademic\nInterview                                                     X\nExtracurricular activities                                    X\nTalent/ability                                                X\nCharacter/personal qualities                   X\nFirst generation                                                             X\nAlumni/ae relation *                                                                        X\nGeographical residence                                                       X\nState residency                                                                             X\nReligious affiliation/commitment                                                            X\nRacial/ethnic status                                                         X\nVolunteer work                                                               X\nWork experience                                                              X\n Level of applicant's interest                                                           X\n* \"Alumni/ae relation\" was inaccurately reported as \"considered\". Data corrected to \"not\nconsidered\" 6/28/12.\n\n\n\nSAT and ACT Policies"
+    },
+    "C8": {
+      "label": ". Entrance exams",
+      "raw_text": "C8. Entrance exams\n\nA. Does your institution make use of SAT, ACT, or SAT Subject Test scores in admission\ndecisions for first-time, first-year, degree-seeking applicants?\n_X_Yes ___No\nIf yes, place check marks in the appropriate boxes below to reflect your institution's policies for use\nin admission for Fall 2011.\n\n\n                                            ADMISSION\n\n                                                           Require for       Consider If         Not\n                                Require Recommend\n                                                             Some            Submitted          Used\nSAT or ACT                          X\nACT only\nSAT only\nSAT and SAT Subject Tests\nor ACT\nSAT Subject Tests                   X\n\fB. If your institution will make use of the ACT in admission decisions for first-time, first-year,\ndegree -seeking applicants for fall 2011, please indicate which ONE of the following applies\n(regardless of whether the writing score will be used in the admissions process):\n\n_X_ ACT with Writing component required\n___ ACT with Writing component recommended.\n___ ACT with or without Writing component accepted\n\nC. Please indicate how your institution will use the SAT or ACT essay component; check all that\napply.\n\n                                                SAT essay ACT essay\nFor admission                                      ___          ___\nFor placement                                      ___          ___\nFor advising                                       ___          ___\nIn place of an application essay                   ___          ___\nAs a validity check on the application essay       ___          ___\nNo college policy as of now                        _X_          _X_\nNot using essay component                          ___          ___\n\nD. In addition, does your institution use applicants' test scores for academic advising?\n___Yes _X_No\n\nE. Latest date by which SAT or ACT scores must be received for fall-term admission: Feb. 15\nLatest date by which SAT Subject Test scores must be received for fall-term admission: Feb. 15\n\nF. If necessary, use this space to clarify your test policies (e.g., if tests are recommended for some\nstudents, or if tests are not required of some students):\nNon-native English speakers have the option of taking TOEFL in place of SAT Reasoning\nTest or ACT with Writing. Others must take SAT Reasoning Test or ACT with Writing. All\nstudents must take two SAT Subjects Tests, one each in math and science.\n\nG. Please indicate which tests your institution uses for placement (e.g., state tests):\n\nSAT                     ___\nACT                     ___\nSAT Subject Tests       ___\nAP                      _X_\nCLEP                    ___\nInstitutional Exam      _X_\nState Exam (specify): _________\n\nFreshman Profile\n\fProvide percentages for ALL enrolled, degree-seeking, full-time and part-time, first-time, first-\nyear (freshman) students enrolled in fall 2009, including students who began studies during\nsummer, international students/nonresident aliens, and students admitted under special\narrangements."
+    },
+    "C9": {
+      "label": ". Percent and number of first-time, first-year (freshman) students enrolled in fall 2009",
+      "raw_text": "C9. Percent and number of first-time, first-year (freshman) students enrolled in fall 2009\nwho submitted national standardized (SAT/ACT) test scores. Include information for ALL\nenrolled, degree-seeking, first-time, first-year (freshman) students who submitted test\nscores. Do not include partial test scores (e.g., mathematics scores but not critical reading for a\ncategory of students) or combine other standardized test results (such as TOEFL) in this item. Do\nnot convert SAT scores to ACT scores and vice versa.\nThe 25th percentile is the score that 25 percent scored at or below;the 75th percentile score is the\none that 25 percent scored at or above.\n\nPercent submitting                    Number submitting\n                           93                               1002\nSAT scores                            SAT scores\nPercent submitting                    Number submitting\n                           36                               391\nACT scores                            ACT scores\n\n\n                         25th Percentile 75th Percentile\nSAT Critical Reading            650            760\nSAT Math                        720            800\nSAT Writing                     660            760\nSAT Essay                       N/A            N/A\nACT Composite                   32              35\nACT Math                        33              35\nACT English                     31              35\nACT Writing                      8              10\n\nPercent of first-time, first-year (freshman) students with scores in each range:\n\n          SAT Critical Reading SAT Math SAT Writing\n700-800            57.0               87.5        57.0\n600-699            34.7               12.5        35.6\n500-599              7.2               0             7.0\n400-499              1.1               0             0.4\n300-399              0                 0             0\n200-299              0                 0             0\n                  100%                100%        100%\n\n          ACT Composite ACT English ACT Math\n\f  30-36          90.0            84.1          96.4\n  24-29          10.0            14.6           3.6\n  18-23           0               1.0            0\n  12-17           0               0.3            0\n  6-11            0                0             0\nBelow 6           0                0             0\n                100%             100%         100%"
+    },
+    "C10": {
+      "label": ". Percent of all degree-seeking, first-time, first-year (freshman) students who had high",
+      "raw_text": "C10. Percent of all degree-seeking, first-time, first-year (freshman) students who had high\nschool class rank within each of the following ranges (report information for those students\nfrom whom you collected high school rank information).\n\nPercent in top tenth of high school graduating class      95\nPercent in top quarter of high school graduating class   100\nPercent in top half of high school graduating class      100\nPercent in bottom half of high school graduating class     0\nPercent in bottom quarter of high school graduating class 0\n\nPercent of total first-time, first-year (freshman) students who submitted high school class rank: 52"
+    },
+    "C11": {
+      "label": ". Percentage of all enrolled, degree-seeking, first-time, first-year (freshman) students",
+      "raw_text": "C11. Percentage of all enrolled, degree-seeking, first-time, first-year (freshman) students\nwho had high school grade-point averages within each of the following ranges (using 4.0\nscale). Report information only for those students from whom you collected high school\nGPA.\n\nPercent who had GPA of 3.75 and higher           ___\nPercent who had GPA between 3.50 and 3.74        ___\nPercent who had GPA between 3.25 and 3.49        ___\nPercent who had GPA between 3.00 and 3.24        ___\nPercent who had GPA between 2.50 and 2.99        ___\nPercent who had GPA between 2.00 and 2.49        ___\nPercent who had GPA between 1.00 and 1.99        ___\nPercent who had GPA below 1.00                   ___\n\n                                                100%"
+    },
+    "C12": {
+      "label": ". Average high school GPA of all degree-seeking, first-time, first-year (freshman)",
+      "raw_text": "C12. Average high school GPA of all degree-seeking, first-time, first-year (freshman)\nstudents who submitted GPA: ___\nPercent of total first-time, first-year (freshman) students who submitted high school GPA: ___%\n\nAdmission Policies\n\fC13. Application fee\nDoes your institution have an application fee? _X_Yes ___No\nAmount of application fee: $75\nCan it be waived for applicants with financial need? _X_Yes ___No\n\nIf you have an application fee and an on-line application option, please indicate policy for students\nwho apply on-line:\nSame fee: _X_\nFree: ___\nReduced: ___\n\nCan on-line application fee be waived for applicants with financial need? _X_Yes ___No"
+    },
+    "C14": {
+      "label": ". Application closing date",
+      "raw_text": "C14. Application closing date\nDoes your institution have an application closing date? _X_Yes ___No\nApplication closing date (fall): Jan. 1\nPriority date: ___"
+    },
+    "C15": {
+      "label": ". Are first-time, first-year students accepted for terms other than the fall? ___Yes",
+      "raw_text": "C15. Are first-time, first-year students accepted for terms other than the fall? ___Yes\n_X_No"
+    },
+    "C16": {
+      "label": ". Notification to applicants of admission decision sent (fill in one only)",
+      "raw_text": "C16. Notification to applicants of admission decision sent (fill in one only)\nOn a rolling basis beginning (date): ___\nBy (date): Mar. 20\nOther: ___"
+    },
+    "C17": {
+      "label": ". Reply policy for admitted applicants (fill in one only)",
+      "raw_text": "C17. Reply policy for admitted applicants (fill in one only)\nMust reply by (date): ___\nNo set date: ___\nMust reply by May 1 or within 2 weeks if notified thereafter\nOther: ___\n\nDeadline for housing deposit (MMDD): __________\nAmount of housing deposit: $0\nRefundable if student does not enroll?\n___ Yes, in full\n___ Yes, in part\n___ No"
+    },
+    "C18": {
+      "label": ". Deferred admission: Does your institution allow students to postpone enrollment after",
+      "raw_text": "C18. Deferred admission: Does your institution allow students to postpone enrollment after\nadmission?\n  _X_Yes ___No\nIf yes, maximum period of postponement: 2 years"
+    },
+    "C19": {
+      "label": ". Early admission of high school students: Does your institution allow high school students",
+      "raw_text": "C19. Early admission of high school students: Does your institution allow high school students\nto enroll as full-time, first-time, first-year (freshman) students one year or more before high school\ngraduation? _X_Yes ___No"
+    },
+    "C20": {
+      "label": ". Common application: Question removed from CDS.",
+      "raw_text": "C20. Common application: Question removed from CDS.\n\nEarly Decision and Early Action Plans\n\fC21. Early decision: Does your institution offer an early decision plan (an admission plan that\npermits students to apply and be notified of an admission decision well in advance of the regular\nnotification date and that asks students to commit to attending if accepted) for first-time, first-year\n(freshman) applicants for fall enrollment? ___Yes _X_No\n\nIf \"yes,\" please complete the following:\n\nFirst or only early decision plan closing date: ___\nFirst or only early decision plan notification date: ___\n\nOther early decision plan closing date: ___\nOther early decision plan notification date: ___\n\nFor the Fall 2009 entering class:\n\nNumber of early decision applications received by your institution: ___\nNumber of applicants admitted under early decision plan: ___\nPlease provide significant details about your early decision plan: ___"
+    },
+    "C22": {
+      "label": ". Early action: Do you have a nonbinding early action plan whereby students are notified of an",
+      "raw_text": "C22. Early action: Do you have a nonbinding early action plan whereby students are notified of an\nadmission decision well in advance of the regular notification date but do not have to commit to\nattending your college? _X_Yes ___No\n\nIf \"yes,\" please complete the following:\n\nEarly action closing date: Nov. 1\nEarly action notification date: Dec. 20\n\nIs your early action plan a \u201crestrictive\u201d plan under which you limit students from applying to other\nearly plans? ___Yes _X_No"
+    }
+  },
+  "D": {
+    "_section_label": "D. TRANSFER ADMISSION",
+    "D1": {
+      "label": ". Does your institution enroll transfer students? _X_Yes ___No",
+      "raw_text": "D1. Does your institution enroll transfer students? _X_Yes ___No\n(If no, please skip to Section E)\nIf yes, may transfer students earn advanced standing credit by transferring credits earned from\ncourse work completed at other colleges/universities?\n  _X_Yes ___No"
+    },
+    "D2": {
+      "label": ". Provide the number of students who applied, were admitted, and enrolled as degree-seeking",
+      "raw_text": "D2. Provide the number of students who applied, were admitted, and enrolled as degree-seeking\ntransfer students in fall 2009.\n\n                                  Admitted             Enrolled\n             Applicants\n                                 Applicants           Applicants\nMen               319                 15                   12\nWomen             82                  9                     9\nTotal             401                 24                   21\n\fApplication for Admission"
+    },
+    "D3": {
+      "label": ". Indicate terms for which transfers may enroll:",
+      "raw_text": "D3. Indicate terms for which transfers may enroll:\n\n_X_Fall ___Winter _X_Spring ___Summer"
+    },
+    "D4": {
+      "label": ". Must a transfer applicant have a minimum number of credits completed or else must apply as",
+      "raw_text": "D4. Must a transfer applicant have a minimum number of credits completed or else must apply as\nan entering freshman?\n__Yes _X_No\nIf yes, what is the minimum number of credits and the unit of measure? __"
+    },
+    "D5": {
+      "label": ". Indicate all items required of transfer students to apply for admission:",
+      "raw_text": "D5. Indicate all items required of transfer students to apply for admission:\n\n                                  Required Recommended Recommended Required  Not\n                                   of All      of All     of Some  of Some required\nHigh school transcript                 X\nCollege transcript(s)                  X\nEssay or personal statement            X\nInterview                                                                                           X\nStandardized test scores               X\nStatement of good standing\n                                       X\nfrom prior institution(s)"
+    },
+    "D6": {
+      "label": ". If a minimum high school grade point average is required of transfer applicants, specify (on a",
+      "raw_text": "D6. If a minimum high school grade point average is required of transfer applicants, specify (on a\n4.0 scale): n/a"
+    },
+    "D7": {
+      "label": ". If a minimum college grade point average is required of transfer applicants, specify (on a 4.0",
+      "raw_text": "D7. If a minimum college grade point average is required of transfer applicants, specify (on a 4.0\nscale): n/a"
+    },
+    "D8": {
+      "label": ". List any other application requirements specific to transfer applicants: See D17",
+      "raw_text": "D8. List any other application requirements specific to transfer applicants: See D17"
+    },
+    "D9": {
+      "label": ". List application priority, closing, notification, and candidate reply dates for transfer students. If",
+      "raw_text": "D9. List application priority, closing, notification, and candidate reply dates for transfer students. If\napplications are reviewed on a continuous or rolling basis, place a check mark in the \"Rolling\nadmission\"column.\n\n                                                Notification                         Rolling\n            Priority Date    Closing Date                         Reply Date\n                                                   Date                             Admission\nFall                             Mar. 15           May 1            Jun. 10\nWinter\nSpring                           Nov. 15          Dec. 15           Jan. 10\nSummer"
+    },
+    "D10": {
+      "label": ". Does an open admission policy, if reported, apply to transfer students? n/a ___Yes ___No",
+      "raw_text": "D10. Does an open admission policy, if reported, apply to transfer students? n/a ___Yes ___No\n\fD11. Describe additional requirements for transfer admission, if applicable: SAT Subject Tests in\nmath and science required.\n\n\nTransfer Credit Policies"
+    },
+    "D12": {
+      "label": ". Report the lowest grade earned for any course that may be transferred for credit: B",
+      "raw_text": "D12. Report the lowest grade earned for any course that may be transferred for credit: B"
+    },
+    "D13": {
+      "label": ". Maximum number of credits or courses that may be transferred from a two-year institution:",
+      "raw_text": "D13. Maximum number of credits or courses that may be transferred from a two-year institution:\nn/a\nNumber:___ Unit type: ___"
+    },
+    "D14": {
+      "label": ". Maximum number of credits or courses that may be transferred from a four-year institution:",
+      "raw_text": "D14. Maximum number of credits or courses that may be transferred from a four-year institution:\nn/a\nNumber:___ Unit type: ___"
+    },
+    "D15": {
+      "label": ". Minimum number of credits that transfers must complete at your institution to earn an",
+      "raw_text": "D15. Minimum number of credits that transfers must complete at your institution to earn an\nassociate degree: n/a"
+    },
+    "D16": {
+      "label": ". Minimum number of credits that transfers must complete at your institution to earn a",
+      "raw_text": "D16. Minimum number of credits that transfers must complete at your institution to earn a\nbachelor's degree: See D17"
+    },
+    "D17": {
+      "label": ". Describe other transfer credit policies:",
+      "raw_text": "D17. Describe other transfer credit policies:\nIn order to apply, applicant must have minimum of 2 semesters of college, but not more\nthan 5 semesters, at the time they would enroll. Transfer credit is assessed by each\nacademic department on a course by course basis. Enrolling transfer students are required\nto complete at least 3 semesters at MIT to earn a bachelors degree. For entry in the Spring\nsemester, only U.S. Citizens and Permanent Residents may apply. Applicants who are not\nU.S. Citizens or Permanent Residents must apply for entry in the Fall semester."
+    }
+  },
+  "E": {
+    "_section_label": "E. ACADEMIC OFFERINGS AND POLICIES",
+    "E1": {
+      "label": ". Special study options: Identify those programs available at your institution. Refer to the",
+      "raw_text": "E1. Special study options: Identify those programs available at your institution. Refer to the\nglossary for definitions.\n\n___ Accelerated program                     ___ Honors program\n_X_ Cooperative education program           ___ Independent study\n_X_ Cross-registration                      _X_ Internships\n___ Distance learning                       ___ Liberal arts/career combination\n_X_ Double major                            ___ Student-designed major\n___ Dual enrollment                         _X_ Study abroad\n___ English as a Second Language (ESL)      _X_ Teacher certification program\n___ Exchange student program (domestic)     ___ Weekend college\n___ External degree program\n_X_ Other (specify): Undergraduate Research Opportunities Program (UROP),\n    Independent Activities Period (IAP), Freshman Learning Communities\n\fE2. Has been removed from the CDS."
+    },
+    "E3": {
+      "label": ". Areas in which all or most students are required to complete some course work prior to",
+      "raw_text": "E3. Areas in which all or most students are required to complete some course work prior to\ngraduation:\n\n_X_ Arts/fine arts                       _X_ Humanities\n___ Computer literacy                    _X_ Mathematics\n___ English (including composition)      ___ Philosophy\n___ Foreign languages                    _X_ Sciences (biological or physical)\n___ History                              _X_ Social science\n_X_ Other (describe):\n    physical education requirement,\n    communication requirement,\n    laboratory requirement,\n    Restricted Electives in Science and Technology (REST) requirement\n\nLibrary Collections: The CDS publishers will collect library data again when a new\nAcademic Libraries Survey is in place."
+    }
+  },
+  "F": {
+    "_section_label": "F. STUDENT LIFE",
+    "F1": {
+      "label": ". Percentages of first-time, first-year (freshman) degree-seeking students and degree-",
+      "raw_text": "F1. Percentages of first-time, first-year (freshman) degree-seeking students and degree-\nseeking undergraduates enrolled in Fall 2009 who fit the following categories:\n\n                                                                 First-time, first-\n                                                                        year\n                                                                                    Undergraduates\n                                                                    (freshman)\n                                                                      students\nPercent who are from out of state\n(exclude international/nonresident aliens from the numerator            90              91\nand denominator)\nPercent of men who join fraternities                                    52              50\nPercent of women who join sororities                                    40              34\nPercent who live in college-owned, -operated, or -affiliated\n                                                                       100              92\nhousing\nPercent who live off campus or commute                                   0               8\nPercent of students age 25 and older                                     0               1\nAverage age of full-time students                                       18              20\nAverage age of all students (full- and part-time)                       18              20"
+    },
+    "F2": {
+      "label": ". Activities offered Identify those programs available at your institution.",
+      "raw_text": "F2. Activities offered Identify those programs available at your institution.\n\f_X_ Campus Ministries                      _X_ Literary magazine      _X_ Radio station\n_X_ Choral groups                          _X_ Marching band          _X_ Student government\n_X_ Concert band                           _X_ Model UN               _X_ Student newspaper\n_X_ Dance                                  _X_ Music ensembles        _X_ Student-run film society\n_X_ Drama/theater                          _X_ Musical theater        _X_ Symphony orchestra\n_X_ International Student Organization     ___ Opera                  _X_ Television station\n_X_ Jazz band                              ___ Pep band               _X_ Yearbook"
+    },
+    "F3": {
+      "label": ". ROTC (program offered in cooperation with Reserve Officers' Training Corps)",
+      "raw_text": "F3. ROTC (program offered in cooperation with Reserve Officers' Training Corps)\n\nArmy ROTC is offered:\n_X_ On campus\n___ At cooperating institution (name):\n\nNaval ROTC is offered:\n_X_ On campus\n___ At cooperating institution (name):\n\nAir Force ROTC is offered:\n_X_ On campus\n___ At cooperating institution (name):"
+    },
+    "F4": {
+      "label": ". Housing: Check all types of college-owned, -operated, or -affiliated housing available for",
+      "raw_text": "F4. Housing: Check all types of college-owned, -operated, or -affiliated housing available for\nundergraduates at your institution.\n\n_X_ Coed dorms                                _X_ Special housing for disabled students\n___ Men's dorms                               ___ Special housing for international students\n_X_ Women's dorms                             _X_ Fraternity/sorority housing\n_X_ Apartments for married students           _X_ Cooperative housing\n_X_ Apartments for single students            _X_ Theme housing\n                                              ___ Wellness housing\n_X_ Other housing options (specify):\n    Independent living group housing, housing for students with children, and living\n    learning communities available."
+    }
+  },
+  "G": {
+    "_section_label": "G. (?:ANNUAL EXPENSES|ANNUAL EXPENSE)",
+    "G1": {
+      "label": ". Undergraduate full-time tuition, required fees, room and board",
+      "raw_text": "G1. Undergraduate full-time tuition, required fees, room and board\nList the typical tuition, required fees, and room and board for a full-time undergraduate student for\nthe FULL 2010-2011 academic year (30 semester hours or 45 quarter hours for institutions that\nderive annual tuition by multiplying credit hour cost by number of credits). A full academic year\nrefers to the period of time generally extending from September to June; usually equated to two\nsemesters, two trimesters, three quarters, or the period covered by a four-one-four plan. Room and\nboard is defined as double occupancy and 19 meals per week or the maximum meal plan.\nRequired fees include only charges that all full-time students must pay that are not included in\ntuition (e.g., registration, health, or activity fees.) Do not include optional fees (e.g., parking,\nlaboratory use).\n\n                                         FIRST-YEAR UNDERGRADUATES\nPRIVATE INSTITUTION\n                                            38,940              38,940\nTuition:\nPUBLIC INSTITUTION\nTuition:\n In-District:\n  In-state (out-of-district):\n  Out-of-state:\nNONRESIDENT ALIENS\n                                            38,940              38,940\nTuition:\nREQUIRED FEES:                                272                272\nROOM AND BOARD (on-campus):                  11,234             11,234\nROOM ONLY: (on-campus)                       6,884              6,884\nBOARD ONLY: (on-campus meal plan)            4,350              4,350\n\nComprehensive tuition and room and board fee (if your college cannot provide separate tuition and\nroom and board fees): ___\n\nOther: ___"
+    },
+    "G2": {
+      "label": ". Number of credits per term a student can take for the stated full-time tuition:",
+      "raw_text": "G2. Number of credits per term a student can take for the stated full-time tuition:\n36 minimum no maximum"
+    },
+    "G3": {
+      "label": ". Do tuition and fees vary by year of study (e.g., sophomore, junior, senior)? ___Yes",
+      "raw_text": "G3. Do tuition and fees vary by year of study (e.g., sophomore, junior, senior)? ___Yes\n___No"
+    },
+    "G4": {
+      "label": ". If tuition and fees vary by undergraduate instructional program, describe briefly: ___",
+      "raw_text": "G4. If tuition and fees vary by undergraduate instructional program, describe briefly: ___"
+    },
+    "G5": {
+      "label": ". Provide the estimated expenses for a typical full-time undergraduate student:",
+      "raw_text": "G5. Provide the estimated expenses for a typical full-time undergraduate student:\n\n                                                Commuters Commuters\n                                       Residents (living at (not living\n                                                   home)     at home)\n\fBooks and supplies:                   1,050\nRoom only:\nBoard only:\nRoom and board total (if your\ncollege cannot provide separate\nroom and board figures for\ncommuters not living at home):\nTransportation:\nOther expenses:                       1,714"
+    },
+    "G6": {
+      "label": ". Undergraduate per-credit-hour charges (tuition only):",
+      "raw_text": "G6. Undergraduate per-credit-hour charges (tuition only):\n\nPRIVATE INSTITUTIONS: $605\nPUBLIC INSTITUTIONS:\n In-district:\n  In-state (out-of-district):\n  Out-of-state:\nNONRESIDENT ALIENS:"
+    }
+  },
+  "H": {
+    "_section_label": "H. FINANCIAL AID",
+    "H1": {
+      "label": ". Enter total dollar amounts awarded to enrolled full-time and less-than-full-time degree-seeking",
+      "raw_text": "H1. Enter total dollar amounts awarded to enrolled full-time and less-than-full-time degree-seeking\nundergraduates (using the same cohort reported in CDS Question B1, \"total degree-\nseeking\"undergraduates) in the following categories. (Note: If the data being reported are final\nfigures for the 2008-2009 academic year (see the next item below), use the 2008-2009 academic\nyear's CDS Question B1 cohort.) Include aid awarded to international students (i.e., those not\nqualifying for federal aid). Aid that is non-need-based but that was used to meet need should\nbe reported in the need-based aid columns. (For a suggested order of precedence in\nassigning categories of aid to cover need, see the entry for \"non-need-based scholarship or\ngrant aid\"on the last page of the definitions section.)\n\nIndicate the academic year for which data are reported for items H1, H2, H2A, and H6 below:\n__2009-2010 estimated or _X_2008-2009 final\n\nWhich needs-analysis methodology does your institution use in awarding institutional aid?\n\n___ Federal methodology (FM)\n___ Institutional methodology (IM)\n_X_ Both FM and IM\n\n\n                                                                                   Non-need-\n\f                                                                Need-based            based\n                                                                (Include non-      (Exclude non-\n                                                               need-based aid     need-based aid\n                                                                 use to meet        use to meet\n                                                                    need.)            need.)\n\n\n\n                                                                     $                  $\n\nScholarships/Grants\nFederal                                                             5,445,277          1,183,049\nState (i.e., all states, not only the state in which your\n                                                                      264,430               7,624\ninstitution is located)\nInstitutional: Endowed scholarships, annual gifts and\ntuition funded grants, awarded by the college, excluding           73,421,783                  0\nathletic aid and tuition waivers (which are reported below).\nScholarships/grants from external sources (e.g., Kiwanis,\n                                                                    3,821,422          3,451,338\nNational Merit) not awarded by the college\nTotal Scholarships/Grants                                          82,952,912          4,642,011\nSelf-Help\nStudent loans from all sources (excluding parent loans)             3,759,807          7,209,193\nFederal Work-Study                                                  1,293,229\nState and other (e.g., institutional) work-study/employment\n                                                                    1,700,580            632,329\n(Note: Exclude Federal Work-Study captured above.)\nTotal Self-Help                                                     6,753,616          7,841,522\nParent Loans                                                             65,683        4,354,824\nTuition Waivers\nNote: Reporting is optional. Report tuition waivers in this\n                                                                             0                 0\nrow if you choose to report them. Do not report tuition\nwaivers elsewhere.\nAthletic Awards                                                              0                 0"
+    },
+    "H2": {
+      "label": ". Number of Enrolled Students Awarded Aid: List the number of degree-seeking full-time and",
+      "raw_text": "H2. Number of Enrolled Students Awarded Aid: List the number of degree-seeking full-time and\nless-than-full-time undergraduates who applied for and were awarded financial aid from any\nsource. Aid that is non-need-based but that was used to meet need should be counted as\nneed-based aid. Numbers should reflect the cohort awarded the dollars reported in H1. Note: In\nthe chart below, students may be counted in more than one row, and full-time freshmen should\nalso be counted as full-time undergraduates.\n\n                                                                           Full-time\n\f                                                               First-time Undergrad Less Than\n                                                                Full-time   (Incl.   Full-time\n                                                               Freshman    Fresh)   Undergrad\n\na) Number of degree-seeking undergraduate students (CDS\n                                                                 1051       4138        74\nItem B1 if reporting on Fall 2009 cohort)\nb) Number of students in line a who applied for need-based\n                                                                  834       3040        69\nfinancial aid\nc) Number of students in line b who were determined to\n                                                                  673       2529        57\nhave financial need\nd) Number of students in line c who were awarded any\n                                                                  673       2529        57\nfinancial aid\ne) Number of students in line d who were awarded any\n                                                                  663       2470        52\nneed-based scholarship or grant aid\nf) Number of students in line d who were awarded any\n                                                                  418       1773        42\nneed-based self-help aid\ng) Number of students in line d who were awarded any non-\n                                                                  30         74          4\nneed-based scholarship or grant aid\nh) Number of students in line d whose need was fully met\n(exclude PLUS loans, unsubsidized loans, and private              673       2529        57\nalternative loans)\ni) On average, the percentage of need that was met of\nstudents who were awarded any need-based aid. Exclude\nany aid that was awarded in excess of need as well as any        100%      100%        100%\nresources that were awarded to replace EFC (PLUS loans,\nunsubsidized loans, and private alternative loans)\nj) The average financial aid package of those in line d.\nExclude any resources that were awarded to replace EFC\n                                                               $ 35,919   $ 35,202   $ 23,870\n(PLUS loans, unsubsidized loans, and private alternative\nloans)\nk) Average need-based scholarship or grant award of those\n                                                               $ 34,136   $ 33,112   $ 22,447\nin line e\nl) Average need-based self-help award (excluding PLUS\nloans, unsubsidized loans, and private alternative loans) of    $ 2,430   $ 3,066     $ 5,456\nthose in line f\nm) Average need-based loan (excluding PLUS loans,\nunsubsidized loans, and private alternative loans) of those     $ 2,127   $ 3,010     $ 4,797\nin line f who were awarded a need-based loan"
+    },
+    "H2A": {
+      "label": ". Number of Enrolled Students Awarded Non-need-based Scholarships and Grants: List",
+      "raw_text": "H2A. Number of Enrolled Students Awarded Non-need-based Scholarships and Grants: List\nthe number of degree-seeking full-time and less-than-full-time undergraduates who had no\nfinancial need and who were awarded institutional non-need-based scholarship or grant aid.\nNumbers should reflect the cohort awarded the dollars reported in H1. Note: In the chart below,\nstudents may be counted in more than one row, and full-time freshmen should also be counted as\nfull-time undergraduates.\n\f                                                                            Full-time\n                                                                First-time            Less Than\n                                                                           Undergrad\n                                                                 Full-time             Full-time\n                                                                              (Incl.\n                                                                Freshman              Undergrad\n                                                                             Fresh)\nn) Number of students in line a who had no financial need\nand who were awarded institutional non-need-based\n                                                                     0            0            0\nscholarship or grant aid (exclude those who were awarded\nathletic awards and tuition benefits)\no) Average dollar amount of institutional non-need-based\n                                                                     0            0            0\nscholarship and grant aid awarded to students in line n\np) Number of students in line a who were awarded an\n                                                                     0            0            0\ninstitutional non-need-based athletic scholarship or grant\nq) Average dollar amount of institutional non-need-based\nathletic scholarships and grants awarded to students in line         0            0            0\np\n\nNote: These are the graduates and loan types to include and exclude in order to fill out CDS H4,\nH4a, H5 and H5a.\n\nInclude:\n\n     2009 undergraduate class who graduated between July 1, 2008 and June 30, 2009 who\n     started at your institution as first- time students and received a bachelor's degree between\n     July 1, 2008 and June 30, 2009.\n     only loans made to students who borrowed while enrolled at your institution.\n     co-signed loans.\n\nExclude:\n\n     those who transferred in.\n     money borrowed at other institutions."
+    },
+    "H4": {
+      "label": ". Provide the percentage of the class (defined above) who borrowed at any time through any",
+      "raw_text": "H4. Provide the percentage of the class (defined above) who borrowed at any time through any\nloan programs (institutional, state, Federal Perkins, Federal Stafford Subsidized and Unsubsidized,\nprivate loans that were certified by your institution, etc.; exclude parent loans). Include both\nFederal Direct Student Loans and Federal Family Education Loans. 45%\n\nH4a. Provide the percentage of the class (defined above) who borrowed at any time through\nfederal loan programs--Federal Perkins, Federal Stafford Subsidized and Unsubsidized. Include\nboth Federal Direct Student Loans and Federal Family Education Loans. NOTE: exclude all\ninstitutional, state, private alternative loans and parent loans. 40%\nH4. $15,043\n\nH5a. Report the average per-undergraduate-borrower cumulative principal borrowed, of those in\nH4a, through federal loan programs--Federal Perkins, Federal Stafford Subsidized and\nUnsubsidized. Include both Federal Direct Student Loans and Federal Family Education Loans.\nThese are listed in line H4a.. NOTE: exclude all institutional, state, private alternative loans and\n\fexclude parent loans. $11,554\n\nAid to Undergraduate Degree-seeking Nonresident Aliens (Note: Report numbers and dollar\namounts for the same academic year checked in item H1.)"
+    },
+    "H5": {
+      "label": ". Report the average per-undergraduate-borrower cumulative principal borrowed of those in line",
+      "raw_text": "H5. Report the average per-undergraduate-borrower cumulative principal borrowed of those in line"
+    },
+    "H6": {
+      "label": ". Indicate your institution's policy regarding institutional scholarship or grant aid for",
+      "raw_text": "H6. Indicate your institution's policy regarding institutional scholarship or grant aid for\nundergraduate degree-seeking nonresident aliens:\n\n_X_ Institutional need-based scholarship or grant aid is available\n___ Institutional non-need-based scholarship or grant aid is available\n___ Institutional scholarship and grant aid is not available\n\nIf institutional financial aid is available for undergraduate degree-seeking nonresident aliens,\nprovide the number of undergraduate degree-seeking nonresident aliens who were awarded need-\nbased or non-need-based aid: 301\n\nAverage dollar amount of institutional financial aid awarded to undergraduate degree-seeking\nnonresident aliens: $40,972\n\nTotal dollar amount of institutional financial aid awarded to undergraduate degree-seeking\nnonresident aliens: $12,332,659"
+    },
+    "H7": {
+      "label": ". Check off all financial aid forms nonresident alien first-year financial aid applicants must",
+      "raw_text": "H7. Check off all financial aid forms nonresident alien first-year financial aid applicants must\nsubmit:\n\n___ Institution's own financial aid form\n___ CSS/Financial Aid PROFILE\n_X_ International Student's Financial Aid Application\n___ International Student's Certification of Finances\n_X_ Other: Equivalent of parent's complete federal income tax returns.\n\nProcess for First-Year/Freshman Students"
+    },
+    "H8": {
+      "label": ". Check off all financial aid forms domestic first-year (freshman) financial aid applicants must",
+      "raw_text": "H8. Check off all financial aid forms domestic first-year (freshman) financial aid applicants must\nsubmit:\n\n_X_ FAFSA\n___ Institution's own financial aid form\n_X_ CSS/Financial Aid PROFILE\n___ State aid form\n_X_ Noncustodial PROFILE\n_X_ Business/Farm Supplement\n_X_ Other: Parent's complete federal income tax returns form prior year and W2s."
+    },
+    "H9": {
+      "label": ". Indicate filing dates for first-year (freshman) students:",
+      "raw_text": "H9. Indicate filing dates for first-year (freshman) students:\n\nPriority date for filing required financial aid forms: Feb. 15\n\fDeadline for filing required financial aid forms: Feb. 15\nNo deadline for filing required forms (applications processed on a rolling basis): ___"
+    },
+    "H10": {
+      "label": ". Indicate notification dates for first-year (freshman) students (answer a or b):",
+      "raw_text": "H10. Indicate notification dates for first-year (freshman) students (answer a or b):\na) Students notified on or about (date): April 1\nb) Students notified on a rolling basis: ___Yes _X_No If yes, starting date: ___"
+    },
+    "H11": {
+      "label": ". Indicate reply dates:",
+      "raw_text": "H11. Indicate reply dates:\nStudents must reply by (date): May 1\nor within ___ weeks of notification.\n\nTypes of Aid Available\n\nPlease check off all types of aid available to undergraduates at your institution:"
+    },
+    "H12": {
+      "label": ". Loans",
+      "raw_text": "H12. Loans\n\nFEDERAL DIRECT STUDENT LOAN PROGRAM (DIRECT LOAN)\n\n_X_ Direct Subsidized Stafford Loans\n_X_ Direct Unsubsidized Stafford Loans\n_X_ Direct PLUS Loans\n\nFEDERAL FAMILY EDUCATION LOAN PROGRAM (FFEL)\n\n___ FFEL Subsidized Stafford Loans\n___ FFEL Unsubsidized Stafford Loans\n___ FFEL PLUS Loans\n\n\n_X_ Federal Perkins Loans\n___ Federal Nursing Loans\n___ State Loans\n_X_ College/university loans from institutional funds\n___ Other (specify): ___"
+    },
+    "H13": {
+      "label": ". Scholarships and Grants",
+      "raw_text": "H13. Scholarships and Grants\n\nNeed-Based:\n_X_ Federal Pell\n_X_ SEOG\n_X_ State scholarships/grants\n_X_ Private scholarships\n_X_ College/university scholarship or grant aid from institutional funds\n___ United Negro College Fund\n___ Federal Nursing Scholarship\n\f___ Other (specify): ___"
+    },
+    "H14": {
+      "label": ". Check off criteria used in awarding institutional aid. Check all that apply.",
+      "raw_text": "H14. Check off criteria used in awarding institutional aid. Check all that apply.\n\nNon-need Need-based                              Non-need Need-based\n    ___          ___       Academics               ___          ___      Leadership\n    ___          ___       Alumni affiliations     ___          ___      Minority status\n    ___          ___       Art                     ___          ___      Music/drama\n    ___          ___       Athletics               ___          ___      Religious affiliation\n    ___          ___       Job skills              ___          ___      State/district residency\n    ___                    ROTC"
+    },
+    "H15": {
+      "label": ". If your institution has recently implemented any major financial aid policy, program, or",
+      "raw_text": "H15. If your institution has recently implemented any major financial aid policy, program, or\ninitiative to make your institution more affordable to incoming students such as replacing loans with\ngrants, or waiving costs for families below a certain income level please provide details below:\n\n2008-2009 academic year: For families with a calculated income < $75,000, self-help is\n$2,850. For those with a calculated income >= $75,000, self-help is $4,750."
+    }
+  },
+  "I": {
+    "_section_label": "I. INSTRUCTIONAL FACULTY AND CLASS SIZE"
+  },
+  "J": {
+    "_section_label": "J. DEGREES? CONFERRED"
+  }
+}

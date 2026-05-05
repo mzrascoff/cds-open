@@ -1,0 +1,1545 @@
+    Common Data Set
+      2023‐2024
+               Revised 26Jun2024
+
+1
+A. GENERAL INFORMATION
+A0. Respondent Informa on (Not for Publica on)
+Name                 Cathleen Kisak
+
+Title                Research Designer and Analyst
+
+Oﬃce                 Ins tu onal Research and Analysis
+
+Mailing Address      5000 Forbes Avenue, UTDC Building, Pi sburgh, PA 15213
+
+Phone                412‐268‐7546
+
+Fax                  N/A
+
+E‐mail Address       ckisak@andrew.cmu.edu
+
+
+
+
+A1. Address Informa on
+Name of College or University           Carnegie Mellon University
+Mailing Address                         5000 Forbes Avenue, Pi sburgh, PA 15213
+Street Address                          same as mailing address
+Main Phone Number                       412‐268‐2000
+WWW Home Page Address                   h p://www.cmu.edu
+Admissions Phone Number                 412‐268‐2082
+Admissions Toll‐free Number
+
+Admissions Oﬃce Mailing Address         Carnegie Mellon Oﬃce of Admission, 5000 Forbes Avenue, Pi sburgh, PA 15213
+Admissions Fax Number                   412‐268‐7838
+Admissions E‐mail Address               admission@andrew.cmu.edu
+Separate URL for online applica on:     admission.enrollment.cmu.edu/pages/apply‐now
+
+
+A2. Source of ins tu onal control:
+
+        Private (nonprofit)
+
+A3. Classify your undergraduate ins tu on:
+
+        Coeduca onal college
+
+A4. Academic year calendar:
+
+        Semester
+
+A5. Degrees oﬀered by your ins tu on:
+
+        Bachelor’s                          Post‐bachelor’s cer ficate                      Master’s
+
+        Post‐master’s cer ficate            Doctoral degree—research/scholarship
+
+A6. Diversity, Equity, and Inclusion Web Page:
+h ps://www.cmu.edu/diversity/
+
+                                   CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                             2
+B. ENROLLMENT AND PERSISTENCE
+                                                                                         FULL‐TIME                               PART‐TIME
+B1. Ins tu onal Enrollment ‐ Men and Women, as of October 15, 2023
+                                                                                   Men               Women                     Men              Women
+ Undergraduates
+                                                                                       874                834                        0                 0
+ Degree‐seeking, first‐ me first‐year (Pi sburgh campus)
+
+
+ Degree‐seeking, first‐ me first‐year (Doha campus)                                    52                   63                       0                 0
+ Other first‐year, degree‐seeking                                                      11                   11                       0                 0
+
+ All other degree‐seeking                                                          2,754                2,846                    76                   83
+
+ Total degree‐seeking                                                              3,691                3,754                    76                   83
+ All other undergraduates enrolled in credit courses                                     0                    0                  70                   33
+ Total Undergraduates                                                              3,691                3,754                   146                 116
+ Graduate
+ Degree‐seeking, first‐ me                                                         1,858                1,267                   157                   99
+ All other degree‐seeking                                                          2,866                1,749                   358                 188
+ All other graduates enrolled in credit courses                                        24                   24                   19                   19
+ Total graduate                                                                    4,748                3,040                   534                 306
+                                                                                   8,439                6,794                   680                 422
+ TOTAL ALL STUDENTS
+Total all undergraduates:        7,707                 Total all graduate: 8,628                 GRAND TOTAL ALL STUDENTS: 16,335
+B2. Enrollment by Racial/Ethnic Category
+                                                                    Degree‐seeking               Degree‐seeking                          Total
+                                                                 First‐ me First‐year,           Undergraduates                      Undergraduates
+                                                                    Pi sburgh Campus         (include first‐ me first‐year),          (both degree– and
+                                                                                                     All Campuses                    non‐degree‐seeking),
+                                                                                                                                        All Campuses
+
+Interna onal (nonresident )                                                     276                               1,767                          1,786
+Hispanic/La no                                                                  203                                 777                            783
+Black or African‐American, non‐Hispanic                                          77                                 305                            308
+White, non‐Hispanic                                                             365                               1,564                          1,590
+American Indian or Alaska Na ve, non‐Hispanic                                      0                                   2                              2
+Asian, non‐Hispanic                                                             603                               2,415                          2,424
+Na ve Hawaiian or other Pacific Islander, non‐Hispanic                             0                                   3                              3
+Two or more races, non‐Hispanic                                                  98                                 389                            390
+Race and/or ethnicity unknown                                                    86                                 382                            421
+Total                                                                         1,708                               7,604                          7,707
+
+B3. Number of degrees awarded by your ins tu on from July 1, 2022 to June 30, 2023
+Cer ficate/diploma                                              Post‐master’s cer ficates                                                                   7
+
+Bachelor’s degrees                                1,624         Doctoral degrees—research/scholarship                                                  332
+Postbachelor’s cer ficates                          69          Doctoral degrees—professional prac ce
+Master’s degrees                              4,339        Doctoral degrees—other
+                                      CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                                3
+B. ENROLLMENT AND PERSISTENCE (con nued)
+Gradua on Rates
+The items in this sec on correspond to data elements collected by the IPEDS Web‐based Data Collec on System’s Gradua on Rate
+Survey (GRS). For Bachelor’s or Equivalent Programs: Report for the cohort of full‐ me first‐ me bachelor’s (or equivalent) degree
+‐seeking undergraduate students who entered in Fall 2017. Include in the cohort those who entered your ins tu on during the
+summer term preceding Fall 2017.
+
+                                                                                      Recipients of a   Students who
+                                                                                        Subsidized      did not receive
+                                                                      Recipients of a
+                                                                                      Staﬀord Loan        either a Pell
+                                                                       Federal Pell                                          Total
+                                                                                        who did not        Grant or a
+                                                                          Grant
+                                                                                       receive a Pell      subsidized
+                                                                                           Grant         Staﬀord Loan
+A.                 Ini al 2017 cohort of first‐ me, full‐ me
+(Former B4)        bachelor’s (or equivalent) degree‐seeking                 247              341             1,088          1,676
+                   undergraduate students:
+B.                 Of the ini al 2017 cohort, how many did not
+(Former B5)        persist and did not graduate for the following
+                   reasons:                                                     0               0                 5                5
+                    Death
+                    permanent disability
+                    armed forces
+                    foreign aid service of the federal government
+                    oﬃcial church mission
+                    Report total allowable exclusions:
+
+C.                 Final 2017 cohort, a er adjus ng for allowa‐
+(Former B6)        ble exclusions:                                           247              341             1,083          1,671
+
+D.                 Of the ini al 2017 cohort, how many com‐
+(Former B7)        pleted the program in four years or less                  177              283               862          1,322
+                   (by August 31, 2020):
+
+E.                 Of the ini al 2017 cohort, how many com‐
+(Former B8)        pleted the program in more than four years
+                                                                              35               35               123           193
+                   but in five years or less
+                   (a er August 31, 2020 and by August 31, 2021):
+
+F.                 Of the ini al 2017 cohort, how many com‐
+(Former B9)        pleted the program in more than five years
+                                                                                7               3                21               31
+                   but in six years or less
+                   (a er August 31, 2021 and by August 31, 2022):
+
+G.                 Total gradua ng within six years
+                                                                             219              321             1,006          1,546
+(Former B10)       (sum of lines D, E, and F):
+
+H.                 Six year gradua on rate for 2017 cohort
+                                                                           88.7%            94.1%            92.9%          92.5%
+(Former B11)       (G divided by C):
+
+
+Reten on Rates
+B22. For the cohort of all full‐ me bachelor’s (or equivalent) degree‐seeking undergraduate students who
+     entered your ins tu on as freshmen in Fall 2022 (or the preceding summer term), what percentage
+                                                                                                                          97.0%
+     was enrolled at your ins tu on as of the date your ins tu on calculates its oﬃcial enrollment in Fall
+     2023? The ini al cohort may be adjusted for allowable exclusions.
+
+
+                                   CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                             4
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS
+Applica ons
+C1. First‐ me, first‐year (freshman) students:
+Provide the number of degree‐seeking, first‐ me, first‐year students who applied, were admi ed, and enrolled (full‐ or part‐ me)
+in Fall 2023. Include early decision, early ac on, and students who began studies during summer in this cohort. Applicants should
+include only those students who fulfilled the requirements for considera on for admission (i.e., who completed ac onable applica‐
+  ons) and who have been no fied of one of the following ac ons: admission, non‐admission, placement on wai ng list, or applica‐
+  on withdrawn (by applicant or ins tu on). Admi ed applicants should include wait‐listed students who were subsequently
+oﬀered admission. Since the total may include students who did not provide gender data, the detail need not sum to the total.
+
+
+
+
+                                                                                    Men            Women            Total
+
+
+Total first‐ me, first‐year (freshman) who applied:                                  20,091           13,616          33,707
+
+Total first‐ me, first‐year (freshman) who were admi ed:                               1,850           1,993           3,843
+
+Total full‐ me, first‐ me, first‐year (freshman) who enrolled:                          874              834           1,708
+
+Total part‐ me, first‐ me, first‐year (freshman) who enrolled:                             0               0                0
+
+
+
+
+C2. First‐ me, first‐year (freshman) wait‐listed students:
+Students who met admission requirements but whose final admission was con ngent on space availability
+
+Do you have a policy of placing students on a wai ng list?                              Yes
+If yes, please answer the ques ons below for Fall 2023 admissions:
+
+Number of qualified applicants oﬀered a place on wai ng list:                         8,587
+
+Number of wait‐listed students who accepted a place on the list:                      5,106
+
+Number of wait‐listed students admi ed:                                                   75
+
+Is your wai ng list ranked?                                                              No
+
+If yes, do you release that informa on to students?                                     N/A
+
+Do you release that informa on to school counselors?                                    N/A
+
+
+
+
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                           5
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+Admission Requirements
+C3. High school comple on requirement
+Iden fy your high school comple on requirement for degree‐seeking entering students:
+
+High school diploma is required and GED is accepted
+
+
+C4. Does your ins tu on require or recommend a general college‐preparatory program for degree‐seeking students?
+Require
+
+
+C5. Distribu on of high school units required and/or recommended.
+Specify the distribu on of academic high school course units required and/or recommended of all or most degree‐seeking students
+using Carnegie units (one unit equals one year of study or its equivalent). If you use a diﬀerent system for calcula ng units, please
+convert.
+
+                                                                                         Units Required       Units Recommended
+
+Total academic units*
+
+English                                                                                           4                      4
+
+Mathema cs                                                                                        4                      4
+
+Science                                                                                           3                      3
+
+  Of these, units that must be lab
+
+Foreign language                                                                                  2                      2
+
+Social studies
+
+History
+
+Academic elec ves                                                                                 3                      3
+
+Computer science
+
+Visual/Performing arts
+
+Other
+
+*Average requirements stated above. Requirements vary by program—please reference the Carnegie Mellon Applica on Instruc‐
+  ons Booklet on the CMU admissions website for program‐specific requirements.
+
+
+Basis for Selec on
+C6. Do you have an open admission policy, under which virtually all secondary school graduates or students with
+   GED equivalency diplomas are admi ed without regard to academic record, test scores, or other qualifica ons?
+
+   No
+
+
+
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                           6
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+C7. Rela ve importance of each of the following academic and nonacademic factors in your first‐ me, first‐year,
+    degree‐seeking (freshmen) admission decisions.
+
+                                               Very important     Important       Considered       Not considered
+
+Academic
+
+  Rigor of secondary school record                   X
+
+  Class rank                                         X
+
+  Academic GPA                                       X
+
+  Standardized test scores                                                             X
+
+  Applica on essay                                                    X
+
+  Recommenda on(s)                                                    X
+
+Nonacademic
+
+  Interview                                                                                               X
+
+  Extracurricular ac vi es                           X
+
+  Talent/ability                                                      X
+
+  Character/personal quali es                        X
+
+  First genera on                                                     X
+
+  Alumni/ae rela on                                                                                       X
+
+  Geographical residence                                                               X
+
+  State residency                                                                                         X
+
+  Religious aﬃlia on/commitment                                                                           X
+
+  Volunteer work                                     X
+
+  Work experience                                                                      X
+
+  Level of applicant interest                                                                             X
+
+
+
+
+Please provide addi onal informa on if the importance of any specific academic or nonacademic factors diﬀer by
+academic program.
+
+
+                                CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                          7
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+SAT and ACT Policies
+
+C8. Entrance exams
+A. Does your ins tu on make use of SAT, ACT, or SAT Subject Test scores in admission decisions for first‐ me, first‐year, degree‐
+   seeking applicants? Yes
+
+     Reflect your ins tu on’s policies for use in admission for Fall 2023.
+
+                                                    Require       Recommend             Require          Consider if          Not
+                                                                                       for Some          Submi ed          Considered
+
+SAT or ACT                                                                                                    X
+ACT only
+SAT only
+
+
+
+
+                                                                                           SAT essay                   ACT essay
+For admission
+For placement
+For advising
+In place of an applica on essay
+As a validity check on the applica on essay
+No college policy as of now
+Not using essay component                                                                      X                           X
+
+
+
+D. In addi on, does your ins tu on use applicants’ test scores for academic advising? No
+
+
+E.   Latest date by which SAT or ACT scores must be received for fall‐term admission: December 1
+
+     Latest date by which SAT Subject Test scores must be received for fall‐term admission: December 1
+
+
+F.   If necessary, use this space to clarify your test policies (e.g., if tests are recommended for some students, or if tests are not
+     required of some students):
+
+
+
+
+G.    Please indicate which tests your ins tu on uses for placement (e.g., state tests):
+
+
+           SAT                                                X AP
+           ACT                                                  CLEP
+           SAT subject tests                                    Ins tu onal exam
+
+
+                                   CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                             8
+ C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+ Freshman Profile
+ C9. Percent and number of first‐ me, first‐year (freshman) students enrolled in Fall 2023 who submi ed na onal
+ standardized (SAT/ACT) test scores. Include informa on for all enrolled, degree‐seeking, first‐ me, first‐year
+ (freshman) students who submi ed their test scores.
+
+        Percent Submi ng         Number Submi ng
+ SAT            51.4%                   878
+ ACT            16.6%                   284
+
+
+
+
+                                              25th Percen le       50th Percen le              75th Percen le
+SAT Composite                                     1500                 1540                         1560
+SAT Evidence‐based Reading and                     730                  750                          770
+Wri ng
+SAT Math                                           770                  790                          800
+
+
+ACT Composite                                      34                   35                           35
+ACT Math                                           33                   35                           36
+ACT English                                        34                   35                           35
+ACT Wri ng
+ACT Science
+ACT Reading
+
+
+
+                                                                                Ques on C9 is con nued on the next page
+
+
+
+
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                           9
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+Freshman Profile
+C9 (con nued). Percent and number of first‐ me, first‐year (freshman) students enrolled in Fall 2023 who submi ed
+na onal standardized (SAT/ACT) test scores. Include informa on for all enrolled, degree‐seeking, first‐ me, first‐
+year (freshman) students who submi ed their test scores.
+
+
+Percent of first‐ me, first‐year (freshman) students with scores in each range:
+
+
+                                         SAT Composite
+
+
+1400‐1600                                    95.33%
+1200‐1399                                     4.33%
+1000‐1199                                     0.34%
+800‐999                                       0.00%
+600‐799                                       0.00%
+400‐599                                       0.00%
+
+
+
+
+                                  SAT Evidence‐based Reading                 SAT Math          SAT Wri ng
+
+
+700‐800                                      93.05%                               95.79%
+600‐699                                       6.72%                               3.42%
+500‐599                                       0.23%                               0.80%
+400‐499                                       0.00%                               0.00%
+300‐399                                       0.00%                               0.00%
+200‐299                                       0.00%                               0.00%
+
+
+
+
+                                         ACT Composite                       ACT English       ACT Math
+
+30‐36                                        97.89%                               97.89%         91.55%
+24‐29                                         1.76%                               2.11%          7.39%
+18‐23                                         0.35%                               0.00%          1.06%
+12‐17                                         0.00%                               0.00%          0.00%
+6‐11                                          0.00%                               0.00%          0.00%
+Below 6                                       0.00%                               0.00%          0.00%
+
+
+
+
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                          10
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+C10. Percent of all degree‐seeking, first‐ me, first‐year (freshman) students who had high school class rank within
+     each of the following ranges (report informa on for those students from whom you collected high school rank
+     informa on).
+Percent in top tenth of high school gradua ng class                            92.2%
+Percent in top quarter of high school gradua ng class                          99.5%
+Percent in top half of high school gradua ng class                             99.5%
+                                                                                           Top half + bo om half = 100%
+Percent in bo om half of high school gradua ng class                           0.5%
+Percent in bo om quarter of high school gradua ng class                        0.2%
+Percent of total first‐ me, first‐year (freshman) students who submi ed        57.4%
+high school class rank:
+
+
+
+C11. Percentage of all enrolled, degree‐seeking, first‐ me, first‐year (freshman) students who had high school grade‐
+     point averages within each of the following ranges (using 4.0 scale). Report informa on only for those students
+     from whom you collected high school GPA.
+Percent who had GPA of 4.0                                        48.9%
+Percent who had GPA of between 3.75 and 3.99                      40.9%
+Percent who had GPA between 3.50 and 3.74                           7.2%
+Percent who had GPA between 3.25 and 3.49                           2.3%
+Percent who had GPA between 3.00 and 3.24                           0.4%
+Percent who had GPA between 2.50 and 2.99                           0.4%
+Percent who had GPA between 2.0 and 2.49                            0.0%
+Percent who had GPA between 1.0 and 1.99                            0.0%
+Percent who had GPA below 1.0                                       0.0%
+
+
+
+C12. High school GPA of all degree‐seeking, first‐ me, first‐year (freshman) students:
+
+Average high school GPA of all degree‐seeking, first‐ me, first‐year (freshman) students who submi ed GPA                 3.91
+Percent of total first‐ me, first‐year (freshman) students who submi ed high school GPA:                                  100%
+
+
+Admission Policies
+
+C13. Applica on fee
+Does your ins tu on have an applica on fee? Yes
+
+Amount of applica on fee: $75
+
+Can it be waived for applicants with financial need? Yes
+
+If you have an applica on fee and an on‐line applica on op on, please indicate policy for students who apply online: Same fee
+
+Can on‐line applica on fee be waived for applicants with financial need? Yes
+
+
+
+                                  CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                           11
+C. FIRST‐TIME, FIRST‐YEAR (FRESHMAN) ADMISSION—PITTSBURGH CAMPUS (con nued)
+C14. Applica on closing date
+Does your ins tu on have an applica on closing date? Yes
+
+Applica on closing date (fall): January 1 (December 1 for Drama and Music)
+
+Priority date:
+
+C15. Are first‐ me, first‐year students accepted for terms other than the fall? No
+
+C16. No fica on to applicants of admission decision sent: By April 1
+
+C17. Reply policy for admi ed applicants
+Must reply by May 1
+
+Housing deposit deadline and amount: May 31 — $800 (not refundable if student does not enroll)
+
+
+C18. Deferred admission
+Does your ins tu on allow students to postpone enrollment a er admission? Yes
+
+If yes, maximum period of postponement? One year
+
+C19. Early admission of high school students:
+Does your ins tu on allow high school students to enroll as full‐ me, first‐ me, first‐year (freshman) students one year or more
+before high school gradua on? Yes
+
+Early Decision and Early Ac on Plans
+
+C21. Early decision:
+Does your ins tu on oﬀer an early decision plan (an admission plan that permits students to apply and be no fied of an admission
+decision well in advance of the regular no fica on date and that asks students to commit to a ending if accepted) for first‐ me,
+first‐year (freshman) applicants for fall enrollment? Yes
+
+
+First or only early decision plan closing date:      November 1 (not available for Ac ng, Direc ng, Dramaturgy, Music Theater,
+                                                                  or School of Music)
+First or only early decision plan no fica on date:   December 15 (admi ed applicants must reply by February 1)
+
+Other early decision plan closing date:
+Other early decision plan no fica on date:
+
+
+For the Fall 2023 entering class:
+
+Number of early decision applica ons received by your ins tu on:     4,515
+
+Number of applicants admi ed under early decision plan:                615
+
+
+
+C22. Early ac on:
+Do you have a nonbinding early ac on plan whereby students are no fied of an admission decision well in advance of the regular
+no fica on date but do not have to commit to a ending your college? No
+
+
+                                    CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                             12
+D. TRANSFER ADMISSION
+Fall Applicants
+
+D1. Does your ins tu on enroll transfer students?
+Yes
+‐ If yes, may transfer students earn advanced standing credit by transferring credits from course work completed at
+  other colleges/universi es? Yes
+D2. Provide the number of students who applied, were admi ed, and enrolled as degree‐seeking transfer students
+    in Fall 2023.
+                                            Applicants                  Admi ed Applicants                Enrolled Applicants
+Men                                            977                               47                               22
+Women                                          481                               38                               17
+Another Gender                                  49                                2                                2
+Total                                         1,507                              87                               41
+Applica on for Admission
+
+D3. Indicate terms for which transfers may enroll:
+Fall, Spring (depending on college)
+
+
+D4. Must a transfer applicant have a minimum number of credits completed or else must apply as an entering
+    freshman?
+No
+
+
+D5. Indicate all items required of transfer students to apply for admission:
+                                                            Required    Recommended        Recommended       Required       Not
+                                                             of All         of All            of Some        of Some      Required
+
+High school transcript                                          X
+College transcript(s)                                           X
+Essay or personal statement                                     X
+Interview                                                                                                                       X
+Standardized test scores                                                                                                        X
+Statement of good standing from prior ins tu on(s)                                                                              X
+
+
+D6. If a minimum high school grade point average is required of transfer applicants, specify (on a 4.0 scale):
+
+
+D7. If a minimum college grade point average is required of transfer applicants, specify (on a 4.0 scale):
+
+
+D8. List any other applica on requirements specific to transfer applicants:
+Transfer applicants must submit a college transcript in addi on to a high school transcript, and email a copy of course descrip ons
+from a college catalog from each college/university a ended. A recommenda on from a professor or advisor should be submi ed
+in place of a college counselor recommenda on. The College Report (a Common Applica on form) is also required from the
+current academic ins tu on.
+
+                                  CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                           13
+D. TRANSFER ADMISSION (con nued)
+D9. List applica on priority, closing, no fica on, and candidate reply dates for transfer students. If applica ons are
+    reviewed on a con nuous or rolling basis, place a check mark in the “Rolling admission” column.
+
+
+                         Priority Date          Closing Date        No fica on Date          Reply Date        Rolling Admission
+Fall                                         February 15            May 15 (April 15 for June 1 (May 1 for
+                                             (December 1 for        CFA)                 CFA)
+                                             performing arts;
+                                             January 1 for visual
+                                             arts)
+Winter
+Spring                                       October 15             December 15          January 1
+
+Summer
+
+D10. Does an open admission policy, if reported, apply to transfer students?
+
+
+D11. Describe addi onal requirements for transfer admission, if applicable:
+Transfer applicants must submit a college transcript in addi on to a high school transcript and email a copy of course descrip ons
+from a college catalog from each college/university a ended. A recommenda on from a professor or advisor should be submi ed
+in place of a college counselor recommenda on. The College Report (a Common Applica on form) is also required from the cur‐
+rent academic ins tu on.
+
+Transfer Credit Policies
+
+
+ D12. Report the lowest grade earned for any course that may be transferred for credit:
+
+
+
+D13. Maximum number of credits that transfers must complete at your ins tu on to earn an associate degree:
+
+
+D14. Maximum number of credits that transfers must complete at your ins tu on to earn a bachelor’s degree:
+
+
+
+D15. Minimum number of credits that transfers must complete at your ins tu on to earn an associate degree:
+
+
+D16. Minimum number of credits that transfers must complete at your ins tu on to earn a bachelor’s degree:
+
+
+
+
+D17. Describe other transfer credit policies:
+
+Transfer credit evaluated on an individual basis and varies by college.
+
+
+
+
+                                  CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                           14
+D. TRANSFER ADMISSION (con nued)
+D18. Does your ins tu on accept the following military/veteran transfer credits:
+
+                                                                                     Yes       No
+American Council on Educa on (ACE)                                                             X
+
+College Level Examina on Program (CLEP)                                                        X
+
+DANTES Subject Standardized Tests (DSST)                                                       X
+
+
+
+D19.
+
+                                                                                   Number   Unit Type
+Maximum number of credits or courses that may be transferred based on mili‐          N/A      N/A
+tary educa on evaluated by the American Council on Educa on (ACE)
+
+
+
+D20.
+
+                                                                                   Number   Unit Type
+Maximum number of credits or courses that may be transferred based on De‐            N/A      N/A
+partment of Defense supported prior learning assessments (College Level Ex‐
+amina on Program (CLEP) or DANTES Subject Standardized Tests (DSST)):
+
+
+D21.
+
+                                                                                     Yes       No
+Are the military/veteran credit transfer policies published on your website?          X
+If yes, please provide the URL where the policy can be located:
+
+If yes, please provide the URL where the policy can be located:
+
+h ps://www.cmu.edu/hub/registrar/veterans‐benefits/
+
+D22. Describe other military/veteran transfer credit policies unique to your ins tu on:
+
+
+
+
+                              CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                       15
+   E. ACADEMIC OFFERINGS AND POLICIES
+   E1. Special study op ons: Iden fy those programs available at your ins tu on. Refer to the glossary for defini ons.
+
+    X   Accelerated Program                                              X   Independent study
+    X   Comprehensive transi on and postsecondary program                X   Internships
+        for students with intellectual disabili es
+    X   Cross‐registra on                                                X   Liberal arts/career combina on
+    X   Distance learning                                                X   Student‐designed major
+    X   Double major                                                     X   Study abroad
+        Dual enrollment                                                  X   Teacher cer fica on program
+        English as a Second Language (ESL)                               X   Undergraduate Research
+        Exchange student program (domes c)                                   Weekend college
+        External degree program                                              Other
+        Honors program
+
+
+
+
+ E3. Areas in which all or most students are required to complete some course work prior to gradua on:
+
+
+
+                 Arts/fine arts                                  Intensive wri ng
+             X Computer literacy                                 Mathema cs
+                 English (including composi on)                  Philosophy
+
+                 Foreign languages                               Sciences (biological or physical)
+                 History                                         Social science
+                 Physical Educa on                             X Other
+                 Humani es
+
+
+
+
+Requirements vary considerably across colleges and programs.
+
+
+
+
+                                   CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                            16
+F. STUDENT LIFE
+F1. Percentages of first‐ me, full‐ me (freshman) degree‐seeking students and degree‐seeking undergraduates
+    enrolled in Fall 2023 who fit the following categories:
+
+                                                                             First‐ me, first‐year   Undergraduates
+                                                                             (freshman) students
+Percent who are from out of state (exclude interna onal/nonresident aliens           89.0%                86.6%
+from the numerator and denominator)
+Percent of men who join fraterni es                                                                       14.9%
+Percent of women who join sorori es                                                                       11.7%
+Percent who live in college‐owned, ‐operated, or –aﬃliated housing                   99.8%                49.5%
+Percent who live oﬀ campus or commute                                                0.2%                 50.5%
+Percent of students age 25 and older                                                 0.0%                 0.3%
+Average age of full‐ me students                                                      18                   19
+Average age of all students (full‐ and part‐ me)                                      18                   19
+
+
+
+F2. Ac vi es oﬀered:
+
+      X Campus Ministries                          X Literary magazine            X Radio sta on
+
+
+      X Choral groups                              X Marching band                X Student government
+
+
+      X Concert band                               X Model UN                     X Student newspaper
+
+
+      X Dance                                      X Music ensembles              X Student‐run film society
+
+
+      X Drama/theater                              X Musical theater              X Symphony orchestra
+
+
+      X Interna onal student organiza on           X Opera                            Television sta on
+
+
+      X Jazz band                                  X Pep band                     X Yearbook
+
+
+
+
+                              CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                       17
+F. STUDENT LIFE (con nued)
+F3. ROTC (program oﬀered in coopera on with Reserve Oﬃcers’ Training Corps)
+Army ROTC is oﬀered:
+                                   On campus
+
+
+                               X   At coopera ng ins tu on (name): University of Pi sburgh
+
+
+Naval ROTC is oﬀered:
+  Marine Op on is oﬀered:      X
+
+
+                               X   On campus
+
+
+                                   At coopera ng ins tu on (name):
+
+
+Air Force ROTC is oﬀered:
+                                   On campus
+
+
+                               X   At coopera ng ins tu on (name): University of Pi sburgh
+
+
+
+F4. Housing: check all types of college‐owned, ‐operated, or –aﬃliated housing available for your undergraduates at
+    your ins tu on.
+
+
+       X Coed dorms                                      X Special housing for disabled students
+
+
+       X Men’s dorms                                        Special housing for interna onal students
+
+
+       X Women’s dorms                                   X Fraternity/sorority housing
+
+
+           Apartments for married students                  Coopera ve housing
+
+
+       X Apartments for single students                  X Theme housing
+
+
+       X Wellness housing                                   Other housing op ons (specify):
+
+
+           Living Learning Communi es
+
+
+
+
+                             CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                      18
+G. ANNUAL EXPENSES
+G0. Please provide the URL of your ins tu on’s net price calculator:
+h ps://admission.enrollment.cmu.edu/pages/net‐price‐calculator
+
+Provide 2024‐2025 academic year costs of a endance for the following categories that are applicable to your ins tu‐
+ on:
+
+G1. Undergraduate full‐ me tui on, required fees, room and board
+List the typical tui on, required fees, and room and board for a full‐ me undergraduate student for the FULL 2024‐
+2025 academic year. A full academic year refers to the period of me generally extending from September to June;
+usually equated to two semesters, two trimesters, three quarters, or the period covered by a four‐one‐four plan. Room
+and board is defined as double occupancy and 19 meals per week or the maximum meal plan. Required fees include
+only charges that all full‐ me students must pay that are not included in tui on (e.g., registra on, health, or ac vity
+fees.) Do not include op onal fees (e.g., parking, laboratory use).
+
+
+                                  FIRST‐YEAR          UNDERGRADUATES
+PRIVATE INSTITUTION                 $64,596                 $64,596
+Tui on:
+REQUIRED FEES:                      $1,650                   $1,040
+ROOM AND BOARD:                     $18,166                 $20,850
+(on‐campus)
+
+ROOM ONLY:                          $10,816                 $13,810
+(on‐campus)
+BOARD ONLY:                         $7,350                   $7,040
+(on‐campus meal plan)
+
+    First‐year Experience Fee $610, Transporta on Fee $262, Technology Fee $470
+    Ac vity Fee $308 (Ac vity Fee is assessed by Student Government)
+
+
+G2. Number of credits per term a student can take for the states full‐ me tui on: _____minimum _____maximum
+
+
+
+
+G3. Do tui on and fees vary by year of study (e.g., sophomore, junior, senior)?        Yes        X No
+
+
+
+
+G4. Do tui on and fees vary by undergraduate instruc onal program?             Yes     X     No
+If yes, what percentage of full‐ me undergraduates pay more than the tui on and fees reported in G1?
+
+
+
+
+                               CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                        19
+G. ANNUAL EXPENSES (con nued)
+G5. Provide the es mated expenses for a typical full‐ me undergraduate student:
+
+                                                          Residents         Commuters           Commuters
+                                                                         (living at home)   (not living at home)
+Books and supplies                                         $1,000            $1,000               $1,000
+
+Room only                                                                                         $9,316
+
+Board only                                                                   $3,674               $7,040
+
+Room and board total (if your college cannot provide
+separate room and board figures for commuters not liv‐
+ing at home):
+Transporta on (Varies significantly for residents and           $0            $680                 $680
+commuters not living at home based on home state.)
+Other expenses                                             $1,400            $1,400               $1,400
+
+
+G6. Undergraduate per‐credit‐hour charges (tui on only): $898
+
+PRIVATE INSTITUTIONS:
+
+
+
+
+                              CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                       20
+H. FINANCIAL AID
+Aid Awarded to Enrolled Undergraduates
+
+H1. Enter total dollar amounts awarded to enrolled full‐ me and less than full‐ me degree‐seeking undergraduates
+    in the following categories. Include aid awarded to interna onal students (i.e., those not qualifying for federal
+    aid). Aid that is non‐need‐based but that was used to meet need should be reported in the need‐based aid
+    column.
+
+Indicate the academic year for which data are reported for items H1, H2, H2A, and H6: 2023‐2024 es mated
+Which needs‐analysis methodology does your ins tu on use in awarding ins tu onal aid?
+       Federal methodology (FM)
+
+
+       Ins tu onal methodology (IM)
+
+
+   X   Both FM and IM
+
+
+
+                                                                                       Need based $ Non need based
+                                                                                                          $
+Scholarships/Grants
+
+ Federal                                                                                 $9,669,986                 $0
+ State (all states, not only the state in which your ins tu on is located)                 $477,784                 $0
+ Ins tu onal: Endowed scholarships, annual gi s and tui on‐funded grants, awarded      $130,277,160       $16,599,085
+ by the college, excluding athle c aid and tui on waivers (which are reported below)
+ Scholarships/grants from external sources (e.g., Kiwanis, Na onal Merit) not            $1,134,820        $2,289,678
+ awarded by the college
+TOTAL Scholarships/Grants                                                              $141,559,750       $18,888,763
+
+
+
+Self‐Help
+ Student loans from all sources (excluding parent loans)                                $10,409,516        $9,274,494
+ Federal Work‐Study                                                                      $7,231,829
+ State and other (e.g., ins tu onal) work‐study/employment (Note: Excludes                        $0                $0
+ Federal Work Study captured above.)
+TOTAL Self‐Help                                                                         $17,641,345        $9,274,494
+
+
+
+Parent Loans                                                                                $64,364        $7,313,070
+Tui on Waivers                                                                             $532,332        $7,200,414
+Athle c Awards                                                                                    $0                $0
+
+
+                               CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                        21
+H. FINANCIAL AID (con nued)
+H2. Number of Enrolled Students Awarded Aid: List the number of degree‐seeking full‐ me and less‐than‐full‐ me
+    undergraduates who applied for and were awarded financial aid from any source. Aid that is non‐need‐based
+    but that was used to meet need should be counted as need‐based aid. Numbers should reflect the cohort
+    awarded the dollars reported in H1. Note: In the chart below, students may be counted in more than one row,
+    and full‐ me freshmen should also be counted as full‐ me undergraduates.
+
+                                                                       First‐ me, Full‐ Full‐ me Under‐ Less Than Full‐
+                                                                         me Freshmen, grad (Incl. Fresh), me Undergrad,
+                                                                       Pi sburgh        All Campuses      All Campuses
+                                                                       Campus
+A. Number of degree‐seeking undergraduate students (CDS Item               1,708            7,445             159
+   B1 if repor ng on Fall 2023 cohort)
+
+B. Number of students in line A who applied for need‐based finan‐          1,033            3,226             29
+   cial aid
+
+C. Number of students in line B who were determined to have                 713             2,711             27
+   financial need
+D. Number of students in line C who were awarded any                        712             2,678             26
+   financial aid
+E. Number of students in line D who were awarded any need‐                  699             2,628             25
+   based scholarship or grant aid
+F.   Number of students in line D who were awarded any need‐                648             2,491             25
+     based self‐help aid
+G. Number of students in line D who were awarded any non‐                   309              743               8
+   need‐based scholarship or grant aid
+H. Number of students in line D whose need was fully met                    681             2,387             13
+   (exclude PLUS loans, unsubsidized loans, and private
+   alterna ve loans)
+I.   On average, the percentage of need that was met of                    100.0%          100.0%            84.5%
+     students who were awarded any need‐based aid. Exclude any
+     aid that was awarded in excess of need as well as any resources
+     that were awarded to replace EFC (PLUS loans, unsubsidized
+     loans, and private alterna ve loans)
+J. The average financial aid package of those in line D. Exclude any      $58,579          $59,017          $41,059
+   resources that were awarded to replace EFC (PLUS loans, un‐
+   subsidized loans, and private alterna ve loans)
+K. Average need‐based scholarship or grant award of those in line         $54,994          $53,938          $36,738
+   E
+L. Average need‐based self‐help award (excluding PLUS loans, un‐           $5,173          $6,698           $6,675
+   subsidized loans, and private alterna ve loans) of those in line
+   F
+M. Average need‐based loan (excluding PLUS loans, unsubsidized             $3,023          $4,365           $4,125
+   loans, and private alterna ve loans) of those in line F who were
+   awarded a need‐based loan
+                                CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                         22
+H. FINANCIAL AID (con nued)
+H2a. Number of Enrolled Students Awarded Non‐need‐based Scholarships and Grants: List the number of degree‐
+     seeking full‐ me and less‐than‐full‐ me undergraduates who had no financial need and who were awarded
+     ins tu onal non‐need‐based scholarship or grant aid. Numbers should reflect the cohort awarded the dollars
+     reported in H1. Note: In the chart below, students may be counted in more than one row, and full‐ me
+     freshmen should also be counted as full‐ me undergraduates.
+
+                                                                   First‐ me, Full‐ Full‐ me Under‐ Less Than Full‐
+                                                                     me Freshmen, grad (Incl. Fresh), me Undergrad,
+                                                                   Pi sburgh        All Campuses      All Campuses
+                                                                   Campus
+N. Number of students in line A who had no financial need and             28                362                5
+   who were awarded ins tu onal non‐need‐based scholarship or
+   grant aid (exclude those who were awarded athle c awards and
+   tui on benefits)
+O. Average dollar amount of ins tu onal non‐need‐based                 $13,092           $40,421          $10,039
+   scholarship and grant aid awarded to students in line N
+P. Number of students in line A who were awarded an ins tu onal           0                  0                 0
+   non‐need‐based athle c scholarship or grant
+Q. Average dollar amount of ins tu onal non‐need‐based                    $ 0               $ 0             $ 0
+   athle c scholarships and grants awarded to students in line P
+H4 and H5
+  Include:
+   • 2023 undergraduate class: all students who started at Carnegie Mellon University as first‐ me students and
+     received a bachelor’s degree between July 1, 2023 and June 30, 2024
+      • only loans made to students who borrowed while enrolled at Carnegie Mellon University
+      • co‐signed loans
+
+   Exclude:
+    • students who transferred in
+      • money borrowed at other ins tu ons
+      • parent loans
+      • students who did not graduate or who graduated with another degree or cer ficate (but no bachelor’s degree)
+
+
+H4.
+Provide the number of students in the 2023 undergraduate class who started at your ins tu on as        1,569
+first‐ me students and received a bachelor’s degree between July 1, 2022 and June 30, 2023.
+Exclude students who transferred into your ins tu on.
+
+
+
+
+                               CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                        23
+H. FINANCIAL AID (con nued)
+H5. Number and percent of students in class (defined in H4 above) borrowing from federal, non‐federal, and any
+loan sources, and the average (or mean) amount borrowed:
+
+                                                                     Number in the    Percent of the   Average per‐
+                                                                     class (defined   class (defined   undergraduate‐
+                                                                     in H4 above)     in H4 above)     borrower cumula‐
+                                                                     who borrowed     who borrowed       ve principal bor‐
+                                                                                      (nearest 1%)     rowed, of those in
+                                                                                                       the first column
+                                                                                                       (nearest $1)
+
+A. Any loan program: Federal Perkins, Federal Staﬀord Subsidized          485              31%               $29,092
+   and Unsubsidized, ins tu onal, state, private loans that your
+   ins tu on is aware of, etc. Include both Federal Direct Student
+   Loans and Federal Family Educa on Loans.
+B. Federal loan programs: Federal Perkins, Federal Staﬀord Subsi‐         464              30%               $18,996
+   dized and Unsubsidized. Include both Federal Direct Student
+   Loans and Federal Family Educa on Loans.
+C. Ins tu onal loan programs.                                              4               0%                $10,375
+
+
+D. State loan programs.                                                    0               0%                   $0
+
+
+E. Private alterna ve loans made by a bank or lender.                      81              5%                $64,865
+
+
+Aid to Undergraduate Degree‐seeking Nonresident Aliens
+(Note: Report numbers and dollar amounts for the same academic year checked in item H1)
+
+H6. Indicate your ins tu on’s policy regarding ins tu onal scholarship and grant aid for undergraduate degree‐
+    seeking nonresident (interna onal) students:
+
+
+                Ins tu onal need‐based scholarship or grant aid is available
+
+
+                Ins tu onal non‐need‐based scholarship or grant aid is available
+
+
+          X     Ins tu onal scholarship and grant aid is not available
+
+If ins tu onal aid is available for undergraduate degree‐seeking nonresident aliens, provide the number of undergrad‐
+uate degree‐seeking nonresident aliens who were awarded need‐based or non‐need‐based aid:
+
+Average dollar amount of ins tu onal financial aid awarded to undergraduate degree‐seeking nonresident aliens:
+$_______
+
+Total dollar amount of ins tu onal financial aid awarded to undergraduate degree‐seeking nonresident aliens:
+$_______
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                         24
+H. FINANCIAL AID (con nued)
+H7. Check oﬀ all financial aid forms nonresident alien first‐year financial aid applicants must submit:
+
+                 Ins tu on’s own financial aid form
+
+
+                 CSS/Financial Aid PROFILE
+
+
+                 Interna onal Student’s Financial Aid Applica on
+
+
+                 Interna onal Student’s Cer fica on of Finances
+
+
+                 Other:
+
+
+Process for First‐Year/Freshman Students
+H8. Check oﬀ all financial aid forms domes c first‐year (freshman) financial aid applicants must submit:
+
+        X     FAFSA
+                                                                         X   Noncustodial PROFILE
+
+              Ins tu on’s own financial aid form
+                                                                             Business/Farm Supplement
+
+
+        X     CSS/Financial Aid PROFILE                                  X   Other: parent and student federal tax returns
+
+
+              State aid form
+
+
+H9. Indicate filing dates for first‐year (freshman) students:
+
+Priority date for filing required financial aid forms:
+
+Deadline for filing required financial aid forms: February 15
+
+No deadline for filing required forms (applica ons processed on a rolling basis):
+
+
+H10. Indicate no fica on dates for first‐year (freshman) students (answer a or b):
+
+A. Students no fied on or about (date): April 1
+
+B. Students no fied on a rolling basis:          If yes, star ng date:
+
+
+H11. Indicate reply dates:
+
+Students must reply by (date):            5/1      or within                     weeks of no fica on
+
+
+
+                                CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                         25
+H. FINANCIAL AID (con nued)
+Types of Aid Available
+Please check oﬀ all types of aid available to undergraduates at your ins tu on:
+
+H12. Loans
+
+             FEDERAL DIRECT STUDENT LOAN PROGRAM (DIRECT LOAN)
+       X       Direct Subsidized Staﬀord Loans
+
+
+       X       Direct Unsubsidized Staﬀord Loans
+
+
+       X       Direct PLUS Loans
+
+
+               Federal Perkins Loans
+
+
+              Federal Nursing Loans
+
+
+              State Loans
+
+
+       X      College/university loans from ins tu onal funds
+
+
+              Other (specify):
+
+H13. Scholarships and Grants
+
+             NEED‐BASED
+       X       Federal Pell
+
+
+       X       SEOG
+
+
+       X       State scholarships/grants
+
+
+       X       Private scholarships
+
+
+       X       College/university scholarship or grant aid from ins tu onal funds
+
+
+               United Negro College Fund
+
+
+               Federal Nursing Scholarship
+
+
+               Other (specify):
+
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                          26
+H. FINANCIAL AID (con nued)
+H14. Check oﬀ criteria used in awarding ins tu onal aid. Check all that apply.
+
+Non‐need Need‐based
+
+    X            X       Academics
+
+                         Alumni aﬃlia on
+
+    X            X       Art
+
+                         Athle cs
+
+                         Job skills
+
+    X                    ROTC
+
+    X            X       Leadership
+
+                         Minority status
+
+    X            X       Music/drama
+
+                         Religious aﬃlia on
+
+    X            X       State/district residency
+
+
+H15. If your ins tu on has recently implemented any major financial aid policy, program, or ini a ve to make your
+     ins tu on more aﬀordable to incoming students such as replacing loans with grants, or waiving costs for
+     families below a certain income level please provide details below:
+
+
+
+
+                               CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                        27
+I. INSTRUCTIONAL FACULTY AND CLASS SIZE
+I1. Report number of instruc onal faculty members in each category for Fall 2023. Include faculty who are on your
+    ins tu on's payroll on the census date your ins tu on uses for IPEDS/AAUP.
+
+The following defini on of instruc onal faculty is used by the American Associa on of University Professors (AAUP) in
+its annual Faculty Compensa on Survey (the part‐ me defini ons are not used by AAUP). Instruc onal Faculty is de‐
+fined as those members of the instruc onal‐research staﬀ whose major regular assignment is instruc on, including
+those with released me for research. Use the direc ons below to determine inclusions and exclusions:
+
+                                                                                      Full‐ me Part‐ me
+A. Instruc onal faculty in preclinical and clinical medicine, faculty who are not paid Exclude      Include only if they
+    (e.g., those who donate their services or are in the military), or research‐only                teach one or more non
+    faculty, post‐doctoral fellows, or pre‐doctoral fellows                                         ‐clinical credit courses
+B. Administra ve oﬃcers with tles such as dean of students, librarian, coach, and Exclude           Include if they teach
+   the like, even though they may devote part of their me to classroom instruc‐                     one or more non‐
+    on and may have faculty status                                                                  clinical credit courses
+C. Other administrators/staﬀ who teach one or more non‐clinical credit courses        Exclude       Include
+   even though they do not have faculty status
+D. Undergraduate or graduate students who assist in the instruc on of courses,        Exclude       Exclude
+   but have tles such as teaching assistant, teaching fellow, and the like
+E. Faculty on sabba cal or leave with pay                                             Include       Exclude
+F. Faculty on leave without pay                                                       Exclude       Exclude
+G. Replacement faculty for faculty on sabba cal leave or leave with pay               Exclude       Include
+
+Full‐ me instruc onal faculty
+ Faculty employed on a full‐ me basis for instruc on (including those with released me for research).
+
+Part‐ me instruc onal faculty
+ Adjuncts and other instructors being paid solely for part‐ me classroom instruc on. Also includes full‐ me faculty
+ teaching less than two semesters, three quarters, two trimesters, or two four‐month sessions. Employees who are not
+ considered full‐ me instruc onal faculty but who teach one or more non‐clinical credit courses may be counted as
+ part‐ me faculty.
+
+Minority faculty
+ Includes faculty who designate themselves as Black, non‐Hispanic; American Indian or Alaska Na ve; Asian, Na ve
+Hawaiian or other Pacific Islander, or Hispanic.
+
+Doctorate
+ Includes such degrees as Doctor of Philosophy, Doctor of Educa on, Doctor of Juridical Science, and Doctor of Public
+ Health in any field such as arts, sciences, educa on, engineering, business, and public administra on. Also includes
+ terminal degrees formerly designated as “first professional,” including den stry (DDS or DMD), medicine (MD), op‐
+ tometry (OD), osteopathic medicine (DO), pharmacy (DPharm or BPharm), podiatric medicine (DPM), veterinary medi‐
+ cine (DVM), chiroprac c (DC or DCM), or law (JD).
+
+Terminal degree
+ The highest degree in a field: example, M. Arch (in architecture) and MFA (master of fine arts).
+
+
+                              CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                       28
+I. INSTRUCTIONAL FACULTY AND CLASS SIZE (con nued)
+
+                                                                                          Full‐ me     Part‐    Total
+                                                                                                        me
+A. Total number of instruc onal faculty                                                      1,189       96    1,285
+B. Total number who are members of minority groups                                                77      3       80
+C. Total number who are women                                                                    399     36      435
+D. Total number who are men                                                                      790     60      850
+E. Total number who are other
+F. Total number who are nonresident aliens (interna onal)                                        144      4      148
+G. Total number with doctorate, or other terminal degree                                     1,110       65    1,175
+H. Total number whose highest degree is a master’s but not a terminal master’s                    43     17       60
+I. Total number whose highest degree is a bachelor’s                                              31     11       42
+J. Total number whose highest degree is unknown or other (Note: items F, G, H, and I               5      3         8
+   must sum up to item A)
+K. Total number in stand‐alone graduate/professional programs in which faculty teach               0      0         0
+  virtually only graduate‐level students
+
+
+
+I2. Student to Faculty Ra o
+Report the Fall 2023 ra o of full‐ me equivalent students (full‐ me plus 1/3 part‐ me) to full‐ me equivalent instruc‐
+  onal faculty (full‐ me plus 1/3 part‐ me). In the ra o calcula ons, exclude both faculty and students in stand‐alone
+graduate or professional programs such as medicine, law, veterinary, den stry, social work, business, or public health
+in which faculty teach virtually only graduate‐level students. Do not count undergraduate or graduate student teaching
+assistants as faculty.
+
+Fall 2023 Student to Faculty ra o: 6      _ to 1 (based on 7,498 students and _1,200 faculty).
+
+
+
+
+                              CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                       29
+I. INSTRUCTIONAL FACULTY AND CLASS SIZE (con nued)
+I3. Undergraduate Class Size
+In the table below, please use the following defini ons to report informa on about the size of classes and class sec‐
+  ons oﬀered in the Fall 2023 term.
+
+Class Sec ons
+ A class sec on is an organized course oﬀered for credit, iden fied by discipline and number, mee ng at a stated me
+ or mes in a classroom or similar se ng, and not a subsec on such as a laboratory or discussion sec on. Undergradu‐
+ ate class sec ons are defined as any sec ons in which at least one degree‐seeking undergraduate student is enrolled
+ for credit. Exclude distance learning classes and noncredit classes and individual instruc on such as disserta on or
+ thesis research, music instruc on, or one‐to‐one readings. Exclude students in independent study, co‐opera ve pro‐
+ grams, internships, foreign language taped tutor sessions, prac cums, and all students in on‐on‐one classes. Each class
+ sec on should be counted only once and should not be duplicated because of course catalog cross‐lis ngs.
+
+Class Subsec ons
+ A class subsec on includes any subsec on of a course, such as a laboratory, recita on, and discussion subsec ons
+ that are supplementary in nature and are scheduled to meet separately from the lecture por on of the course. Under‐
+ graduate subsec ons are defined as any subsec ons of courses in which degree‐seeking undergraduate students en‐
+ rolled for credit. As above, exclude noncredit classes and individual instruc on such as disserta on or thesis research,
+ music instruc on, or one‐to‐one readings. Each class subsec on should be counted only once and should not be dupli‐
+ cated because of cross‐lis ngs.
+
+Using the above defini ons, please report for each of the following class‐size intervals the number of class sec ons and
+class subsec ons oﬀered in Fall 2023. For example, a lecture class with 800 students who met at another me in 40 sep‐
+arate labs with 20 students should be counted once in the “100+” column in the class sec on column and 40 mes un‐
+der the “20‐20” column of the class subsec ons table.
+
+
+                        Number of Class Sec ons with Undergraduates Enrolled
+
+                                Undergraduate Class Size (provide numbers)
+                          2‐9        10‐19      20‐29      30‐39      40‐49     50‐99     100+      Total
+  CLASS SECTIONS          610         579        201        86          66       144       67       1,753
+CLASS SUBSECTIONS         59          182        249        110         16        6         0        622
+
+
+
+
+                                CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                         30
+J. DISCIPLINARY AREAS OF DEGREES CONFERRED
+Degrees conferred between July 1, 2022 and June 30, 2023
+
+For each of the following discipline areas, provide the percentage of diplomas/cer ficates, associate, and bachelor’s
+degrees awarded. To determine the percentage, use majors, not headcount (e.g., students with one degree but a dou‐
+ble major will be represented twice). Calculate the percentage from your ins tu on’s IPEDS Comple ons by using the
+sum of 1st and 2nd majors for each CIP code as the numerator and the sum of the Grand Total by 1st majors and the
+Grand Total by 2nd major as the denominator. If you prefer, you can compute the percentages using 1st majors only.
+
+
+Category                                         Diploma/Cer ficates   Associate   Bachelor’s   CIP 2010 Categories
+                                                                                                     to Include
+Agriculture                                                                          0.00%                1
+
+Natural resources and conserva on                                                    0.00%                3
+
+Architecture                                                                         2.03%                4
+
+Area, ethnic, and gender studies                                                     0.00%                5
+
+Communica on/journalism                                                              0.00%                9
+
+Communica on technologies                                                            0.00%               10
+
+Computer and informa on sciences                                                    17.73%               11
+
+Personal and culinary services                                                       0.00%               12
+
+Educa on                                                                             0.00%               13
+
+Engineering                                                                         20.44%               14
+
+Engineering technologies                                                             0.00%               15
+
+Foreign languages, literatures, and linguis cs                                       0.31%               16
+
+Family and consumer sciences                                                         0.00%               19
+
+Law/legal studies                                                                    0.00%               22
+
+English                                                                              0.80%               23
+
+Liberal arts/general studies                                                         1.35%               24
+
+Library science                                                                      0.00%               25
+
+Biological/life sciences                                                             4.62%               26
+
+Mathema cs and sta s cs                                                             11.58%               27
+
+Military science and military technologies                                           0.00%            28 and 29
+
+CONTINUED ON FOLLOWING PAGE
+
+
+                                 CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                          31
+J. DISCIPLINARY AREAS OF DEGREES CONFERRED (con nued)
+Category                                     Diploma/Cer ficates   Associate   Bachelor’s   CIP 2010 Categories
+                                                                                                 to Include
+Interdisciplinary studies                                                        9.79%              30
+
+Parks and recrea on                                                             0.00%               31
+
+Philosophy and religious studies                                                 0.43%              38
+
+Theology and religious voca ons                                                 0.00%               39
+
+Physical sciences                                                                4.93%              40
+
+Science technologies                                                            0.00%               41
+
+Psychology                                                                       1.29%              42
+
+Homeland security, law enforcement, fire‐                                                           43
+                                                                                0.00%
+figh ng and protec ve services
+Public administra on and social services                                         0.18%              44
+
+Social sciences                                                                  4.19%              45
+
+Construc on trades                                                              0.00%               46
+
+Mechanic and repair technologies                                                0.00%               47
+
+Precision produc on                                                             0.00%               48
+
+Transporta on and materials moving                                              0.00%               49
+
+Visual and performing arts                                                       9.24%              50
+
+Health professions and related programs                                         0.00%               51
+
+Business/marke ng                                                               10.84%              52
+
+History                                                                          0.25%              54
+
+Other                                                                           0.00%
+
+TOTAL                                                                            100%
+
+
+
+
+                              CARNEGIE MELLON UNIVERSITY COMMON DATA SET 2023‐2024
+                                                       32
+

@@ -1,0 +1,10 @@
+year,test,p25,p50,p75
+2023-2024,SAT_total,1480,1520,1540
+2023-2024,SAT_math,740,780,790
+2023-2024,ACT_composite,33,34,34
+2023-2024,ACT_english,34,35,35
+2023-2024,ACT_math,31,33,35
+2023-2024,ACT_reading,17,,63
+2023-2024,ACT_science,30,-36,24
+2023-2024,pct_submitted_SAT,,40,
+2023-2024,pct_submitted_ACT,,14,

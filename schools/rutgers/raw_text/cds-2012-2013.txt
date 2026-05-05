@@ -1,0 +1,1630 @@
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                         A. GENERAL INFORMATION
+
+
+
+
+     A1    Address Information
+                                                       RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY -
+           Name of College/University:                 UNIVERSITY-WIDE
+           Mailing Address:                            65 Davidson Road, Room #202
+              City/State/Zip/Country:                  Piscataway, NJ 08854-8097 USA
+           Street Address (if different):
+              City/State/Zip/Country:
+           Main Phone Number:                          732-932-1766
+           WWW Home Page Address:                      http://www.rutgers.edu
+           Admissions Phone Number:                    732-932-INFO (4636)
+           Admissions Toll-Free Phone Number:
+           Admissions Office Mailing Address:
+              City/State/Zip/Country:
+           Admissions Fax Number:
+           Admissions E-mail Address:                  admissions@ugadm.rutgers.edu
+               If there is a separate URL for your
+                                                       https://www.acs.rutgers.edu/pls/ug2_p/uua_create.createaccount
+               school’s online application, please
+               specify: ______________
+                If you have a mailing address other than the above to which applications should be sent, please provide:
+
+     A2    Source of institutional control (Check only one):
+           Public                                       X
+
+
+     A3    Classify your undergraduate institution:
+           Coeducational college                        X
+
+
+     A4    Academic year calendar:
+           Semester                                     X
+
+
+     A5    Degrees offered by your institution:
+           Bachelor's                                   X
+           Postbachelor's certificate                   X
+           Master's                                     X
+           Post-master's certificate                    X
+           Doctoral degree
+                                                        X
+           research/scholarship
+           Doctoral degree –
+                                                        X
+           professional practice
+           Doctoral degree -- other                     X
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                       Page 1
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                 B. ENROLLMENT AND PERSISTENCE
+   B1    Institutional Enrollment - Men and Women Provide numbers of students for each of the following categories as
+         of the institution's official fall reporting date or as of October 15, 2012. Note: Report students formerly
+         designated as “first professional” in the graduate cells.
+                                                             FULL-TIME                             PART-TIME
+                                                       Men           Women                  Men             Women
+         Undergraduates
+         Degree-seeking, first-time
+         freshmen                                        3,885               3,813                     6                    3
+         Other first-year, degree-seeking                  814                 670                    42                   67
+         All other degree-seeking                        15,391              15,393                 1,371                1,668
+         Total degree-seeking                           20,090              19,876                 1,419                1,738
+         All other undergraduates enrolled
+         in credit courses                                  55                  70                   337                  382
+         Total undergraduates                           20,145              19,946                 1,756                2,120
+         Graduate
+         Degree-seeking, first-time                       1175                1292                   461                   557
+         All other degree-seeking                        2,578               3,059                 2,214                 2,547
+         All other graduates enrolled in
+         credit courses                                        15               40                   261                   622
+         Total graduate                                      3768             4391                  2936                 3726
+         Total all undergraduates                                                                                      43,967
+         Total all graduate                                                                                            14,821
+         GRAND TOTAL ALL STUDENTS                                                                                      58,788
+
+         GRAND TOTAL UG + GRAD                          23,913              24,337                 4,692                5,846
+
+   B2    Enrollment by Racial/Ethnic Category. Provide numbers of undergraduate students for each of the following
+         categories as of the institution's official fall reporting date or as of October 15, 2012. Include international
+         students only in the category "Nonresident aliens." Complete the "Total Undergraduates" column only if you
+         cannot provide data for the first two columns. Report as your institution reports to IPEDS: persons who are
+         Hispanic should be reported only on the Hispanic line, not under any race, and persons who are non-Hispanic
+         multi-racial should be reported only under "Two or more races."
+   B2
+                                                                                       Degree-Seeking               Total
+                                                                    Degree-Seeking
+                                                                                       Undergraduates         Undergraduates
+                                                                      First-Time
+                                                                                      (include first-time    (both degree- and
+                                                                      First Year
+                                                                                          first-year)       non-degree-seeking)
+
+         Nonresident aliens                                                    372                1,176                 1,270
+         Hispanic                                                              981                5,865                 5,917
+         Black or African American, non-Hispanic                               669                4,457                 4,513
+         White, non-Hispanic                                                 3,026               19,300                19,528
+         American Indian or Alaska Native, non-Hispanic                          8                   44                    45
+         Asian, non-Hispanic                                                 2,211                9,955                10,088
+         Native Hawaiian or other Pacific Islander, non-
+         Hispanic                                                               17                   166                  167
+         Two or more races, non-Hispanic                                       303                 1,411                1,418
+         Race and/or ethnicity unknown                                         120                   749                1,021
+         TOTAL                                                               7,707               43,123                43,967
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                       Page 2
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                 B. ENROLLMENT AND PERSISTENCE
+   B3    Persistence
+         Number of degrees awarded from July 1, 2011 to June 30, 2012
+
+         Bachelor's degrees                             9,491
+         Master's                                       3,220
+         Doctoral degrees –
+         research/scholarship                            484
+         Doctoral degrees – professional
+         practice                                        747
+         Doctoral degrees – other
+         TOTAL                                         13,942
+
+         Graduation Rates
+         The items in this section correspond to data elements collected by the IPEDS Web-based Data Collection
+         System's Graduation Rate Survey (GRS). For complete instructions and definitions of data elements, see
+         the IPEDS GRS instructions and glossary on the 2012 Web-based survey.
+
+         For Bachelor's or Equivalent Programs
+
+         Please provide data for the Fall 2006 cohort if available. If Fall 2006 cohort data are
+         not available, provide data for the Fall 2005 cohort.
+
+         Fall 2006 Cohort
+         Report for the cohort of full-time first-time bachelor's (or equivalent) degree-seeking undergraduate
+         students who entered in Fall 2006. Include in the cohort those who entered your institution during the
+         summer term preceding Fall 2006.
+   B4    Initial 2006 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking
+         undergraduate students; total all students:
+                                                                                                                  6,314
+   B5    Of the initial 2006 cohort, how many did not persist and did not graduate for the
+         following reasons: death, permanent disability, service in the armed forces, foreign aid
+         service of the federal government, or official church missions; total allowable
+         exclusions:                                                                                                 7
+   B6    Final 2006 cohort, after adjusting for allowable exclusions: (subtract question B5 from
+         question B4)
+                                                                                                                  6,307
+   B7    Of the initial 2006 cohort, how many completed the program in four years or less (by
+         August 31, 2010):
+                                                                                                                  3,276
+   B8    Of the initial 2006 cohort, how many completed the program in more than four years but
+         in five years or less (after August 31, 2010 and by August 31, 2011):                                    1,253
+   B9    Of the initial 2006 cohort, how many completed the program in more than five years but
+         in six years or less (after August 31, 2011 and by August 31, 2012):
+                                                                                                                   229
+   B10 Total graduating within six years (sum of questions B7, B8, and B9):
+                                                                                                                  4,758
+   B11 Six-year graduation rate for 2006 cohort (question B10 divided by question B6):
+                                                                                                                  75.4%
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                Page 3
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                     B. ENROLLMENT AND PERSISTENCE
+         Fall 2005 Cohort
+         Report for the cohort of full-time first-time bachelor's (or equivalent) degree-seeking undergraduate students who
+         entered in Fall 2005. Include in the cohort those who entered your institution during the summer term preceding Fall
+         2005.
+   B4
+         Initial 2005 cohort of first-time, full-time bachelor's (or equivalent) degree-seeking
+         undergraduate students; total all students:
+                                                                                                                                          6,287
+   B5
+         Of the initial 2005 cohort, how many did not persist and did not graduate for the
+         following reasons: death, permanent disability, service in the armed forces, foreign aid
+         service of the federal government, or official church missions; total allowable
+         exclusions:
+                                                                                                                                                   5
+   B6    Final 2005 cohort, after adjusting for allowable exclusions: (subtract question B5 from
+         question B4)
+                                                                                                                                          6,282
+   B7    Of the initial 2005 cohort, how many completed the program in four years or less (by
+         August 31, 2009):
+                                                                                                                                          3,106
+   B8    Of the initial 2005 cohort, how many completed the program in more than four years but
+         in five years or less (after August 31, 2009 and by August 31, 2010):
+                                                                                                                                          1,218
+   B9    Of the initial 2005 cohort, how many completed the program in more than five years but
+         in six years or less (after August 31, 2010 and by August 31, 2012):                                                               413
+   B10 Total graduating within six years (sum of questions B7, B8, and B9):                                                               4,737
+   B11 Six-year graduation rate for 2005 cohort (question B10 divided by question B6):
+                                                                                                                                          75.4%
+
+
+         Retention Rates
+         Report for the cohort of all full-time, first-time bachelor’s (or equivalent) degree-seeking undergraduate students who entered in Fall
+         2011 (or the preceding summer term). The initial cohort may be adjusted for students who departed for the following reasons: death,
+         permanent disability, service in the armed forces, foreign aid service of the federal government or official church missions. No other
+         adjustments to the initial cohort should be made.
+
+   B22 For the cohort of all full-time bachelor’s (or equivalent) degree-seeking undergraduate students
+         who entered your institution as freshmen in Fall 2011 (or the preceding summer term), what
+         percentage was enrolled at your institution as of the date your institution calculates its official
+         enrollment in Fall 2012?                                                                                                           91%
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                          Page 4
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                    C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+
+         Applications
+   C1    First-time, first-year, (freshmen) students: Provide the number of degree-seeking, first-time, first-year students who applied,
+         were admitted, and enrolled (full- or part-time) in Fall 2012. Include early decision, early action, and students who began
+         studies during summer in this cohort. Applicants should include only those students who fulfilled the requirements for
+         consideration for admission (i.e., who completed actionable applications) and who have been notified of one of the following
+         actions: admission, nonadmission, placement on waiting list, or application withdrawn (by applicant or institution). Admitted
+         applicants should include wait-listed students who were subsequently offered admission.
+
+
+         Total first-time, first-year (freshman) men who applied                                    22,091
+                                                                                                                          46,184
+         Total first-time, first-year (freshman) women who applied                                  24,093
+
+         Total first-time, first-year (freshman) men who were admitted                              13,301
+                                                                                                                          27,813
+         Total first-time, first-year (freshman) women who were admitted                            14,512
+
+         Total full-time, first-time, first-year (freshman) men who enrolled                         3,885
+         Total part-time, first-time, first-year (freshman) men who enrolled                           6
+                                                                                                                           7,707
+         Total full-time, first-time, first-year (freshman) women who enrolled                       3,813
+         Total part-time, first-time, first-year (freshman) women who enrolled                         3
+
+   C2    Freshman wait-listed students (students who met admission requirements but whose final
+                                                                              Yes               No
+         Do you have a policy of placing students on a waiting list?           x
+         If yes, please answer the questions below for Fall 2012 admissions:
+         Number of qualified applicants offered a placed on waiting list
+         Number accepting a place on the waiting list
+         Number of wait-listed students admitted
+         Is your waiting list ranked?
+         If yes, do you release that information to students?
+         Do you release that information to school counselors?
+
+         Admission Requirements
+   C3    High school completion requirement
+         High school diploma is required and GED is
+                                                                                Yes
+         accepted
+         High school diploma is required and GED is not
+         accepted
+         High school diploma or equivalent is not required
+
+
+   C4    Does your institution require or recommend a general college-preparatory program for degree-
+         seeking students?
+         Require                                                                  X
+         Recommend
+         Neither require nor recommend
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                 Page 5
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                     C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+
+   C5    Distribution of high school units required and/or recommended. Specify the distribution of academic high school course units
+         required and/or recommended of all or most degree-seeking students using Carnegie units (one unit equals one year of study or its
+         equivalent). If you use a different system for calculating units, please convert.
+
+                                                          Units                  Units
+                                                         Required            Recommended
+         Total academic units
+         English                                               4
+         Mathematics                                 3 (4 for Engineering)           4
+                                                     2 (Pharmacy: 1 Unit
+                                                     of Biology and 1 unit
+                                                         of Chemistry);
+         Science
+                                                     (Engineering: 1 Unit
+                                                      of Chemistry and 1
+                                                        Unit of Physics)
+           Of these, units that must be
+           lab
+                                                     2 (not required for
+                                                         School of
+         Foreign language                           Environmental & Bio          2 (MGSA)
+                                                         Science or
+                                                        Engineering)
+         Social studies
+         History
+
+                                                        5 (7 for Sch of
+                                                    Environmental & Bio
+         Academic electives
+                                                    Science; 9 for MGSA;
+                                                     6 for Engineering)
+         Computer Science
+         Visual/Performing Arts
+
+         Other (specify)
+
+
+
+
+         Basis for Selection
+
+   C6
+         Do you have an open admission policy, under which virtually all secondary school graduates or students with GED equivalency
+         diplomas are admitted without regard to academic record, test scores, or other qualifications? If so, check which applies:
+
+
+         Open admission policy as described above for all students                                        N/A
+         Open admission policy as described above for most students, but--
+            selective admission for out-of-state students
+            selective admission to some programs                                                          N/A
+         other (explain)
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                     Page 6
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                     C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+   C7    Relative importance of each of the following academic and nonacademic factors in first-time, first-year, degree-seeking
+                                                   Very Important           Important           Considered         Not Considered
+         Academic
+           Rigor of secondary school record                X
+           Class rank                                      X
+          Academic GPA                                     X
+           Standardized test scores                        X
+           Application Essay                                                                          X
+           Recommendation(s)                                                                          X
+         Nonacademic
+           Interview                                X-MGSA ONLY
+           Extracurricular activities                                                                 X
+           Talent/ability                           X-MGSA ONLY
+           Character/personal qualities                                                                                    X
+           First generation                                                                           X
+           Alumni/ae relation                                                                                              X
+           Geographical residence                                                                     X
+           State residency                                                                            X
+           Religious affiliation/commitment                                                                                X
+           Racial/ethnic status                                                                       X
+           Volunteer work                                                                             X
+           Work experience                                                                            X
+           Level of applicant’s interest                                                                                   X
+
+
+
+         SAT and ACT Policies
+   C8
+         Entrance exams
+                                                                                         Yes                 No
+   C8A Does your institution make use of SAT, ACT, or SAT Subject Test
+       scores in admission decisions for first-time, first-year, degree-seeking           X
+       applicants?
+       If yes, place check marks in the appropriate boxes below to reflect your institution’s policies for use in
+       admission for Fall 2013.
+                                                                           ADMISSION
+                                                 Require           Recommend    Require for Some        Consider if
+                                                                                                         Submitted
+       SAT or ACT                                   X
+       ACT only
+       SAT only
+       SAT and SAT Subject Tests or
+       ACT
+       SAT Subject Tests only
+
+   C8B
+         If your institution will make use of the ACT in admission decisions for first-time, first-year, degree-seeking
+         applicants for Fall 2013, please indicate which ONE of the following applies: (regardless of whether the writing score
+         will be used in the admissions process):
+         ACT with Writing Component required
+         ACT with Writing component recommended
+         ACT with or without Writing component accepted
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                               Page 7
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                    C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+   C8C Please indicate how your institution will use the SAT or ACT writing component; check all that apply:
+                                                                                 SAT essay          ACT essay
+       For admission
+       For placement
+       For advising
+         In place of an application essay
+         As a validity check on the
+         application essay
+         No college policy as of now                                                            X               X
+         Not using essay component
+
+   C8D In addition, does your institution use applicants' test scores for academic advising?
+                                                  Yes                  No
+
+
+   C8E Latest date by which SAT or ACT scores must be received for fall-term
+       Latest date by which SAT Subject Test scores must be received for fall-
+                                                                               DECEMBER OF SENIOR YEAR IS
+       term admission
+                                                                                          RECOMMENDED BUT NOT REQUIRED
+
+
+
+
+   C8F If necessary, use this space to clarify your test policies (e.g., if tests are recommended for some students,
+
+         SAT II REQUIRED OF APPLICANTS WHO, BY EXPECTED DATE OF ENTRANCE, WILL NOT HAVE A HIGH SCHOOL DIPLOMA
+         FROM AN ACCREDITED HIGH SCHOOL. MAY ALSO BE REQUIRED OF GED HOLDERS.
+
+
+
+   C8G Please indicate which tests your institution uses for placement (e.g., state tests):
+       SAT
+         ACT
+         SAT Subject Tests
+         AP
+         CLEP
+         Institutional Exam
+         State Exam (specify):
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                 Page 8
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                    C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+         Freshman Profile
+         Provide percentages for ALL enrolled, degree-seeking, full-time and part-time, first-time, first-year (freshman) students
+         enrolled in Fall 2012, including students who began studies during summer, international students/nonresident aliens,
+         and students admitted under special arrangements.
+
+
+   C9    Percent and number of first-time, first-year (freshman) students enrolled in Fall 2012 who submitted national standardized
+         (SAT/ACT) test scores. Include information for ALL enrolled, degree-seeking, first-time, first-year (freshman) students who
+         submitted test scores. Do not include partial test scores (e.g., mathematics scores but not critical reading for a category of
+         students) or combine other standardized test results (such as TOEFL) in this item. Do not convert SAT scores to ACT scores
+         and vice versa. The 25th percentile is the score that 25 percent scored at or below; the 75th percentile score is the one that
+         25 percent scored at or above.
+
+
+         Percent submitting SAT scores                            95% Number submitting SAT scores                                7330
+         Percent submitting ACT scores                                Number submitting ACT scores
+
+                                                    25th Percentile       75th Percentile
+         SAT Critical Reading                            500                   620
+         SAT Math                                        540                   670
+         SAT Writing                                     520                   640
+         SAT Essay
+         ACT Composite
+         ACT Math
+         ACT English
+         ACT Writing
+
+         Percent of first-time, first-year (freshman) students with scores in each range:
+                                                       SAT Critical
+                                                         Reading             SAT Math            SAT Writing
+         700-800                                           7%                   18%                 11%
+         600-699                                           27%                  37%                 31%
+         500-599                                           44%                  35%                 42%
+         400-499                                           21%                  11%                 16%
+         300-399                                           1%                   1%                   1%
+         200-299
+         Totals should = 100%                             100%                 100%                100%
+                                                     ACT Composite         ACT English            ACT Math
+         30-36
+         24-29
+         18-23
+         12-17
+         6-11
+         Below 6
+         Totals should = 100%                                   0.00%                0.00%                 0.00%
+
+   C10 Percent of all degree-seeking, first-time, first-year (freshman) students who had high school class rank
+       within each of the following ranges (report information for those students from whom you collected high
+       school rank information).
+
+         Percent in top tenth of high school graduating class                                   36%
+         Percent in top quarter of high school graduating class                                 71%
+         Percent in top half of high school graduating class                                    95% Top half +
+         Percent in bottom half of high school graduating class                                   5% bottom half = 100%
+         Percent in bottom quarter of high school graduating class                                1%
+         Percent of total first-time, first-year (freshmen) students who submitted high school class
+         rank:                                                                                                       59%
+
+
+Rutgers University - Universitywide - November, 2012                                                                                Page 9
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                    C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+   C11 Percentage of all enrolled, degree-seeking, first-time, first-year (freshman) students who had high school
+       grade-point averages within each of the following ranges (using 4.0 scale). Report information only for
+       those students from whom you collected high school GPA.
+       Percent who had GPA of 3.75 and higher
+       Percent who had GPA between 3.50 and 3.74
+       Percent who had GPA between 3.25 and 3.49
+       Percent who had GPA between 3.00 and 3.24
+       Percent who had GPA between 2.50 and 2.99
+       Percent who had GPA between 2.0 and 2.49
+       Percent who had GPA between 1.0 and 1.99
+       Percent who had GPA below 1.0
+       Totals should = 100%                                                 0.00%
+
+   C12 Average high school GPA of all degree-seeking, first-time, first-year
+       (freshman) students who submitted GPA:
+         Percent of total first-time, first-year (freshman) students who submitted
+         high school GPA:
+
+         Admission Policies
+   C13 Application Fee
+                                                        Yes                   No
+         Does your institution have an
+                                                         X
+         application fee?
+         Amount of application fee:                    $65.00
+                                                        Yes                   No
+         Can it be waived for applicants
+                                                         X
+         with financial need?
+
+         If you have an application fee and an on-line application option, please
+         Same fee:                                              RUTGERS ONLY HAS AN ON-LINE
+                                                         X           APPLICATION, THERE ARE NO
+                                                                     PAPER APPLICATIONS
+         Free:
+         Reduced:
+
+                                                        Yes                   No
+         Can on-line application fee be
+         waived for applicants with
+         financial need?
+
+   C14 Application closing date
+                                                        Yes                   No
+         Does your institution have an
+                                                         X
+         application closing date?
+                                               December 1 (First-year applicants) January
+         Application closing date (fall):      15 (Transfer applicants)
+         Priority date:
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                           Page 10
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                    C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+   C15                                                                                           Yes                     No
+         Are first-time, first-year students accepted for terms other than                 X (Varies by
+         the fall?                                                                       college/campus)
+
+
+
+
+   C16 Notification to applicants of admission decision sent (fill in one only)
+   C16 On a rolling basis beginning
+       (date):
+   C16 By (date):
+       Other:
+
+
+   C17 Reply policy for admitted applicants (fill in one only)
+       Must reply by (date):
+         Must reply by May 1 or within 2
+         weeks if notified thereafter
+                                                       X
+         Other:
+         Deadline for housing deposit (MM/DD):
+         Amount of housing deposit:
+         Refundable if student does not enroll?
+            Yes, in full
+            Yes, in part
+            No
+
+   C18 Deferred admission
+                                                                                                 Yes                     No
+         Does your institution allow students to postpone enrollment after
+         admission?                                                                               X
+
+   C18 If yes, maximum period of postponement:                  Deferral is granted only for a full academic year, from one fall
+                                                                semester to the very next fall semester. A deferral is official only
+                                                                when you are notified that the Office of University Undergraduate
+                                                                Admissions has granted your request.
+   C19 Early admission of high school students
+                                                                                                 Yes                     No
+         Does your institution allow high school students to enroll as full-time,
+         first-time, first-year (freshman) students one year or more before high                                          X
+         school graduation?
+
+
+   C20 Common Application                      Question removed from CDS.               (Initiated during 2006-2007 cycle)
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                             Page 11
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                    C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+
+         Early Decision and Early Action Plans
+
+   C21 Early Decision
+                                                                                            Yes           No
+         Does your institution offer an early decision plan (an admission plan that
+         permits students to apply and be notified of an admission decision well in
+         advance of the regular notification date and that asks students to commit to                     X
+         attending if accepted) for first-time, first-year (freshman) applicants for fall
+         enrollment?
+         If “yes,” please complete the following:
+         First or only early decision plan closing date
+         First or only early decision plan notification date
+         Other early decision plan closing date
+         Other early decision plan notification date
+         For the Fall 2012 entering class:
+         Number of early decision applications received by your institution
+         Number of applicants admitted under early decision plan
+         Please provide significant details about your early decision plan:
+
+
+   C22 Early action
+                                                                                            Yes           No
+         Do you have a nonbinding early action plan whereby students are
+         notified of an admission decision well in advance of the regular
+         notification date but do not have to commit to attending your college?                           X
+
+
+         If “yes,” please complete the following:
+         Early action closing date
+         Early action notification date
+
+         Is your early action plan a “restrictive” plan under which you limit students from applying to
+          other early plans?
+                         Yes                           No
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                           Page 12
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                          D. TRANSFER ADMISSION
+
+
+         Fall Applicants
+   D1                                                                         Yes            No
+         Does your institution enroll transfer students? (If no,
+                                                                               X
+         please skip to Section E)
+         If yes, may transfer students earn advanced standing credit
+         by transferring credits earned from course work completed             X
+         at other colleges/universities?
+
+
+   D2    Provide the number of students who applied, were admitted, and enrolled as degree-seeking transfer
+         students in Fall 2012.
+                                                       Admitted        Enrolled
+                                       Applicants
+                                                      Applicants      Applicants
+         Men                             7,308          3,473           1,821
+         Women                           8,286          4,251           2,023
+         Total                          15,594          7,724           3,844
+
+         Application for Admission
+   D3    Indicate terms for which transfers may enroll:
+         Fall                                
+         Winter
+         Spring                              
+         Summer
+
+   D4                                                                         Yes            No
+         Must a transfer applicant have a minimum number of
+         credits completed or else must apply as an entering                   X
+         freshman?
+         If yes, what is the minimum number of credits and the unit
+                                                                              12
+         of measure?
+
+   D5    Indicate all items required of transfer students to apply for admission:
+                                                           Recommended   Recommended
+                                         Required of All                               Required of Some   Not Required
+                                                               of All      of Some
+         High school transcript                
+         College transcript(s)                 
+         Essay or personal
+         statement
+         Interview
+         Standardized test scores
+         Statement of good standing
+         from prior institution(s)
+
+
+
+   D6    If a minimum high school grade point average is required of
+         transfer applicants, specify (on a 4.0 scale):
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                               Page 13
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                          D. TRANSFER ADMISSION
+
+
+   D7    If a minimum college grade point average is required of
+         transfer applicants, specify (on a 4.0 scale):
+
+   D8    List any other application requirements specific to transfer applicants:
+
+
+   D9    List application priority, closing, notification, and candidate reply dates for transfer students. If applications
+         are reviewed on a continuous or rolling basis, place a check mark in the “Rolling admission” column.
+
+
+                                                                                                                  Rolling
+                                          Priority Date    Closing Date   Notification Date      Reply Date
+                                                                                                                 Admission
+
+         Fall                                       1/15                               5/15
+         Winter
+         Spring                                     11/1                              12/23
+         Summer
+
+   D10                                                                           Yes                 No
+         Does an open admission policy, if reported, apply to
+         transfer students?
+
+   D11 Describe additional requirements for transfer admission, if applicable:
+
+
+         Transfer Credit Policies
+   D12 Report the lowest grade earned for any course that may be
+       transferred for credit:
+
+   D13                                                                        Number             Unit Type
+         Maximum number of credits or courses that may be                                     CREDITS - varies
+                                                                                 60             by college
+         transferred from a two-year institution:
+
+   D14                                                                        Number             Unit Type
+         Maximum number of credits or courses that may be
+         transferred from a four-year institution:
+
+   D15 Minimum number of credits that transfers must complete at
+       your institution to earn an associate degree:
+
+   D16 Minimum number of credits that transfers must complete at          See specific requirements for each
+       your institution to earn a bachelor’s degree:                      college
+
+
+   D17 Describe other transfer credit policies:
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                    Page 14
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                 E. ACADEMIC OFFERINGS AND POLICIES
+
+
+
+              Special study options: Identify those programs available at your institution. Refer to the glossary for
+        E1
+              definitions
+              Accelerated program                                                                                    X
+              Cooperative education program                                                                          X
+              Cross-registration                                                                                     X
+              Distance learning                                                                                      X
+              Double major                                                                                           X
+              Dual enrollment                                                                                        X
+              English as a Second Language (ESL)                                                                     X
+              Exchange student program (domestic)                                                                    X
+              External degree program
+              Honors Program                                                                                         X
+              Independent study                                                                                      X
+              Internships                                                                                            X
+              Liberal arts/career combination                                                                        X
+              Student-designed major                                                                                 X
+              Study abroad                                                                                           X
+              Teacher certification program                                                                          X
+              Weekend college                                                                                        X
+              Other (specify):                                                                                       X
+
+              CAMDEN CAMPUS:
+
+              Cooperative baccalaureate program in engineering with School of Engineering (New Brunswick Campus). Interdisciplinary
+              programs in African-American studies, general science. Cooperative baccalaureate in medical technology with approved
+              hospital. B.A./M.A. in Childhood Studies, English, history, liberal studies or psychology; B.A./M.S. in biology, chemistry or
+              mathematics (with the Graduate School-Camden). B.A. in economics or political science/Master of Public Administration
+              (with the Graduate School-Camden); BS/Master of Business and Science (MBS).
+
+
+
+              NEW BRUNSWICK CAMPUS:
+              5-year B.A. or B.S./MBA program in Rutgers Business School; BS in Business Discipline/MBA; BA or BS in Science
+              Discipline/MBA; 8-year Bachelor/Medical Dual Degree program with UMDNJ-Robert Wood Johnson Medical School; 5-
+              year BS/BS in Bioenvironmental engineering with the School of Engineering; 5-year accelerated baccalaureate-M.B.A with
+              Rutgers Business School.; Bureau of Engineering Research, supported by the university, industry, state and federal
+              government, provides research opportunities for students and faculty; Continuing professional education;
+
+
+              Exchange program between School of Engineering and the City University of London for qualified students majoring in civil,
+              electrical, or mechanical engineering; 5-year (BA/BS degree) program in liberal arts and engineering; 5-year BA or
+              BS/M.Ed. with the Graduate School of Education; Interdepartmental programs and certificate programs are available;
+              Study Abroad in England, France, Italy, Ireland, Germany, Greece, Mexico, Israel, Australia, India, Japan, Netherlands,
+              Scotland, South Africa, South Korea, Spain; Alumnae externship program; Language and Cultural House Program;
+
+
+              B.A. in Religion/M.A. in Religious Studies; B.A./Master of Communication and Information Studies (with SC&I); B.A./MLER
+              (with School of Management and Labor Relations); Baccalaureate/M.C.R.P., M.P.H., or M.P.P with EJB School of Planning
+              and Public Policy;Baccalaureate in Business major/Master of Human Resource Management (with School of Management
+              and Labor Relations {SMLR}); BS/Master of Business and Science (MBS). Pharm.D./MBA program with Rutgers Business
+              School; Pharm.D./M.P.H. (with UMDNJ); Pharm.D./Ph.D. in Pharmaceutical Science; Pharm.D./Ph.D. in Toxicology (with
+              UMDNJ).
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                          Page 15
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                E. ACADEMIC OFFERINGS AND POLICIES
+
+              NEWARK CAMPUS:
+
+              5-year baccalaureate-MBA with Rutgers Business School; BS in Business Discipline/MBA; BA or BS in Science
+              Discipline/MBA; Baccalaureate/M.A. in Criminal Justice with the School of Criminal Justice; Baccalaureate/MPA with the
+              School of Public Affairs and Administration;
+              Cooperative baccalaureate program with School of Engineering (New Brunswick campus);
+
+              Cooperative baccalaureate in medical technology with affiliated hospitals; Interdisciplinary programs in archaeology,
+              international affairs, legal studies, women’s studies; continuing professional education;
+
+              Baccalaureate in Business Major/Master of Human Resource Management (with School of Management and Labor
+              Relations in New Brunswick); Baccalaureate-master’s dual degree programs with the School of Criminal Justice and
+              Rutgers Business School; BA or BS in Biology/MS in Biology;
+
+              BA in Chemistry/MS in Chemistry; BA in Economics/MA in Economics; BS in Environmental Sciences/MS In Environmental
+              Geology; BS in Environmental Sciences/MS in Environmental Sciences; BA in Political Science, Sociology or
+              Anthropology/MS in Global Affairs; BA in History/MA in History; BA in History, Sociology or Anthropology/MA in Jazz
+              History and Research; BA in Political Science/MA in Political Science; BA/MA in Peace and Conflict Studies;
+
+              BS in Computer Science or Information Science/Master of Information Technology; BS in Accounting/Master of
+              Accountancy (Governmental Accounting or Financial Accounting); BS in Accounting/MBA in Professional Accounting; BS in
+              Finance/Master of Quantitative Finance; BS/Master of Business and Science (MBS).
+
+
+              The College of Nursing offers a program on the New Brunswick Campus. Students are admitted in the fall semester only;
+              BS in Nursing/MS in Nursing.
+
+
+              Pharm.D./M.B.A. program with Rutgers Business School.
+
+              The Honors College of Rutgers University's Newark College of Arts and Sciences is a four-year
+              program, a college within a college, providing its by-invitation-only students with opportunities for
+              enrichment both in and outside of the classroom. Students invited to join the Honors College benefit
+              from small classes with first-rate faculty, co-curricular internships in major corporations and other
+              institutions, and other special options. Reserved dormitory space, a substantial scholarship
+              program, and research assistantships with faculty members combine to make the RU-Newark
+              Honors College experience unique. For additional information, visit the Honors College web site at
+              http://honorsnewark.rutgers.edu or call (973)353-5800.
+
+
+
+
+        E3    Areas in which all or most students are required to complete some course
+              work prior to graduation:
+
+              Arts/fine arts                                                                                                    X
+              Computer literacy
+              English (including composition)                                                                                   X
+              Foreign languages
+              History
+              Humanities                                                                                                        X
+              Mathematics                                                                                                       X
+              Philosophy
+              Sciences (biological or physical)                                                                                 X
+              Social Science                                                                                                    X
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                   Page 16
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                  F. STUDENT LIFE
+    F1 Percentages of first-time, first-year (freshman) degree-seeking students and degree-seeking
+       undergraduates enrolled in Fall 2012 who fit the following categories:
+
+                                                               First-time, first-year
+                                                                                          Undergraduates
+                                                               (freshman) students
+         Percent who are from out of state (exclude
+         international/nonresident aliens from the numerator
+         and denominator)                                              7.4%                     5.0%
+         Percent of men who join fraternities
+         Percent of women who join sororities
+         Percent who live in college-owned, -operated, or -
+         affiliated housing                                           75.4%                    40.5%
+         Percent who live off campus or commute                       24.6%                    59.5%
+         Percent of students age 25 and older                          0.2%                    11.6%
+         Average age of full-time students                              18                       20
+         Average age of all students (full- and part-time)              18                       21
+
+    F2 Activities offered Identify those programs available at your institution.
+       Campus Ministries                    X
+       Choral groups                        X
+       Concert band                         X
+       Dance                                X
+       Drama/theater                        X
+       International Student
+                                            X
+       Organization
+       Jazz band                            X
+       Literary magazine                    X
+       Marching band                        X
+       Model UN
+       Music ensembles                      X
+       Musical theater                      X
+       Opera                                X
+       Pep band                             X
+       Radio station                        X
+       Student government                   X
+       Student newspaper                    X
+       Student-run film society             X
+       Symphony orchestra                   X
+       Television station                   X
+       Yearbook                             X
+
+    F3 ROTC (program offered in cooperation with Reserve Officers' Training Corps)
+                                                    NEW
+                                                                    NEWARK                          CAMDEN
+                                                 BRUNSWICK
+                                                               X - On the New
+                                                       X                                At the University of Pennsylvania
+         Army ROTC is offered:                                 Brunswick Campus
+                                                               X - On the New
+                                                       X
+         Naval ROTC is offered:                                Brunswick Campus
+                                                               X - On the New
+                                                       X                                At the University of Pennsylvania
+         Air Force ROTC is offered:                            Brunswick Campus
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                   Page 17
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                    F. STUDENT LIFE
+
+    F4 Housing: Check all types of college-owned, -operated, or -affiliated housing available for
+       undergraduates at your institution.
+       Coed dorms                          X
+       Men's dorms                         X
+       Women's dorms                       X
+       Apartments for married students
+                                           X
+         Apartments for single students         X
+         Special housing for disabled
+         students
+         Special housing for international
+                                                X
+         students
+         Fraternity/sorority housing            X
+         Cooperative housing                    X
+         Theme housing                          X
+         Wellness housing
+         Other housing options (specify):   X
+         Special interest housing, language and cultural houses, substance-free house, Math/Science
+         Engineering House for women, first-year residence, transfer center, residence for single
+         mothers and children
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                  Page 18
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                    G. ANNUAL EXPENSES
+    G0
+         Please provide the URL of your institution’s net price calculator:
+
+         http://admissions.rutgers.edu/costs/CostEstimator.aspx
+
+         Provide 2013-2014 academic year costs of attendance for the following categories that are applicable to your
+         institution.
+
+
+         Check here if your institution's 2013-2014 academic year costs of attendance are not available at this time and provide
+         an approximate date (i.e., month/day) when your institution's final 2013-2014 academic year costs of attendance will be
+         available:
+    X    Mid-July 2013
+
+    G1   Undergraduate full-time tuition, required fees, room and board List the typical tuition, required fees, and room and board for a full-
+         time undergraduate student for the FULL 2013-2014 academic year (30 semester or 45 quarter hours for institutions that derive
+         annual tuition by multiplying credit hour cost by number of credits). A full academic year refers to the period of time generally
+         extending from September to June; usually equated to two semesters, two trimesters, three quarters, or the period covered by a four-
+         one-four plan. Room and board is defined as double occupancy and 19 meals per week or the maximum meal plan. Required fees
+         include only charges that all full-time students must pay that are not included in tuition (e.g., registration, health, or activity fees.) Do
+         not include optional fees (e.g., parking, laboratory use).
+
+
+
+                                                                  First-Year                  Undergraduates
+         PRIVATE INSTITUTIONS
+         Tuition:
+         PUBLIC INSTITUTIONS
+         Tuition:
+           In-district                                                        $10,718                        $10,718
+         PUBLIC INSTITUTIONS
+           In-state (out-of-district):                                        $10,718                        $10,718
+         PUBLIC INSTITUTIONS
+           Out-of-state:                                          $24,272 - $24,278              $24,272 - $24,278
+         NONRESIDENT ALIENS
+         Tuition:
+
+         REQUIRED FEES:                                              $2,280 - $2,781                $2,280 - $2,781
+
+         ROOM AND BOARD:
+         (on-campus)                                              $10,906 - $12,379              $10,906 - $12,379
+         ROOM ONLY:
+         (on-campus)                                                 $7,092 - $7,906                $7,092 - $7,906
+         BOARD ONLY:
+         (on-campus meal plan)                                       $3,000 - $4,766                $3,000 - $4,766
+
+         Comprehensive tuition and room and board fee (if your college
+
+         Other:
+
+
+
+
+    G2                                                                                            Minimum                        Maximum
+         Number of credits per term a student can take for the stated full-
+         time tuition                                                                                 12                             18
+
+
+
+
+Rutgers University - Universitywide - August 2013                                                                                                Page 19
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                              G. ANNUAL EXPENSES
+    G3                                                                                Yes                    No
+         Do tuition and fees vary by year of study (e.g., sophomore, junior,   Only for College of
+         senior)?                                                              Pharmacy Students
+
+    G4   Do tuition and fees vary by undergraduate instructional program?
+                                                                                       %
+
+         If yes, what percentage of full-time undergraduates pay more than
+         the tuition and fees reported in G1?
+
+
+
+    G5 Provide the estimated expenses for a typical full-time undergraduate student:
+                                                                          Commuters                      Commuters
+                                                 Residents
+                                                                       (living at home)              (not living at home)
+       Books and supplies                                    $1,550                 $1,550                           $1,550
+       Room only
+       Board only                                                                   $3,108
+       Room and board total (if your
+       college cannot provide separate
+       room and board figures for
+       commuters not living at home):                                                                             $17,194
+       Transportation                                          $810                 $1,872                         $1,872
+       Other expenses                                        $2,031                 $2,035                         $2,039
+
+
+    G6 Undergraduate per-credit-hour charges (tuition only)
+       PRIVATE INSTITUTIONS:
+
+         PUBLIC INSTITUTIONS
+           In-district:                                             $345.00
+         PUBLIC INSTITUTIONS
+           In-state (out-of-district):                              $345.00
+         PUBLIC INSTITUTIONS
+           Out-of-state:                                        $788 - $803
+         NONRESIDENT ALIENS:
+
+
+
+
+Rutgers University - Universitywide - August 2013                                                                      Page 20
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                         H. FINANCIAL AID
+
+         Aid Awarded to Enrolled Undergraduates
+
+
+  H1    Enter total dollar amounts awarded to enrolled full-time and less than full-time degree-seeking undergraduates (using the same cohort
+        reported in CDS Question B1, “total degree-seeking” undergraduates) in the following categories. (Note: If the data being reported are
+        final figures for the 2011-2012 academic year (see the next item below), use the 2011-2012 academic year's CDS Question B1 cohort.)
+        Include aid awarded to international students (i.e., those not qualifying for federal aid). Aid that is non-need-based but that was used to
+        meet need should be reported in the need-based aid columns. (For a suggested order of precedence in assigning categories of aid to
+        cover need, see the entry for “non-need-based scholarship or grant aid” on the last page of the definitions section.)
+
+
+
+
+  H1    Indicate the academic year for which data are reported for items H1, H2,                           2012-2013               2011-2012
+        H2A, and H6 below:                                                                                 estimated                  final
+                                                                                                                                        X
+
+        Which needs-analysis methodology does your institution use in awarding institutional aid?
+        Federal methodology (FM)
+        Institutional methodology (IM)
+        Both FM and IM                                                X
+
+  H1                                                                                                                              Non-need-
+                                                                                                         Need-based $
+                                                                                                         (Include non-need-
+                                                                                                                                   based $
+                                                                                                          based aid used to     (Exclude non-need-
+                                                                                                             meet need.)         based aid used to
+                                                                                                                                   meet need.)
+        Scholarships/Grants
+        Federal                                                                                               $65,214,327                        $0
+        State (i.e., all states, not only the state in which your institution is
+        located)                                                                                              $78,408,547              $1,438,524
+        Institutional: Endowed scholarships, annual gifts and tuition funded
+        grants, awarded by the college, excluding athletic aid and tuition waivers
+        (which are reported below).                                                                           $35,413,867            $31,584,983
+        Scholarships/grants from external sources (e.g., Kiwanis, National Merit)                                      $0             $5,035,201
+        Total Scholarships/Grants                                                                           $179,036,741            $38,058,708
+        Self-Help
+        Student loans from all sources (excluding parent loans)                                                $96,973,085           $130,602,468
+        Federal Work-Study                                                                                      $3,988,469
+        State and other (e.g., institutional) work-study/employment (Note:
+        Excludes Federal Work-Study captured above.)                                                                       $0         $14,525,944
+        Total Self-Help                                                                                     $100,961,554           $145,128,412
+        Other
+        Parent Loans                                                                                                       $0         $41,430,614
+        Tuition Waivers                                                                                                    $0          $8,857,760
+        Athletic Awards                                                                                                    $0          $9,944,163
+
+
+
+
+Rutgers University - Universitywide - March, 2013                                                                                             Page 21
+                                 Common Data Set 2012-13
+                RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                          H. FINANCIAL AID
+  H2    Number of Enrolled Students Awarded Aid: List the number of degree-seeking full-time and less-than-full-time undergraduates who
+        applied for and were awarded financial aid from any source. Aid that is non-need-based but that was used to meet need should be
+        counted as need-based aid. Numbers should reflect the cohort awarded the dollars reported in H1. Note: In the chart below, students
+        may be counted in more than one row, and full-time freshmen should also be counted as full-time undergraduates.
+
+
+                                                                                    First-time        Full-time            Less Than
+                                                                                    Full-time      Undergraduate            Full-time
+                                                                                    Freshmen        (Incl. Fresh.)       Undergraduate
+        a) Number of degree-seeking undergraduate students (CDS Item
+                                                                                      7,698             39,966                 3,157
+           B1 if reporting on Fall 2011 cohort)
+        b) Number of students in line a who applied for need-based
+                                                                                      5,731             28,085                 1,800
+           financial aid
+        c) Number of students in line b who were determined to have
+                                                                                      4,840             24,698                 1,578
+           financial need
+        d) Number of students in line c who were awarded any financial aid
+                                                                                      4,840             24,698                 1,578
+
+        e) Number of students in line d who were awarded any need-based
+                                                                                      3,536             18,044                 1,055
+           scholarship or grant aid
+        f) Number of students in line d who were awarded any need-based
+                                                                                      4,078             20,625                 1,289
+           self-help aid
+        g) Number of students in line d who were awarded any non-need-
+                                                                                       830               3,573                  86
+           based scholarship or grant aid
+        h) Number of students in line d whose need was fully met (exclude
+           PLUS loans, unsubsidized loans, and private alternative loans )            1,007              5,981                  558
+
+        i)   On average, the percentage of need that was met of students
+             who were awarded any need-based aid. Exclude any aid that
+             was awarded in excess of need as well as any resources that              47.0%              53.0%                44.0%
+             were awarded to replace EFC (PLUS loans, unsubsidized loans,
+             and private alternative loans)
+
+        j)   The average financial aid package of those in line d. Exclude
+             any resources that were awarded to replace EFC (PLUS loans,
+             unsubsidized loans, and private alternative loans )                    $ 12,719           $ 12,241              $ 5,972
+
+
+
+
+             Average need-based scholarship and grant award of those in line
+        k)                                                                          $ 10,502           $ 9,810               $ 3,768
+             e
+
+
+        l)   Average need-based self-help award (excluding PLUS loans,
+             unsubsidized loans, and private alternative loans ) of those in line    $ 4,508           $ 4,768               $ 3,783
+             f
+        m) Average need-based loan (excluding PLUS loans, unsubsidized
+           loans, and private alternative loans ) of those in line f who were
+           awarded a need-based loan                                                 $ 3,863           $ 4,542               $ 3,713
+
+
+        n) Number of students in line a who had no financial need and who
+           were awarded institutional non-need-based scholarship or grant
+           aid (exclude those who were awarded athletic awards and tuition             152                581                   39
+           benefits)
+        o) Average dollar amount of institutional non-need-based
+                                                                                     $ 8,269            $ 803                $ 7,560
+           scholarship and grant aid awarded to students in line n
+        p) Number of students in line a who were awarded an institutional
+                                                                                       103                461                   10
+           non-need-based athletic scholarship or grant
+        q) Average dollar amount of institutional non-need-based athletic
+           scholarships and grants awarded to students in line p                    $ 23,560           $ 21,524              $ 6,643
+
+
+
+
+Rutgers University - Universitywide - March, 2013                                                                                      Page 22
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                         H. FINANCIAL AID
+
+  H3    Incorporated into H1 above.
+
+            Note: These are the graduates and loan types to include and exclude in order to fill out CDS H4, H4a,
+            H5, and H5a.
+            Include: * 2012 undergraduate class who graduated between July 1, 2008 and June 30, 2012 who started at your institution as first-
+            time students and received a bachelor's degree between July 1, 2011 and June 30, 2012.
+              * only loans made to students who borrowed while enrolled at your institution.
+              * co-signed loans.
+
+            Exclude: * those who transferred in.
+                     * money borrowed at other institutions.
+
+
+
+  H4
+        Provide the percentage of the class (defined above) who borrowed at any time through any loan programs
+        (institutional, state, Federal Perkins, Federal Stafford Subsidized and Unsubsidized, private loans that were
+        certified by your institution, etc.; exclude parent loans). Include both Federal Direct Student Loans and Federal
+        Family Education Loans.
+                                                                                                                                          57%
+  H4a
+        Provide the percentage of the class (defined above) who borrowed at any time through federal loan programs--
+        Federal Perkins, Federal Stafford Subsidized and Unsubsidized. Include both Federal Direct Student Loans and
+        Federal Family Education Loans. NOTE: exclude all institutional, state, private alternative loans and parent loans.
+                                                                                                                                          57%
+  H5
+        Report the average per-undergraduate-borrower cumulative principal borrowed of those in line H4.
+                                                                                                                                      $26,343
+  H5a
+        Report the average per-undergraduate-borrower cumulative principal borrowed, of those in H4a, through federal
+        loan programs--Federal Perkins, Federal Stafford Subsidized and Unsubsidized. Include both Federal Direct
+        Student Loans and Federal Family Education Loans. These are listed in line H4a. NOTE: exclude all institutional,
+        state, private alternative loans and exclude parent loans.
+                                                                                                                                      $23,355
+
+
+
+
+         Aid to Undergraduate Degree-seeking Nonresident Aliens (Note: Report numbers and dollar
+         amounts for the same academic year checked in item H1.)
+
+  H6    Indicate your institution’s policy regarding institutional scholarship and grant aid for undergraduate degree-
+        seeking nonresident aliens:
+        Institutional need-based scholarship or grant aid is available                        none
+        Institutional non-need-based scholarship or grant aid is available                    Yes
+        Institutional scholarship or grant aid is not available                                N/A
+
+        If institutional financial aid is available for undergraduate degree-seeking nonresident
+        aliens, provide the number of undergraduate degree-seeking nonresident aliens who were
+        awarded need-based or non-need-based aid:                                                                                            7
+
+        Average dollar amount of institutional financial aid awarded to undergraduate degree-
+        seeking nonresident aliens:                                                                                                    $4,285
+
+        Total dollar amount of institutional financial aid awarded to undergraduate degree-seeking
+        nonresident aliens:                                                                                                          $30,000
+
+
+
+
+Rutgers University - Universitywide - March, 2013                                                                                      Page 23
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                    H. FINANCIAL AID
+
+
+  H7    Check off all financial aid forms nonresident alien first-year financial aid applicants must submit:
+        Institution’s own financial aid form                                                   X
+        CSS/Financial Aid PROFILE                                                             N/A
+        International Student’s Financial Aid Application                                      X
+        International Student’s Certification of Finances                                      X
+        Other (specify):
+
+
+         Process for First-Year/Freshman Students
+
+  H8    Check off all financial aid forms domestic first-year (freshman) financial aid applicants must submit:
+        FAFSA                                                                                 X
+        Institution's own financial aid form                                                 N/A
+        CSS/Financial Aid PROFILE                                                            N/A
+        State aid form                                                                       N/A
+        Noncustodial PROFILE                                                                 N/A
+        Business/Farm Supplement                                                             N/A
+        Other (specify):                                                                     N/A
+
+
+
+  H9    Indicate filing dates for first-year (freshman) students:
+        Priority date for filing required financial aid forms:                              3/15
+        Deadline for filing required financial aid forms:                                   N/A
+        No deadline for filing required forms (applications processed on a rolling
+                                                                                              X
+        basis):
+
+  H10 Indicate notification dates for first-year (freshman) students (answer a or b):
+      a) Students notified on or about (date):
+                                                                        Yes                  No
+      b) Students notified on a rolling basis:                           X
+         If yes, starting date:                                         3/1
+
+  H11 Indicate reply dates:
+      Students must reply by (date):
+      or within ___4____ weeks of notification.                            X
+
+         Types of Aid Available
+      Please check off all types of aid available to undergraduates at your institution:
+  H12 Loans
+      FEDERAL DIRECT STUDENT LOAN PROGRAM (DIRECT LOAN)
+        Direct Subsidized Stafford Loans                                                      X
+        Direct Unsubsidized Stafford Loans                                                    X
+        Direct PLUS Loans                                                                     X
+
+        Federal Perkins Loans                                                                 X
+        Federal Nursing Loans                                                                 X
+        State Loans                                                                           X
+        College/university loans from institutional funds                                     X
+        Other (specify): Other Education Loans                                                X
+
+
+
+
+Rutgers University - Universitywide - March, 2013                                                                Page 24
+                                Common Data Set 2012-13
+               RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                                         H. FINANCIAL AID
+  H13 Scholarships and Grants
+
+        NEED-BASED:
+        Federal Pell                                                                                              X
+        SEOG                                                                                                      X
+        State scholarships/grants                                                                                 X
+        Private scholarships                                                                                     N/A
+        College/university scholarship or grant aid from institutional funds                                      X
+        United Negro College Fund                                                                                N/A
+        Federal Nursing Scholarship                                                                               X
+        Other (specify): Other Scholarships                                                                       X
+
+
+
+  H14 Check off criteria used in awarding institutional aid. Check all that apply.
+                                                                                  Non-Need Based            Need-Based
+        Academics                                                                       X                       X
+        Alumni affiliation                                                              X                       X
+        Art                                                                             X                       X
+        Athletics                                                                       X                      N/A
+        Job skills                                                                     N/A                     N/A
+        ROTC                                                                           N/A
+        Leadership                                                                      X                         X
+        Minority status                                                                N/A                       N/A
+        Music/drama                                                                     X                         X
+        Religious affiliation                                                          N/A                       N/A
+        State/district residency                                                        X                         X
+
+  H15   If your institution has recently implemented any major financial aid policy, program, or initiative to make your institution more affordable
+        to incoming students such as replacing loans with grants, or waiving costs for families below a certain income level please provide
+        details below:
+
+
+
+
+Rutgers University - Universitywide - March, 2013                                                                                              Page 25
+                                 Common Data Set 2012-13
+                RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                              I. INSTRUCTIONAL FACULTY AND CLASS SIZE
+
+     Please report the number of instructional faculty members in each category for Fall 2012. Include faculty who are on your
+I1
+     institution’s payroll on the census date your institution uses for IPEDS/AAUP.
+     The following definition of full-time instructional faculty is used by the American Association of University Professors (AAUP) in its annual
+     Faculty Compensation Survey (the part time definitions are not used by AAUP). Instructional Faculty is defined as those members of the
+     instructional-research staff whose major regular assignment is instruction, including those with released time for research. Use the chart below
+     to determine inclusions and exclusions:
+
+                                                                                                                         Full-time         Part-time
+           (a) instructional faculty in preclinical and clinical medicine, faculty who are not paid (e.g., those who   Exclude       Include only if they
+           donate their services or are in the military), or research-only faculty, post-doctoral fellows, or pre-                   teach one or more
+           doctoral fellows                                                                                                          non-clinical credit
+                                                                                                                                     courses
+
+           (b) administrative officers with titles such as dean of students, librarian, registrar, coach, and the like, Exclude      Include if they teach
+           even though they may devote part of their time to classroom instruction and may have faculty status                       one or more non-
+                                                                                                                                     clinical credit
+                                                                                                                                     courses
+           (c) other administrators/staff who teach one or more non-clinical credit courses even though they do        Exclude       Include
+           not have faculty status
+           (d) undergraduate or graduate students who assist in the instruction of courses, but have titles such       Exclude       Exclude
+           as teaching assistant, teaching fellow, and the like
+
+           (e) faculty on sabbatical or leave with pay                                                                 Include       Exclude
+
+           (f) faculty on leave without pay                                                                            Exclude       Exclude
+
+           (g) replacement faculty for faculty on sabbatical leave or leave with pay                                   Exclude       Include
+
+
+     Full-time instructional faculty: faculty employed on a full-time basis for instruction (including those with released time for research)
+
+     Part-time instructional faculty: Adjuncts and other instructors being paid solely for part-time classroom instruction. Also includes full-time
+     faculty teaching less than two semesters, three quarters, two trimesters, or two four-month sessions. Employees who are not considered full-
+     time instructional faculty but who teach one or more non-clinical credit courses may be counted as part-time faculty.
+
+
+     Minority faculty: includes faculty who designate themselves as Black, non-Hispanic; American Indian or Alaska Native; Asian, Native
+     Hawaiian or other Pacific Islander, or Hispanic.
+     Doctorate: includes such degrees as Doctor of Philosophy, Doctor of Education, Doctor of Juridical Science, and Doctor of Public Health in
+     any field such as arts, sciences, education, engineering, business, and public administration. Also includes terminal degrees formerly
+     designated as “first professional,” including dentistry (DDS or DMD), medicine (MD), optometry (OD), osteopathic medicine (DO), pharmacy
+     (DPharm or BPharm), podiatric medicine (DPM), veterinary medicine (DVM), chiropractic (DC or DCM), or law (JD).
+
+
+     Terminal degree: the highest degree in a field: example, M. Arch (architecture) and MFA (master of fine arts).
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                             Page 26
+                                 Common Data Set 2012-13
+                RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                              I. INSTRUCTIONAL FACULTY AND CLASS SIZE
+
+I1                                                                                                         Full-Time      Part-Time             Total
+     a)     Total number of instructional faculty                                                           2,540           1,706               4,246
+     b)     Total number who are members of minority groups                                                  443             175                 618
+     c)     Total number who are women                                                                      1,006            817                1,823
+     d)     Total number who are men                                                                        1,534            889                2,423
+     e)     Total number who are nonresident aliens (international)                                            150             78                228
+     f)     Total number with doctorate, or other terminal degree
+                                                                                                              2,515          1,689              4,204
+     g)     Total number whose highest degree is a master's but not a terminal master's
+                                                                                                                25             17                 42
+     h)     Total number whose highest degree is a bachelor's
+            Total number whose highest degree is unknown or other (Note: Items f, g,
+     i)
+            h, and i must sum up to item a.)
+            Total number in stand-alone graduate/ professional programs in which faculty
+     j)
+            teach virtually only graduate-level students
+
+I2   Student to Faculty Ratio
+     Report the Fall 2012 ratio of full-time equivalent students (full-time plus 1/3 part time) to full-time equivalent instructional faculty (full time plus
+     1/3 part time). In the ratio calculations, exclude both faculty and students in stand-alone graduate or professional programs such as medicine,
+     law, veterinary, dentistry, social work, business, or public health in which faculty teach virtually only graduate-level students. Do not count
+     undergraduate or graduate student teaching assistants as faculty.
+
+
+
+I2   Fall 2012 Student to Faculty ratio                                          13            to 1       (based on           41,383 students
+                                                                                                                and            3,109 faculty).
+     Class Sections: A class section is an organized course offered for credit, identified by discipline and number, meeting at a stated time or
+     times in a classroom or similar setting, and not a subsection such as a laboratory or discussion session. Undergraduate class sections are
+     defined as any sections in which at least one degree-seeking undergraduate student is enrolled for credit. Exclude distance learning classes
+     and noncredit classes and individual instruction such as dissertation or thesis research, music instruction, or one-to-one readings. Exclude
+     students in independent study, co-operative programs, internships, foreign language taped tutor sessions, practicums, and all students in one-
+     on-one classes. Each class section should be counted only once and should not be duplicated because of course catalog cross-listings.
+
+
+     Class Subsections: A class subsection includes any subsection of a course, such as laboratory, recitation, and discussion subsections that
+     are supplementary in nature and are scheduled to meet separately from the lecture portion of the course. Undergraduate subsections are
+     defined as any subsections of courses in which degree-seeking undergraduate students enrolled for credit. As above, exclude noncredit
+     classes and individual instruction such as dissertation or thesis research, music instruction, or one-to-one readings. Each class subsection
+     should be counted only once and should not be duplicated because of cross-listings.
+
+
+     Using the above definitions, please report for each of the following class-size intervals the number of class sections and class subsections
+     offered in Fall 2012. For example, a lecture class with 800 students who met at another time in 40 separate labs with 20 students should be
+     counted once in the “100+” column in the class section column and 40 times under the “20-29” column of the class subsections table.
+
+
+
+
+                                                 Undergraduate Class Size (provide numbers)
+           CLASS                  2-9           10-19    20-29     30-39      40-49    50-99                                 100+               Total
+          SECTIONS                625           1211      1293      737        420      600                                   367               5,253
+
+          CLASS SUB-              2-9           10-19          20-29           30-39          40-49          50-99           100+               Total
+           SECTIONS               88             319            452             355            94             144             41                1,493
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                                Page 27
+                               Common Data Set 2012-13
+              RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY: Universitywide
+
+                                              J. DEGREES CONFERRED
+
+         J1   Degrees conferred between July 1, 2011 and June 30, 2012
+              For each of the following discipline areas, provide the percentage of diplomas/certificates, associate, and bachelor’s
+              degrees awarded. To determine the percentage, use majors, not headcount (e.g., students with one degree but a double
+              major will be represented twice). Calculate the percentage from your institution’s IPEDS Completions by using the sum of
+              1st and 2nd majors for each CIP code as the numerator and the sum of the Grand Total by 1st Majors and the Grand
+              Total by 2nd major as the denominator. If you prefer, you can compute the percentages using 1st majors only.
+
+
+
+                                                                                                                     CIP 2010
+              Category                                                                     Bachelor’s
+                                                                                                                    Categories
+              Agriculture                                                                       1.0                       1
+              Natural resources and conservcation                                               1.4                       3
+              Architecture                                                                      0.4                       4
+              Area, ethnic and gender studies                                                   1.2                       5
+              Communication/journalism                                                          7.2                       9
+              Communication technologies                                                                                 10
+              Computer and information sciences                                                 2.3                      11
+              Personal and culinary services                                                                             12
+              Education                                                                                                  13
+              Engineering                                                                       7.2                      14
+              Engineering technologies                                                                                   15
+              Foreign languages, literatures, and linguistics                                   1.4                      16
+              Family and consumer sciences                                                                               19
+              Law/legal studies                                                                                          22
+              English                                                                           3.6                      23
+              Liberal arts/general studies                                                      0.5                      24
+              Library science                                                                                            25
+              Biological/life sciences                                                          8.8                      26
+              Mathematics and statistics                                                        1.3                      27
+              Military science and military technologies                                                             28 and 29
+              Interdisciplinary studies                                                         1.4                      30
+              Parks and recreation                                                              2.9                      31
+              Philosophy and religious studies                                                  0.9                      38
+              Theology and religious vocations                                                                           39
+              Physical sciences                                                                 1.6                      40
+              Science technologies                                                                                       41
+              Psychology                                                                        10.0                     42
+              Homeland Security, law enforcement, firefighting, and                                                      43
+                                                                                                5.4
+              protective services
+              Public administration and social services                                          1.9                      44
+              Social sciences                                                                   13.1                      45
+              Construction trades                                                                                         46
+              Mechanic and repair technologies                                                                            47
+              Precision production                                                                                        48
+              Transportation and materials moving                                                                         49
+              Visual and performing arts                                                         3.3                      50
+              Health professions and related programs                                            4.2                      51
+              Business/marketing                                                                15.4                      52
+              History                                                                            3.6                      54
+              Other
+              TOTAL (should = 100%)                                                            100%
+
+
+
+
+Rutgers University - Universitywide - November, 2012                                                                                     Page 28
+

@@ -1,0 +1,16 @@
+year,category,male,female,unknown
+2025-2026,undergrad_total,13232,19489,319
+2025-2026,graduate_total,6725,6115,219
+2025-2026,total_undergraduates,33534,,
+2025-2026,total_graduate,13898,,
+2025-2026,grand_total,47432,,
+2023-2024,undergrad_FT_total,12455,19699,318
+2023-2024,undergrad_PT_total,261,297,10
+2023-2024,graduate_FT_total,6535,6862,211
+2023-2024,graduate_PT_total,906,487,5
+2023-2024,total_undergraduates,33040,,
+2023-2024,total_graduate,15006,,
+2023-2024,grand_total,48046,,
+2020-2021,total_undergraduates,31636,,
+2020-2021,total_graduate,14364,,
+2020-2021,grand_total,46000,,

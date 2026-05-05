@@ -1,0 +1,1662 @@
+Boston University Common Data Set                                                                              1
+
+
+
+https://www.bu.edu/asir/bu-facts/common-data-set/
+
+
+A. General Information
+
+A1. General information
+    Name of College/University:                     Boston University
+    Mailing Address:                                One Silber Way
+                                                    Boston MA 02215
+    Street Address (if different)
+
+
+    Main Phone:                                     (617) 353-2000
+    www Home Page Address:                          http://www.bu.edu
+
+
+    Admissions Phone Number:                        (617) 353-2300
+    Admissions Toll-Free Number:                    N/A
+    Admissions Office Mailing Address:              233 Bay State Road
+                                                    Boston MA 02215
+    Admissions Fax Number:
+    Admissions E-mail Address:                      admissions@bu.edu; International: intadmis@bu.edu
+    Separate URL application site:                  https://app.commonapp.org/
+                                                    https://www.questbridge.org
+A2. Institutional control
+    Public
+    Private (nonprofit)                                   X
+    Proprietary
+
+
+A3. Institution classification
+    Coeducational college                                 X
+    Men's college
+    Women's college
+
+
+A4. Academic year calendar
+    Semester                                              X
+    Quarter
+    Trimester
+    "4-1-4"
+    Continuous
+    Differs by program (describe):
+    Other (describe):
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                            2021-2022
+Boston University Common Data Set                         2
+
+
+
+A5. Degrees offered
+    Certificate                                X
+    Diploma
+    Associate
+    Transfer associate
+    Terminal associate
+    Bachelor's                                 X
+    Postbachelor's certificate                 X
+    Master's                                   X
+    Post-master's certificate                  X
+    Doctoral - Research and Scholarship        X
+    Doctoral - Professional Practice           X
+
+
+
+
+Boston University
+Analytical Services & Institutional Research       2021-2022
+Boston University Common Data Set                                                                                    3
+
+
+
+B. Enrollment and Persistence
+
+B1. Institutional enrollment - men and women (Fall 2022)
+
+Undergraduates                                       Full-time                          Part-time
+                                               Men          Women                 Men          Women
+  Degree-seeking, first-time freshmen            1,475           2,159                    0               1
+  Other first-year, degree-seeking                   12              8                    1               0
+  All other degree-seeking                       5,758           8,003               123              128
+  Total degree-seeking                         7,245        10,170                124               129
+
+  All other undergraduates enrolled in
+  credit courses
+                                                  136             183                237              235
+  Total undergraduates                         7,381        10,353                361           364
+
+
+
+Graduate                                             Full-time                          Part-time
+                                               Men          Women                 Men          Women
+  Degree-seeking, first-time                     2,202           2,995               644              850
+  All other degree-seeking                       2,669           3,568              2,263            2,684
+  All other graduates enrolled in credit
+  courses
+                                                     34            49                   92            205
+  Total graduate                               4,905         6,612                2,999        3,739
+
+Total undergraduate enrollment                                           18,459
+Total graduate and professional enrollment                               18,255
+
+Grand Total All Students                                                 36,714
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                  2021-2022
+Boston University Common Data Set                                                                                        4
+
+
+
+B2. Enrollment by racial/ethnic category
+
+                                                 All first-year   All undergraduate degree-
+                                               degree-seeking *            seeking            All undergraduate
+  Non-resident aliens                               836                    3,980                   4,175
+  Hispanic                                          422                    1,902                   1,930
+  Black, non-Hispanic                               289                    880                      900
+  White, non-Hispanic                               1,091                  5,889                   6,085
+  American Indian/Alaskan Native                      1                      6                       6
+  Asian, non-Hispanic                               696                    3,497                   3,541
+  Hawaiian/Pacific Islander                           4                     14                      14
+  Two or More Races, non-Hispanic                   155                    814                      824
+  Race/ethnicity unknown                            141                    686                      984
+
+
+  Total                                             3,635                 17,668                   18,459
+
+
+B3. Number of degrees awarded by your institution from July 1, 2021 to June 30, 2022
+                                                                                   TOTAL
+  Certificate/diploma degrees                                                       404
+  Associate degrees                                                                  0
+  Bachelor's degrees                                                               4736
+  Postbachelor's certificate degrees                                                13
+  Master's degrees                                                                 5692
+  Post-master's certificates                                                        69
+  Doctoral Degrees - Research/Scholarship                                           564
+  Doctoral Degrees - Professional Practice                                          587
+  Doctoral Degrees - Other Awarded                                                   0
+                                                                                   12065
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                      2021-2022
+Boston University Common Data Set                                                                                                             5
+
+
+
+
+Graduation Rates
+
+
+Fall 2016 Cohort
+                                                                                         Students who did not
+                                                            Recipients of a Subsidized   receive either a Pell Grant   Total (sum of
+                               Recipients of a Federal Pell Stafford Loan who did not    or a subsidized Stafford      3 columns to
+                               Grant                        receive a Pell Grant         Loan                          the left)
+
+A. Initial 2016 cohort of first-
+time, full-time bachelor's (or
+equivalent) degree-seeking
+undergraduate students           494                       754                           2301                          3549
+
+B. Of the initial 2016 cohort,
+how many did not persist
+and did not graduate for the
+following reasons: deceased,
+permanently disabled, armed
+forces, foreign aid service of
+the federal government, or
+official church missions; total
+allowable exclusions            0                          0                             15                            15
+
+C. Final 2016 cohort, after
+adjusting for allowable
+exclusions                     494                         754                           2286                          3534
+
+D. Of the initial 2016 cohort,
+how many completed the
+program in four years or less
+(by August 31, 2020)           393                         644                           1908                          2945
+
+E. Of the initial 2016 cohort,
+how many completed the
+program in more than four
+years but in five years or
+less (after August 31, 2020
+and by August 31, 2021)        27                          27                            103                           157
+F. Of the initial 2016 cohort,
+how many completed the
+program in more than five
+years but in six years or less
+(after August 31, 2021 and
+by August 31, 2022)            4                           6                             32                            42
+
+
+
+
+G. Total graduating within six
+years (sum D, E, F)            424                         677                           2043                          3144
+
+
+H. Six-year graduation rate
+for 2016 cohort (G divided
+by C)                          86%                         90%                           89%                           89%
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                                           2021-2022
+Boston University Common Data Set                                                                                                             6
+
+
+
+
+Fall 2015 Cohort
+                                                            Recipients of a Subsidized   Students who did not          Total (sum of
+                               Recipients of a Federal Pell Stafford Loan who did not    receive either a Pell Grant   3 columns to
+                               Grant                        receive a Pell Grant         or a subsidized Stafford      the left)
+
+
+A- Initial 2015 cohort of first-
+time, full-time bachelor's (or
+equivalent) degree seeking
+undergraduate-students           482                       736                           2410                          3628
+
+
+
+
+B- Of the initial 2015 cohort,
+how many did not persist
+and did not graduate for the
+following reasons: deceased,
+permanently disabled, armed
+forces, foreign aid service of
+the federal government, or
+official church missions; total
+allowable exclusions            2                          3                             19                            24
+
+C- Final 2015 cohort, after
+adjusting for allowable
+exclusions                     480                         733                           2391                          3604
+
+
+D - Of the initial 2015 cohort,
+how many completed the
+program in four years or less
+(by Aug. 31, 2019)              389                        630                           2011                          3030
+
+
+
+E - Of the initial 2015 cohort,
+how many completed the
+program in more than four
+years but in five years or
+less (after Aug. 31, 2019 and
+by Aug. 31, 2020)               20                         21                            100                           141
+
+
+
+F - Of the initial 2015 cohort,
+how many completed the
+program in more than five
+years but in six years or less
+(after Aug. 31, 2020 and by
+Aug. 31, 2021)                  8                          5                             36                            49
+
+
+G - Total graduating within
+six years (sum of lines D, E,
+and F)                        417                          656                           2147                          3220
+
+
+
+
+H - Six-year graduation rate
+for 2015 cohort (G divided by
+C)                            87%                          89%                           90%                           89%
+
+
+
+
+B12 - 21. Two-year institutions graduation rate
+
+B22. For the cohort of all full-time bachelor’s (or equivalent) degree-seeking undergraduate
+students who entered your institution as freshmen in Fall 2021 (or the preceding summer term),
+what percentage was enrolled at your institution as of the date your institution calculates its official
+enrollment in Fall 2022?
+
+  94%
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                                           2021-2022
+Boston University Common Data Set                                                                                7
+
+
+
+
+C. First-Time, First-Year (Freshman) Admission Fall 2022
+
+C1. First-time, first-year (freshman) students admissions statistics
+
+                                               Men               Women                      Total
+  Applicants                               31,328                  49,468                  80,796
+  Offered admission                            5,061               6,546                   11,607
+
+
+  Full-time enrolled                           1,475               2,159                    3,634
+  Part-time enrolled                            0                    1                        1
+
+
+C2. Freshman wait-listed students (students who met admission requirements but whose final
+admission was contingent on space availability)
+
+  Do you have a policy of placing students on a wait-list?                                   Yes
+
+
+  Total freshman applicants placed on wait-list                                             9643
+
+
+  Total freshman applicants accepting place on wait-list                                    5899
+
+
+  Total freshman applicants accepted from wait-list                                           3
+
+
+  Is wait-list ranked?                                                                       No
+
+
+  Release wait-list information to school counselors?                                        No
+
+
+C3. High school completion requirement
+
+  High school diploma is required and GED accepted; home-schooled students should contact the Office of
+  Admissions.
+
+
+C4. Does your institution require or recommend a general college preparatory program for degree-
+seeking students?
+
+  Required
+
+
+C5. Distribution of high school units required and/or recommended
+
+                                           Units
+                                          Required                Units Recommended
+  English                                       4.0                         4.0
+  Mathematics*                                  3.0                         4.0
+  Science (with labs)                           3.0                         4.0
+  Foreign language                              2.0                         4.0
+  History/Social Studies                        3.0                         4.0
+  Academic Electives                             -                           -
+  Computer Science                               -                           -
+  Visual/Performing Arts                         -                           -
+  Other                                          -                           -
+                                                                             -
+  Total                                        15.0                         20.0
+
+
+* Mathematics: requires study through pre-calculus and recommends the study of calculus.
+
+
+C6. Do you have an open admissions policy, under which virtually all secondary school graduates
+or students with GED equivalency diplomas are admitted without regard to academic record, test
+scores, or other qualifications?
+
+  No
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                              2021-2022
+Boston University Common Data Set                                                                                         8
+
+
+
+C7. Relative importance of each of the following academic non academic factors in your first-time,
+first-year, degree-seeking (freshman) admissions decisions
+
+                                                             Very                                        Not
+                                                           Important    Important    Considered       Considered
+Academic factors
+    Rigor of secondary school record                          X
+    Class rank                                                              X
+    Academic GPA                                              X
+    Standardized test scores                                                              X
+    Application essay                                                       X
+    Recommendations                                                         X
+
+Non-academic factors
+    Interview                                                                                             X
+    Extracurricular activities                                              X
+                   1
+    Talent/ability                                            X                                           X
+    Character/personal qualities                                            X
+    First generation                                                                      X
+    Alumni/ae relation                                                                    X
+    Geographical residence                                                                X
+    State residency                                                                       X
+    Religious affiliation/commitment                                                                      X
+    Racial/ethnic status                                                                  X
+    Volunteer work                                                                        X
+    Work experience                                                                       X
+    Level of applicant's interest                                                         X
+
+1
+    Talent/ability is very important for College of Fine Arts applicants, otherwise not considered.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                       2021-2022
+Boston University Common Data Set                                                                                          9
+
+
+
+C8. Entrance exams
+
+  A. Does your institution make use of SAT, ACT, or SAT Subject Test scores in admissions decisions for first-
+  time, first-year, degree-seeking applicants?
+
+
+    Yes
+
+
+    SAT or ACT (no preference)                                               Considered if Submitted
+
+
+
+  B. If your institution will make use of the ACT in admission decisions for first-time, first-year, degree-
+  seeking applicants for Fall 2022, please indicate which ONE of the following applies:
+
+
+                           ACT with writing component required
+                           ACT with writing component recommended
+                           ACT with or without writing component accepted
+
+
+   If your institution will make use of the SAT in admission decisions for first-time, first-year, degree-seeking
+  applicants for Fall 2022, please indicate which ONE of the following applies:
+
+
+                           SAT with essay component required
+                           SAT with essay component recommended
+                           SAT with or without essay component accepted
+
+  C. Please indicate how your institution will use the SAT or ACT writing component.
+
+
+                           Not using essay component.
+
+
+
+  D. In addition, does your institution use applicants' test scores for academic advising?
+
+
+  Yes
+
+
+  E. Latest date by which SAT or ACT scores must be received for fall-term admission.
+
+
+  January 4
+
+
+  Latest date by which SAT Subject Test scores must be received for fall-term admission.
+
+
+  N/A
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                        2021-2022
+Boston University Common Data Set                                                                                              10
+
+
+
+                   a
+  F. Test Policy
+
+
+
+    Boston University has decided to remain test optional for students applying for admission through fall 2025 and
+    spring 2026. Our test optional policy applies to all undergraduate schools and colleges at BU, as well as all
+    scholarship programs. While the admissions process at Boston University has always been holistic and decisions
+    have never been solely based on one single factor, such as an SAT or ACT score, the move to test optional over
+    the past two years has improved our process by adding considerable weight to the important qualities and
+    characteristics that focus more on you and your academic and personal accomplishments. Applicants will have the
+    ability to indicate whether they would like us to consider their standardized test scores when they apply.
+
+    International students will still be required to submit the TOEFL, IELTS, or DuoLingo English Test* as the primary
+    means for evaluating English-language proficiency.
+
+
+
+    a
+      Requirements for the TOEFL and IELTS tests are available on our admissions website
+    (www.bu.edu/admissions).
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                             2021-2022
+Boston University Common Data Set                                                                                             11
+
+
+
+TOEFL and IELTS Tests
+
+    The Test of English as a Foreign Language (TOEFL) is required of any student for whom English is not the native
+    or first language. Students who are most competitive for admission will have a composite score of at least 90-100
+    and minimum scores of 20 in each section. The average TOEFL score for students admitted to Boston University
+    is 107. The Board of Admissions looks closely at the score for each section as well as for consistency across all
+    subscores within each single language proficiency test.
+
+
+    IELTS: In lieu of the TOEFL exam, you may submit the International English Language Testing System (IELTS). A
+    score of 7 or higher will also satisfy BU’s English Language proficiency requirement for all programs. Learn more
+    on the IELTS website.
+
+
+
+    CFA School of Music Notes: Candidates are required to audition for admission.
+    Check College of Fine Arts website at www.bu.edu/cfa for audition schedules.
+    Candidates for the Theory and Composition program must audition and present a portfolio.
+
+    CFA School of Theatre Arts Notes: Candidates for the Acting and Theatre Studies Programs must audition for
+    admission. Candidates for the Design, Production and Stage Management Programs must present a portfolio in an
+    interview with the faculty. Check the College of Fine Arts website at www.bu.edu/cfa for audition and portfolio
+    preparation schedules.
+
+    CFA School of Visual Arts Notes: Candidates are required to submit a portfolio.
+    Check College of Fine Arts website at www.bu.edu/cfa for instructions.
+
+
+
+
+  G. Please indicate which tests your institution uses for placement (all schools/programs)
+
+
+  SAT                                                Yes
+  ACT                                                Yes
+  SAT Subject tests                                  N/A
+  AP                                                 Yes
+  CLEP                                               No
+  Institutional Exam                                 Yes
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                            2021-2022
+Boston University Common Data Set                                                                                                12
+
+
+
+C9. Percent and number of first-time, first-year (freshman) students enrolled in Fall 2022 who
+submitted national standardized (SAT/ACT) test scores.
+                                                                                                  Percentiles
+                 % Submitting      Number                                              25th           50th      75th
+                                                        SAT Evidence-Based
+                                    823
+  SAT I             23%                                 Reading and Writing             660           700       730
+                                                        SAT Math                        690           740       770
+  ACT               12%             448                 SAT Composite                  1370           1430      1480
+                                                        ACT Composite                   31               33     34
+                                                        ACT English                     32               34     35
+                                                        ACT Math                        28               31     34
+                                                        ACT Writing                     33               33     33
+                                                        ACT Reading                     32               34     36
+                                                        ACT Science                     30               33     35
+
+
+  Percent of first-time, first-year (freshman) students with scores in each range
+
+
+    SAT I             Evidence-Based                                                            SAT
+Distribution         Reading & Writing                Math                                   Composite
+   700-800                 51%                        72%             1400-1600                 66%
+   600-699                 45%                        25%             1200-1399                 32%
+   500-599                    4%                      3%              1000-1199                 2%
+   400-499                    0%                      0%                800-999                 0%
+   300-399                    0%                      0%                600-799                 0%
+   200-299                    0%                      0%                400-599                 0%
+
+
+
+     ACT
+  Distribution    Composite        English     Math         Reading     Science       Writing
+     30-36          90%             88%        70%           87%         78%           90%
+     24-29           7%             9%         26%           10%         18%            7%
+     18-23           3%             3%         4%             3%          4%            3%
+     12-17           0%             0%         0%             0%          0%            0%
+    6-11             0%             0%         0%             0%          0%            0%
+   below 6           0%             0%         0%             0%          0%            0%
+
+
+
+
+C10. Percent of all degree-seeking, first-time, first-year (freshman) students who had high school
+class rank within each of the following ranges
+
+  Top 10%                              87%              Percent of first-time, first-year (freshman) students        17%
+  Top 25%                              99%              who submitted high school class rank:
+
+  Top 50%                             100%
+  Bottom 50%                              0%
+  Bottom 25%                              0%
+
+
+C11. Percent of all enrolled, degree-seeking, first-time, first-year (freshman) students who had
+high school grade-point averages within each of the following ranges (using 4.0 scale)
+  4.00                                 38%
+  3.75 - 3.99                          37%
+  3.50 - 3.74                          24%
+  3.25 - 3.49                             1%
+  3.00 - 3.24                             0%
+  2.50 - 2.99                             0%
+  2.00 - 2.49                             0%
+  1.00 - 1.99                             0%
+  Below 1.00                              0%
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                               2021-2022
+Boston University Common Data Set                                                                                 13
+
+
+
+C12. Average high school GPA of all degree-seeking, first-time, first-year (freshman) students
+who submitted GPA
+
+    3.88
+
+
+  Percent of total freshman submitting high school GPA             100.0%
+
+
+C13. Application fee
+
+  Is there an application fee?                                     Yes
+  Amount of application fee                                        $80
+  Can it be waived for applicants with financial need?             Yes *
+
+
+  * Students should speak with high school guidance counselors to request the submission of a fee waiver.
+
+
+C14. Application closing date
+
+  Does your institution have an application closing date?          Yes
+
+
+  January 4 for fall admissions
+
+  December 1 for Trustee Scholar, Presidential Scholar, and Thomas M. Menino Scholar programs.
+
+
+C15. Are first-time, first-year students accepted for terms other than the fall?
+
+  Yes, in most programs
+
+
+C16. Notification to applicants of admission decision sent
+
+  By April 1
+
+
+C17. Reply policy for admitted applicants
+
+  Must reply by May 1.
+  Deadline for housing deposit: Enrollment deposit due May 1 (no separate housing deposit)
+  Amount of housing deposit: Enrollment deposit - $650
+  Refundable if student does not enroll? No
+
+
+C18. Deferred admission
+
+  Does your institution allow students to postpone enrollment after admission?
+
+
+  Yes, Deferred admission is allowed with a maximum postponement of one year (freshmen only).
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                2021-2022
+Boston University Common Data Set                                                                                              14
+
+
+
+C19. Early admission of high school students
+
+  Does your institution allow high school students to enroll as full-time,
+  first-time (freshman) students one year or more before high school
+  graduation?
+
+  No
+
+
+C20. No longer on the Common Data Set
+
+C21. Early Decision
+
+  Does your institution offer an early decision plan for first-time, first-                  Yes
+  year (freshman) applicants for fall enrollment?
+  First or only early decision plan closing date                                             November 1
+  First or only early decision plan notification date                                        December 15
+
+
+  Other early decision plan closing date                                                     January 4
+  Other early decision plan notification date                                                February 15
+
+
+  Number of early decision applications received by your institution                            6309
+  Number of applicants admitted under early decision plan                                       1599
+
+  Details about early decision plan
+  Only available for high school seniors applying for September admission; some programs do not have an Early
+  Decision option. If admitted, students must send in the required enrollment deposit by January 15 for Early Decision
+  and by February 15 for Early Decision 2. Applicants must withdraw applications to other colleges and universities. A
+  statement of understanding, acknowledging the binding nature of this program must be signed by student,
+  counselor, and parent/guardian.
+
+C22. Early Action
+
+  Do you have a nonbinding early action plan whereby students are
+  notified of an admission decision well in advance of the regular
+  notification date but do not have to commit to attending your college?
+
+  No
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                             2021-2022
+Boston University Common Data Set                                                                                                15
+
+
+
+D. Transfer Admission
+
+D1. Does your institution enroll transfer students?
+
+  Yes, credits are transferable from other accredited Colleges/Universities.
+
+
+D2. Provide the number of students who applied, were admitted, and enrolled as degree-seeking
+transfer students in fall 2022.
+
+                              Applicants   Accepted      Enrolled
+  Men                           2,588          694        277
+  Women                         3,241          997        404
+  Total                         5,829          1,691       681
+
+
+D3. Terms for which transfers may enroll
+
+                    X        Fall *                    * Students must be, or have been, a degree candidate at another
+                             Winter                    college or university, completed 12 or more credits, and enrolled
+                                                       full-time in order to be considered a transfer candidate.
+                    X        Spring *
+                             Summer
+
+
+D4. Must a transfer applicant have a minimum number of credits and the unit of measure?
+
+  12 credits
+
+
+D5. Indicate all items required of transfer students to apply for admission
+
+                                                                                 Not required for application, required
+  High School transcript                                                         to enroll
+  College transcript                                                             Required of all
+  Essay or Personal Statement                                                    Required of all
+  Interview                                                                      Not required
+  Standardized test scores                                                       Not required*
+  Transfer College Report from prior institutions                                Required of all**
+
+
+
+  * TOEFL (iBT) or IELTS required for all non-native speakers of English.
+
+
+  ** Transfer College Report from all prior institutions attended: required. One letter of recommendation
+  should be from a current professor or college administrator familiar with students' academic ability.
+  Students must be in good standing at current college or university.
+
+
+D6. Minimum high school grade point average required of transfer applicants, specify (on a 4.0
+scale)
+
+  Not applicable.
+
+
+D7. Minimum college grade point average required of transfer applicants, specify
+(on a 4.0 scale)
+
+  Average GPA of accepted transfers is 3.78 on a 4.0 scale.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                               2021-2022
+Boston University Common Data Set                                                                                            16
+
+
+
+D8. List any other application requirements specific to transfer applicants
+
+
+  Please see Boston University web site as well as The Undergraduate Programs Bulletin for specifics
+  relating to your program of interest. https://www.bu.edu/admissions/apply/transfer/ (College of Fine Arts
+  candidates must present a portfolio or participate in an audition.) See website for details: A94
+
+  See the list of majors to make sure your program of interest is open to transfer students.Transfer
+  applicants must declare a major when they apply. https://www.bu.edu/admissions/why-
+  bu/academics/majors/
+
+
+
+D9. Application priority, closing, notification, and candidate reply dates for transfer students.
+
+                                  Closing Date            Notification Date             Reply Date
+  Fall                              March 15             Beginning Mid-April          Starting June 1
+  Spring                          November 1            Mid-Nov to Mid-Dec
+
+
+D10. Does an open admission policy, if reported, apply to transfer students?
+
+  No.
+
+
+D11. Describe additional requirements for transfer admission, if applicable
+
+
+Transfer College Report, college transcript, including proof of high school graduation (or GED), course syllabi, and
+completed Common App instructor Evaluation Form must be submitted. Recommendations and an essay are also
+required.
+
+
+D12. Report the lowest grade earned for any course that may be transferred for credit
+
+  C
+
+
+
+D13. Maximum number of credits or courses that may be transferred from a two-year institution
+
+  Varies by school and college
+
+
+
+D14. Maximum number of credits or courses that may be transferred from a four-year institution
+
+  Varies by school and college
+
+
+D15. Minimum number of credits that transfers must complete at your institution to earn an
+associate's degree
+
+  Not applicable.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                           2021-2022
+Boston University Common Data Set                                                                                       17
+
+
+
+D16. Minimum number of credits that transfers must complete at your institution to earn a
+bachelor's degree
+
+  Varies by school and college
+
+
+D17. Describe other transfer credit policies
+
+
+  Please see Boston University web site as well as The Undergraduate Programs Bulletin for specifics
+  relating to your program of interest. (College of Fine Arts candidates must present a portfolio or
+  participate in an audition.)
+
+
+D18. Military Service Transfer Credit Policies
+
+Does your institution accept the following military/veteran transfer credits:
+               American Council on Education (ACE)                                          No
+                                                                                               1
+               College Level Examination Program (CLEP)                                     No
+                                                                                               1
+                DANTES Subject Standardized Tests (DSST)                                    No
+  1                              2
+      Excludes some MET Programs
+  2
+      Note some MET programs sometimes can approve CLEP and DSST examinations.
+https://www.bu.edu/met/for-students/met-policies-procedures-resources/clepdsst-examinations/
+
+
+
+D19. Maximum number of credits or courses that may be transferred based on military education
+
+               N/A
+
+
+
+
+D20. Maximum number of credits or courses that may be transferred based on Department of
+Defense supported prior learning assessments (College Level Examination Program (CLEP) or
+DANTES Subject Standardized Tests (DSST)):
+
+
+               N/A
+
+
+
+D21. Are the military/veteran credit transfer policies published on your website?
+
+                 Yes        https://www.bu.edu/finaid/types-of-aid/veterans-services/veterans-admissions-guide/
+
+
+
+
+D22. Describe other military/veteran transfer credit policies unique to your institution:
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                      2021-2022
+Boston University Common Data Set                                                                          18
+
+
+
+E. Academic Offerings and Policies
+
+E1. Specify study options: Identify those programs available at your institution
+
+  Accelerated Degree Programs                                                                  No
+
+
+  Disability Programs
+  Comprehensive transition and postsecondary program for students with intellectual disabili   No
+
+  Cooperative (Work-Study) Program                                                             Yes
+  College of Engineering, only
+
+  Cross-registration                                                                           Yes
+
+  Distance Learning                                                                            Yes
+  Limited
+
+  Double Major                                                                                 Yes
+  Through the Boston University Collaborative Degree Program (BUCOP)
+
+  Dual Enrollment                                                                              Yes
+  Only for those enrolled at Boston University Academy
+
+  English as a Second Language Courses                                                         Yes
+  Through the Center for English Language and Orientation Program (CELOP)
+
+  Exchange Student Program (Domestic)                                                          Yes
+
+  External Degree Program                                                                      No
+
+  Honors Program                                                                               Yes
+  Kilachand Honors College
+
+  Independent Study                                                                            Yes
+
+  Internships                                                                                  Yes
+
+  Liberal Arts/Career Combination                                                              Yes
+
+  Student-designed Major                                                                       Yes
+  Through the College of Arts & Sciences, exceptional students assisted by the faculty
+  design their own unique intellectual program of study.
+
+  Study Abroad                                                                                 Yes
+
+  Boston University sponsors one of the largest Study Abroad programs in the country. We
+  offer 75+ programs on six continents and attract over 2,100 students each year. Students
+  may choose from internships, field work/research, or languages and liberal arts programs.
+
+  Teacher Certification Program                                                                Yes
+
+  Undergraduate Research                                                                       Yes
+
+  Weekend College                                                                              Yes
+  Academic year and summer - Metropolitan College, only.
+  Not generally appropriate for traditional undergraduate students.
+
+  Other
+  Field study in Environmental/Ecological Science in Ecuador at the Biodiversity Station in
+  the tropical rain forest. The Photonics Center.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                         2021-2022
+Boston University Common Data Set                                                                                                  19
+
+
+
+
+E2. No longer on the Common Data Set
+
+E3. Areas in which all or most students are required to complete some course work prior to
+graduation
+
+The BU Hub, our groundbreaking new general education program, embraces the breadth of disciplines taught at BU,
+the social and intellectual richness of our residential campus, and our location in a vibrant, urban community to
+prepare our graduates for today’s interconnected, global, and fast-paced world.
+
+You’ll gain the knowledge, skills, and habits of mind needed to thrive in your personal, professional, and civic life. Our
+general education program is integrated with our majors and minors, so you take courses that interest you while
+exploring areas ranging from global citizenship to scientific and social inquiry to ethical reasoning.
+
+The Hub is robust in its options for experiential learning and co-curriculars, and its signature feature, the BU Cross-
+College Challenge (XCC), offers an opportunity to work with a team of students and faculty drawn from across our
+different schools and colleges. The best part? You get to pick your own pathway to discover your passions.
+
+
+
+
+  Computer Science
+  English (including Boston University Writing Program)
+  Foreign Languages
+  Humanities
+  Mathematics
+  Physical or Biological Sciences
+  Social Sciences
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                                 2021-2022
+Boston University Common Data Set                                                                                  20
+
+
+
+F. Student Life
+
+F1. Percentages of first-time, first-year (freshman) students and all degree-seeking
+undergraduates enrolled in Fall 2022 who fit the following categories
+
+                                           First-Time, First-Year
+                                           (Freshman) Students           Undergraduates
+  From out-of-state                                78%                        73%
+  Men who join fraternities                          -                         -
+  Women who join sororities                        11%                        10%
+  Living in college housing                        99%                        65%
+  Living off-campus/commuting                       1%                        35%
+  Age 25 or older                                   0%                        1%
+  Average age -- full time                          18                        20
+  Average age -- all students                       18                        20
+
+
+
+
+F2. Activities offered
+
+  There are currently more than 450 student organizations available for students - here is a small sample:
+
+
+  Alianza Latina                                      Minority Engineers Society
+  Campus Ministries                                   Model UN
+  Choral Group                                        Music Ensembles
+  Concert and Jazz Bands                              Musical Theatre
+  Dance                                               Opera
+  Drama/Theatre                                       Radio Station and TV Station
+  Habitat for Humanity International                  Student Government
+  Intramural Sports                                   Student-Run Film Society
+  Independent Student Newspaper                       Symphony Orchestra
+  International Student Organization                  Ultimate Frisbee
+  Literary Magazine                                   UMOJA Club
+  Marching Band                                       Yearbook
+
+
+F3. Reserve Officer's Training Corps (ROTC)
+
+  Army ROTC is offered on campus.
+  Navy ROTC is offered on campus.
+  Air Force ROTC is offered on campus.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                 2021-2022
+Boston University Common Data Set                                                                              21
+
+
+
+F4. Housing Offered
+
+  All types of college-owned, -operated, or -affiliated housing available for undergraduates at your
+  institution
+
+
+  Co-ed residences
+
+
+  Women-only residences
+
+
+  Apartment for married students         (Limited to graduate students only)
+
+
+  No special housing for international students
+
+
+  Wellness housing
+
+
+  Apartment residences available to upper-class students
+
+
+  Specially equipped rooms for physically disabled and hearing impaired students
+
+
+  Cooperative housing
+
+
+  Theme Housing
+
+
+  Other:      Specialty Halls/Floors (For groups of students with a common interest or academic major)
+              Kilachand Hall and Kilachand Honors College House
+              Gender Neutral housing
+              Gender Affirming housing
+              Global House living-learning community for students studying languages
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                             2021-2022
+Boston University Common Data Set                                                                                              22
+
+
+
+G. Annual Expenses
+
+G0. Net Price Calculator
+
+http://www.bu.edu/finaid/aid-basics/cost-of-education/net-price-calculator/
+
+
+G1. Undergraduate full-time tuition, required fees, room and board
+
+  Typical tuition, required fees, and room and board for a full-time, undergraduate student for the 2022-2023 academic
+  year.
+
+
+                                                       First Year                  Undergraduates
+  Full-time tuition                                     $61,050                        $61,050
+  Full-time mandatory fees                               $1,310                         $1,310
+  Room & board* (on campus)                             $17,400                        $17,400
+  Room only* (on campus)                                $11,260                        $11,260
+  Board only* (on campus)                                $6,140                         $6,140
+
+
+  * Can vary with type of accommodation and meal plan.
+
+
+G2. Number of credits per term a student can take for the stated full-time tuition
+
+  12 to 18 credits per term
+
+
+G3. Do tuition and fees vary by year of study (e.g., sophomore, junior, senior)?
+
+  No.
+
+
+G4. If tuition and fees vary by undergraduate instructional program, describe briefly:
+
+  Not applicable.
+
+
+G5. Estimated expenses for a typical program
+
+                                          Resident           Commuters              Commuters not
+                                          students           from home              living at home
+  Books and supplies                       $1,000              $1,000                   $1,000
+  Room* only                              $11,260                 N/A                  $11,260
+  Board* only                              $6,140              $2,500                   $6,140
+  Transportation                               $630            $2,480                    $630
+  Other (personal expenses)                $1,320              $1,320                   $1,320
+
+
+  * Can vary with type of accommodation and meal plan.
+
+
+G6. Undergraduate per-credit-hour charges FY 2021-22
+
+  Part-time tuition for all students                  $1,908.00
+  Typical part-time fees                              $60 per semester
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                             2021-2022
+Boston University Common Data Set                                                                              23
+
+
+
+H. Financial Aid
+
+H1. Aid awarded to enrolled undergraduates
+(2022-23 actual as of mid-semester, Fall 2022)
+
+  Needs-analysis methodology used: Institutional Methodology
+
+
+  Total dollar amount awarded through 2022-23 to full-time and part-time degree-seeking undergraduates
+
+
+  Scholarships and Grants                      Need-based aid     Non-need-based aid
+  Federal                                       $22,234,369             $564,979
+  State                                          $2,780,696             $33,350
+  Institutional                                $360,025,505           $21,760,175
+  Other external scholarships/
+  Grants not administered by college             $3,344,858            $4,110,536
+  Total Scholarships and Grants                $388,385,428           $26,469,040
+
+
+  Undergraduate Self-Help                      Need-based aid     Non-need-based aid
+  Student loans                                 $17,280,717           $38,539,149
+  Federal work-study                             $6,682,557               $0
+  State and other work-study/
+  employment                                        $0                    $0
+  Total undergraduate self-help                 $23,963,274           $38,539,149
+
+
+  Parent loans                                   $6,314,591           $14,191,603
+  Tuition waivers                                $7,063,784           $14,033,036
+  Athletic awards                                $2,246,711           $13,305,021
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                             2021-2022
+Boston University Common Data Set                                                                                            24
+
+
+
+H2. Number of enrolled students receiving aid, Fall 2022
+The number of degree-seeking students who applied for and received financial aid.
+
+
+  Institutional need-based gift aid also based on academics, art (School of Fine Arts, only), music/drama
+  (School of Fine Arts, only). Full-time freshmen are included in full-time undergraduates.
+
+
+                                                                                                 Less than full-time
+                                               Full-time freshmen   Full-time undergraduates      undergraduates
+  (a) Number of degree seeking
+  students                                           3634                   17415                       253
+  (b) Number in "a" who were Financial
+  Aid Applicants                                     1684                    8451                           63
+  (c) Number in "b" who were
+  determined to have need                            1469                    7462                           26
+  (d) Number in "c" who received any
+  aid                                                1468                    7458                           26
+  (e) Number in "d" who received need-
+  based gift aid                                     1462                    7372                           23
+  (f) Number in "d" who received need-
+  based self-help aid                                1064                    4951                           12
+  (g) Number in "d" who received non-
+  need-based gift aid                                 382                    1817                           6
+  (h) Number in "d" whose need was
+  fully met                                           494                    2,414                          9
+  (i) Average % of need met for need-
+  based aid recipients                               95%                     89%                        73%
+  (j) Average package (up to need) for
+  those in "d"                                      $61,211                 $57,237                   $20,845
+  (k) Average need-based gift for those
+  in "e"                                            $57,882                 $53,029                   $15,560
+  (l) Average need-based self-help for
+  those in "f"                                      $2,325                  $3,590                    $7,835
+  (m) Average need-based loan for
+  those in "f"                                       $860                   $2,267                    $7,210
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                           2021-2022
+Boston University Common Data Set                                                                                          25
+
+
+
+H2A. Number of Enrolled Students Receiving Non-need based Scholarships and Grants
+                                                                                               Less than full-time
+                                               Full-time freshmen   Full-time undergraduates    undergraduates
+
+  (n) Number in "a" with no
+  need who received
+  non-need-based aid                                  214                     669                      27
+  (o) Average award for
+  those in "n"                                      $35,315                 $28,069                 $5,258
+  (p) Number in "a" who received non-
+  need-based athletic awards                          52                      244                      1
+  (q) Average award for
+  those in "p"                                      $52,038                 $52,329                 $24,024
+
+
+H3. No longer on the Common Data Set
+
+
+
+H4. Provide number of students in 2022 undergraduate class who entered as first-time students
+and received a bachelor's degree between July 1, 2021 and June 30, 2022, exclude transfers
+
+        3560
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                         2021-2022
+Boston University Common Data Set                                                                                              26
+
+
+
+H5. Number and percent of students in class (defined in H4 above) borrowing from federal, non-
+federal, and loan sources, and the average (or mean) amount borrowed.
+
+
+                                Number in the class     Percent of the class    Average per-undergraduate-borrower
+                                (defined in H4 above)   (defined above) who     cumulative principal borrowed, of
+                                who borrowed            borrowed (nearest 1%)   those in the first column (nearest $1)
+
+
+a) Any loan program:
+Federal Perkins, Federal
+Stafford Subsidized and
+Unsubsidized,
+institutional, state, private
+                                                               36%
+loans that your institution              1271                                                 $38,263
+is aware of, etc. Include                               (excludes transfers)
+both Federal Direct
+Student Loans and
+Federal Family Education
+Loans.
+
+
+
+b) Federal loan programs:
+Federal Perkins, Federal
+Stafford Subsidized and
+Unsubsidized. Include
+both Federal Direct                                            34%
+                                         1223                                                 $21,027
+Student Loans and                                       (excludes transfers)
+Federal Family Education
+Loans.
+
+
+
+
+c) Institutional loan                                           0%
+programs.
+                                           0                                                   $0.00
+                                                        (excludes transfers)
+
+
+
+
+d) State loan programs.                   40                     5%                           $52,295
+
+
+
+
+e) Private alternative
+                                                                9%
+loans made by a bank or                   325                                                 $64,077
+lender.                                                  (excludes transfer)
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                             2021-2022
+Boston University Common Data Set                                                                               27
+
+
+
+H6. Aid to undergraduate international students: institution's policy regarding financial aid for
+undergraduate international (nonresident alien) students
+
+  Limited college-administered financial aid is available for undergraduate international students.
+  Scholarship/grant aid is non-need-based.
+
+
+  Number of recipients                                 182
+  Average aid                                          $41,958
+  Total aid                                            $7,636,315
+
+
+H7. Financial aid forms international first-year (freshman) financial aid applicants
+must submit
+
+              Institution's Own Financial Aid Form: Not applicable
+              CSS Financial Aid/PROFILE: Not applicable
+              International Student's Financial Aid Application: Not applicable
+              International Student's Certification of Finances: Required of all international students
+      X
+              for full admission
+
+
+H8. Financial aid forms domestic first-year (freshman) financial aid applicants must submit
+
+      X       Free Application for Federal Student Aid (FAFSA): Required for all
+              Institution's Own Financial Aid Form: Not applicable
+      X       CSS Financial Aid/PROFILE: Required for all
+              State (or Province) Scholarship/Grant Form: No required forms.
+      X       Non-custodial (Divorced/Separated) Parent's Statement: Required for some
+              Business/Farm Supplement: Not applicable.
+              Other: Not Applicable
+
+
+H9. Filing dates for first-year (freshman) students
+
+  Deadline date January 1 (November 1 for Early Decision candidates)
+
+
+H10. Notification dates for first-year (freshman) students
+
+  Late March (December 15 for Early Decision candidates)
+
+
+H11. Freshmen reply date
+
+  May 1 or within two weeks of notification of financial aid decision
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                              2021-2022
+Boston University Common Data Set                                                                                               28
+
+
+
+H12. Types of aid available: Loans
+
+        X      Federal Direct Subsidized Stafford Loans
+        X      Federal Direct Unsubsidized Stafford Loans
+        X      Federal Direct PLUS Loans
+        X      State Loans
+
+
+H13. Types of aid available: Scholarships and grants (need-based)
+
+        X      Federal Pell Grants
+        X      Federal Supplemental Opportunity Grants
+        X      State scholarships/grants
+        X      Private scholarships/grants
+        X      College and University scholarships/grants from institutional funds
+
+
+H14. Institutional Aid Awarding Criteria
+
+                                      Non-need-based              Need-based
+  Academics                                    X                       X
+  Alumni affiliation
+  Art                                          X                       X
+  Athletics                                    X
+  Job skills
+  ROTC                                         X
+  Leadership                                   X
+  Minority status
+  Music/drama                                  X                       X
+  Religious affiliation                        X
+  State/district residency
+
+
+H15. Affordability initiatives
+
+
+Graduates of Boston's public high schools who complete their financial aid application by Boston University's published
+deadline and demonstrate need will be awarded financial aid packages which contain no loans and meet their full
+demonstrated need.
+
+Students entering as Freshmen who are Pell Grant eligible students who complete their financial aid application by
+Boston University's published deadline and demonstrate need will be awarded financial aid packages which contain no
+loans and meet their full institutional demonstrated need.
+
+To ensure access to a BU education regardless of family means, our “affordableBU” program guarantees first-year
+undergraduate US students 100% financial assistance for demonstrated need for all four years, and our successful
+Pell Grant program guarantees eligible students a loan-free aid package.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                              2021-2022
+Boston University Common Data Set                                                                                       29
+
+
+
+I. Instructional Faculty
+
+I1. Instructional Faculty* - Fall 2022
+
+                                                                           Full-time   Part-time          Total
+  a. Instructional Faculty                                                  1,906        836              2,742
+  b. Instructional Faculty who are members of minority groups                377          95              472
+  c. Instructional Faculty who are women                                     852         358              1,210
+  d. Instructional Faculty who are men                                      1,054        477              1,531
+     Instructional Faculty who are Other                                      0              1             1
+  e. Instructional Faculty who are non-resident aliens
+  (international)                                                             79          13               92
+  f. Total with doctorate, first professional, or other terminal
+  degree**                                                                  1,737                         1,737
+
+
+
+
+                                                                                          Not Available
+  g. Total number whose highest degree is a non-terminal
+  masters**                                                                  126                          126
+  h. Total number whose highest degree is a bachelors**                       35                           35
+
+
+  i. Total number whose highest degree is unknown or other**                  8                            8
+
+
+
+  j. Total number in stand-alone graduate/professional programs
+  in which faculty teach virtually only graduate-level students              410         208              618
+
+
+  * Excludes all School of Medicine Faculty per IPEDS instructions
+  **Preliminary degrees 2/9/23
+I2. Fall 2022 Student-to-faculty ratio
+
+                 11 : 1
+
+
+  based on FTE student count of                                17,115
+  based on FTE faculty count of                                    1,608
+
+
+I3. Undergraduate class size - Fall 2022
+
+                    Class Sections             Class Subsections            Other*
+    2-9                      449                        84                   117
+  10-19                   1,223                        565                    45
+  20-29                      343                       877                    6
+  30-39                      240                       168                    4
+  40-49                      193                        26                    0
+  50-99                      208                        21                    2
+  100+                       142                        4                     2
+  Total                   2,798                       1,745                  176
+  * e.g. independent study, practicums, etc.
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                                                      2021-2022
+Boston University Common Data Set                                                                30
+
+
+
+J. Degrees Conferred
+
+J1. Degrees conferred between July 1, 2021 and June 30, 2022
+
+                                                   Diploma/
+                                                  Certificates   Associates   Bachelor's
+  Agriculture                                          -             -            -
+  Architecture                                         -             -          0.3%
+  Area and ethnic studies                            1.5%                       0.2%
+  Biological/life sciences                           0.5%            -         11.0%
+  Business/marketing                                33.9%            -         15.0%
+  Communications/journalism                          0.3%            -         14.5%
+  Communication technology                             -             -            -
+  Computer/information sciences                     13.4%            -          5.9%
+  Construction trades                                  -             -            -
+  Education                                          1.5%            -          1.2%
+  Engineering                                        0.5%            -          9.0%
+  Engineering technologies                           0.2%            -            -
+  English                                            5.7%            -          1.2%
+  Family and consumer sciences                         -             -            -
+  Foreign languages and literature                   0.2%            -          1.3%
+  Health professions & related sciences              4.5%            -          6.0%
+  History                                              -             -          0.9%
+  Homeland Security, Law/Fire, Protective Serv.      5.9%            -          0.1%
+  Interdisciplinary studies                          1.7%            -          2.7%
+  Law/legal studies                                  4.0%            -            -
+  Liberal arts/general studies                         -             -            -
+  Library science                                      -             -            -
+  Mathematics                                        0.2%            -          3.0%
+  Mechanic and repair technologies                     -             -            -
+  Military science and technologies                    -             -            -
+  Natural resources/environmental science              -             -          0.5%
+  Parks and recreation                                 -             -            -
+
+
+                                                   Diploma/
+                                                  Certificates   Associates   Bachelor's
+  Personal and culinary services                     0.2%            -            -
+  Philosophy and religious studies                     -             -          1.2%
+  Physical sciences                                    -             -          1.2%
+  Precision production                                 -             -            -
+  Psychology                                           -             -          5.6%
+  Science technologies                                 -             -            -
+  Social sciences (excl. history)                   18.6%            -         15.8%
+  Social Work - Public admin and social svcs         1.0%            -          0.1%
+  Theology and religious vocations                   2.5%            -            -
+  Transportation and materials moving                  -             -            -
+  Visual and performing arts                         3.7%            -          3.3%
+  Other                                                -             -            -
+  Total                                             100.0%           -         100.0%
+
+
+
+
+Boston University
+Analytical Services & Institutional Research                                               2021-2022
+

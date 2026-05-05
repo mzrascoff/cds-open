@@ -1,0 +1,17 @@
+year,expense,amount
+2023-2024,tuition_first_year,14222
+2023-2024,tuition_in_state,14222
+2023-2024,tuition_out_of_state,33734
+2023-2024,food_and_housing,5712
+2022-2023,tuition_first_year,13674
+2022-2023,tuition_in_state,13674
+2022-2023,tuition_out_of_state,32436
+2022-2023,room_and_board,5601
+2012-2013,tuition_in_state,345.0
+2012-2013,tuition_out_of_state,788
+2012-2013,room_only,155
+2012-2013,board_only,3108
+2012-2013,room_and_board,17194
+2012-2013,books_supplies,1550
+2012-2013,transportation,810
+2012-2013,other_expenses,2031

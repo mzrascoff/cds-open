@@ -1,0 +1,1778 @@
+                                                            Common Data Set 2019-2020
+
+
+
+
+                                   A. General Information
+A0   Respondent Information (Not for Publication)
+A0   Name:                                      Debora Tiemens
+A0   Title:                                     Assistant Director, Institutional Data
+A0   Office:                                    Office of the Executive Vice President and Provost
+A0   Mailing Address:                           111 Jessup Hall
+A0   City/State/Zip/Country:                    Iowa City, IA 52242
+A0   Phone:                                     319-335-3621
+A0   Fax:                                       319-335-3560
+A0   E-mail Address:                            deb-tiemens@uiowa.edu
+A0   Are your responses to the CDS posted for reference on your institution's Web site?                Yes   No
+                                                                                                        x
+A0   If yes, please provide the URL of the corresponding Web page:
+     https://provost.uiowa.edu/common-data-set
+
+A0A We invite you to indicate if there are items on the CDS for which you cannot use the requested
+    analytic convention, cannot provide data for the cohort requested, whose methodology is unclear,
+    or about which you have questions or comments in general. This information will not be published
+    but will help the publishers further refine CDS items.
+
+
+
+
+A1   Address Information
+A1   Name of College/University:              University of Iowa
+A1   Mailing Address:                         101 Jessup Hall
+A1   City/State/Zip/Country:                  Iowa City, Iowa 52242 USA
+A1   Street Address (if different):
+A1   City/State/Zip/Country:
+A1   Main Phone Number:                       319-335-3500
+A1   WWW Home Page Address:                   www.uiowa.edu
+A1   Admissions Phone Number:                 319-335-3847
+A1   Admissions Toll-Free Phone Number:
+A1   Admissions Office Mailing Address:       107 Calvin Hall
+A1   City/State/Zip/Country:                  Iowa City, Iowa 52242 USA
+A1   Admissions Fax Number:                   319-335-1535
+A1   Admissions E-mail Address:               admissions@uiowa.edu
+A1        If there is a separate URL for      https://admissions.uiowa.edu/apply/apply
+          your school’s online application,
+          please specify:
+A1        If you have a mailing address
+          other than the above to which
+          applications should be sent,
+          please provide:
+
+A2   Source of institutional control (Check only one):
+A2   Public
+A2   Private (nonprofit)                    x
+A2   Proprietary
+
+A3   Classify your undergraduate institution:
+A3   Coeducational college                 x
+A3   Men's college
+A3   Women's college
+
+A4   Academic year calendar:
+A4   Semester                                  x
+A4   Quarter
+A4   Trimester
+A4   4-1-4
+A4   Continuous
+A4   Differs by program (describe):
+
+A4   Other (describe):
+
+
+
+
+                                                                       CDS-A                                      Page 1
+                                                Common Data Set 2019-2020
+
+
+
+A5   Degrees offered by your institution:
+
+A5   Certificate
+A5   Diploma
+A5   Associate
+A5   Transfer Associate
+A5   Terminal Associate
+A5   Bachelor's                             x
+A5   Postbachelor's certificate             x
+A5   Master's                               x
+A5   Post-master's certificate              x
+A5   Doctoral degree
+                                            x
+     research/scholarship
+A5   Doctoral degree –
+                                            x
+     professional practice
+A5   Doctoral degree -- other
+A5   Doctoral degree -- other
+
+
+
+
+                                                         CDS-A              Page 2
+                                                       Common Data Set 2019-2020
+
+
+
+
+                       B. ENROLLMENT AND PERSISTENCE
+B1   Institutional Enrollment - Men and Women Provide numbers of students for each of the following
+     categories as of the institution's official fall reporting date or as of October 15, 2019. Note: Report
+     students formerly designated as “first professional” in the graduate cells. Please see:
+     https://nces.ed.gov/ipeds/pdf/Reporting_Study_Abroad%20Students_5.31.17.pdf
+B1                                                 FULL-TIME                         PART-TIME
+B1                                           Men             Women              Men              Women
+B1   Undergraduates
+B1   Degree-seeking, first-time
+     freshmen                                     2101             2,824                34                27
+B1   Other first-year, degree-seeking             490                453                43                73
+B1   All other degree-seeking                   7,061              8,163               806               845
+B1   Total degree-seeking                       9,652            11,440                883               945
+B1   All other undergraduates enrolled
+     in credit courses                              65                55               246               196
+B1   Total undergraduates                       9,717            11,495             1,129              1,141
+B1   Graduate
+B1   Degree-seeking, first-time                    743                856               174               175
+B1   All other degree-seeking                     1807              1994                745               808
+B1   All other graduates enrolled in
+     credit courses                                  14                38               194               210
+B1   Total graduate                               2564              2888              1113              1193
+B1   Total all undergraduates                                                                         23,482
+B1   Total all graduate                                                                                7,758
+B1   GRAND TOTAL ALL STUDENTS                                                                         31,240
+
+B2   Enrollment by Racial/Ethnic Category. Provide numbers of undergraduate students for each of
+     the following categories as of the institution's official fall reporting date or as of October 15, 2019.
+     Include international students only in the category "Nonresident aliens." Complete the "Total
+     Undergraduates" column only if you cannot provide data for the first two columns. Report as your
+     institution reports to IPEDS: persons who are Hispanic should be reported only on the Hispanic
+     line, not under any race, and persons who are non-Hispanic multi-racial should be reported only
+     under "Two or more races."
+B2                                                                                                     Total
+                                                                           Degree-Seeking
+                                                         Degree-Seeking                          Undergraduates
+                                                                           Undergraduates
+                                                           First-Time                           (both degree- and
+                                                                          (include first-time
+                                                           First Year                              non-degree-
+                                                                              first-year)
+                                                                                                     seeking)
+B2   Nonresident aliens                                             120               1,235               1,259
+B2   Hispanic/Latino                                                442               1,817               1,847
+B2   Black or African American, non-Hispanic                        135                 674                 692
+B2   White, non-Hispanic                                          3,758              16,942              17,316
+B2   American Indian or Alaska Native, non-Hispanic                  14                  46                  48
+B2   Asian, non-Hispanic                                            204                 949                 976
+B2   Native Hawaiian or other Pacific Islander, non-
+     Hispanic                                                         6                  18                  18
+B2   Two or more races, non-Hispanic                                186                 786                 806
+B2   Race and/or ethnicity unknown                                  121                 453                 520
+B2   TOTAL                                                        4,986              22,920              23,482
+
+     Persistence
+B3   Number of degrees awarded from July 1, 2018 to June 30, 2019
+B3   Certificate/diploma
+B3   Associate degrees
+B3   Bachelor's degrees                    5811
+B3   Postbachelor's certificates             776
+B3   Master's degrees                      1324
+B3   Post-Master's certificates              382
+B3   Doctoral degrees –
+     research/scholarship                    417
+B3   Doctoral degrees – professional
+     practice                                467
+B3   Doctoral degrees – other
+
+
+
+     Graduation Rates
+
+
+
+
+                                                                 CDS-B                                              Page 3
+                                                                          Common Data Set 2019-2020
+
+
+
+
+           The items in this section correspond to data elements collected by the IPEDS Web-based Data
+           Collection System’s Graduation Rate Survey (GRS). For complete instructions and definitions of data
+           elements, see the IPEDS GRS Forms and Instructions for the 2019-20 Survey
+
+
+
+           For Bachelor's or Equivalent Institutions
+
+
+
+           In the following section for bachelor’s or equivalent programs, please disaggregate the Fall 2012 and Fall 2013
+           cohorts (formerly CDS B4-B11) into four groups:
+           • Students who received a Federal Pell Grant*
+           • Recipients of a subsidized Stafford Loan who did not receive a Pell Grant
+           • Students who did not receive either a Pell Grant or a subsidized Stafford Loan
+           • Total (all students, regardless of Pell Grant or subsidized loan status)
+           *Students who received both a Federal Pell Grant and a subsidized Stafford Loan should be reported in the
+           "Recipients of a Federal Pell Grant" column.
+           For each graduation rate grid below, the numbers in the first three columns for Questions A-G should sum to the
+           cohort total in the fourth column (formerly CDS B4-B11).
+
+
+
+
+           Fall 2013 Cohort
+
+
+
+                                                                            Recipients of a   Students who
+                                                                              Subsidized      did not receive
+                                                              Recipients of                                     Total (sum of 3
+                                                                            Stafford Loan       either a Pell
+                                                               a Federal                                        columes to the
+                                                                              who did not        Grant or a
+                                                               Pell Grant                                             left)
+                                                                             receive a Pell     subsidized
+                                                                                 Grant         Stafford Loan
+
+Formerly
+B4         A- Initital 2013 cohort of first-time, full-
+           time bachelor's (or equivalent) degree             796          663                2810              4269
+           seeking undergraduate-students
+
+Formerly   B- Of the initial 2013 cohort, how many did not
+           persist and did not graduate for the following
+B5         reasons: deceased, permanently disabled,
+           armed forces, foreign aid service of the federal
+                                                                                                                0
+           government, or official church missions; total
+           allowable exclusions
+Formerly
+B6         C- Final 2013 cohort, after adjusting for
+           allowable exclusions
+                                                              796          663                2810              4269
+
+
+Formerly
+B7         D - Of the initial 2013 cohort, how many
+           completed the program in four years or             350          339                1633              2322
+           less (by Aug. 31, 2017)
+
+Formerly
+B8         E - Of the initial 2013 cohort, how many
+           completed the program in more than four            102          97                 440               639
+           years but in five years or less (after Aug.
+           31, 2017 and by Aug. 31, 2018)
+Formerly
+B9         F - Of the initial 2013 cohort, how many
+           completed the program in more than five            22           22                 78                122
+           years but in six years or less (after Aug.
+           31, 2018 and by Aug. 31, 2019)
+Formerly
+B10        G - Total graduating within six years (sum
+           of lines D, E, and F)
+                                                      474                  458                2151              3083
+
+
+Formerly
+B11        H - Six-year graduation rate for 2013
+           cohort (G divided by C)
+                                                              0.595477387 0.690799397         0.765480427       0.722183181
+
+
+
+
+                                                                                     CDS-B                                        Page 4
+                                                                            Common Data Set 2019-2020
+
+
+
+
+           Fall 2012 Cohort
+
+
+
+                                                                            Recipients of a     Students who
+                                                                              Subsidized        did not receive
+                                                              Recipients of                                       Total (sum of 3
+                                                                            Stafford Loan         either a Pell
+                                                               a Federal                                          columes to the
+                                                                              who did not          Grant or a
+                                                               Pell Grant                                               left)
+                                                                             receive a Pell       subsidized
+                                                                                 Grant           Stafford Loan
+
+Formerly
+B4           A- Initital 2012 cohort of first-time, full-
+             time bachelor's (or equivalent) degree               863             833                2597              4293
+                seeking undergraduate-students
+
+Formerly   B- Of the initial 2012 cohort, how many did not
+            persist and did not graduate for the following
+B5           reasons: deceased, permanently disabled,
+           armed forces, foreign aid service of the federal
+                                                                                                                        0
+            government, or official church missions; total
+                         allowable exclusions
+Formerly
+B6          C- Final 2012 cohort, after adjusting for
+                      allowable exclusions
+                                                                  863             833                2597              4293
+
+
+Formerly
+B7          D - Of the initial 2012 cohort, how many
+            completed the program in four years or                374             440                1463              2277
+                     less (by Aug. 31, 2016)
+
+Formerly
+            E - Of the initial 2012 cohort, how many
+B8         completed the program in more than four
+           years but in five years or less (after Aug.
+                                                                  142             130                492               764
+                31, 2016 and by Aug. 31, 2017)
+
+Formerly
+B9         F - Of the initial 2012 cohort, how many
+           completed the program in more than five                 33              20                 49               102
+           years but in six years or less (after Aug.
+           31, 2017 and by Aug. 31, 2018)
+Formerly
+B10        G - Total graduating within six years (sum
+           of lines D, E, and F)
+                                                                  549             590                2004              3143
+
+
+Formerly
+B11        H - Six-year graduation rate for 2012
+           cohort (G divided by C)
+                                                              0.636152955     0.708283313        0.771659607       0.732122059
+
+
+
+           For Two-Year Institutions
+
+           Please provide data for the 2016 cohort if available. If 2015 cohort data are not
+           available, provide data for the 2015 cohort.
+
+           2016 Cohort
+B12        Initial 2016 cohort, total of first-time, full-time degree/certificate-seeking students:
+B13        Of the initial 2016 cohort, how many did not persist and did not graduate for the
+           following reasons: death, permanent disability, service in the armed forces, foreign
+           aid service of the federal government, or official church missions; total allowable
+           exclusions:
+B14        Final 2016 cohort, after adjusting for allowable exclusions (Subtract question B13
+           from question B12):                                                                                                   0
+B15        Completers of programs of less than two years duration (total):
+
+B16        Completers of programs of less than two years within 150 percent of normal time:
+
+B17        Completers of programs of at least two but less than four years (total):
+
+
+
+
+                                                                                        CDS-B                                        Page 5
+                                                          Common Data Set 2019-2020
+
+
+
+B18   Completers of programs of at least two but less than four-years within 150 percent of
+      normal time:
+B19   Total transfers-out (within three years) to other institutions:
+B20   Total transfers to two-year institutions:
+B21   Total transfers to four-year institutions:
+
+
+      2015 Cohort
+B12   Initial 2015 cohort, total of first-time, full-time degree/certificate-seeking students:
+B13   Of the initial 2015 cohort, how many did not persist and did not graduate for the
+      following reasons: death, permanent disability, service in the armed forces, foreign
+      aid service of the federal government, or official church missions; total allowable
+      exclusions:
+B14   Final 2015cohort, after adjusting for allowable exclusions (Subtract question B13 from
+      question B12):                                                                                          0
+B15   Completers of programs of less than two years duration (total):
+B16   Completers of programs of less than two years within 150 percent of normal time:
+B17   Completers of programs of at least two but less than four years (total):
+
+B18   Completers of programs of at least two but less than four-years within 150 percent of
+      normal time:
+B19   Total transfers-out (within three years) to other institutions:
+B20   Total transfers to two-year institutions:
+B21   Total transfers to four-year institutions:
+
+
+      Retention Rates
+      Report for the cohort of all full-time, first-time bachelor’s (or equivalent) degree-seeking undergraduate
+      students who entered in Fall 2018 (or the preceding summer term). The initial cohort may be adjusted for
+      students who departed for the following reasons: death, permanent disability, service in the armed
+      forces, foreign aid service of the federal government or official church missions. No other adjustments to
+      the initial cohort should be made.
+
+B22   For the cohort of all full-time bachelor’s (or equivalent) degree-seeking undergraduate
+      students who entered your institution as freshmen in Fall 2018 (or the preceding
+      summer term), what percentage was enrolled at your institution as of the date your
+      institution calculates its official enrollment in Fall 2019?
+                                                                                                        85.90%
+
+
+
+
+                                                                        CDS-B                                      Page 6
+                                                            Common Data Set 2019-2020
+
+
+
+
+              C. FIRST-TIME, FIRST-YEAR (FRESHMAN) ADMISSION
+     Applications
+C1   First-time, first-year, (freshmen) students: Provide the number of degree-seeking, first-time, first-
+     year students who applied, were admitted, and enrolled (full- or part-time) in Fall 2019. Include
+     early decision, early action, and students who began studies during summer in this cohort.
+     Applicants should include only those students who fulfilled the requirements for consideration
+     for admission (i.e., who completed actionable applications) and who have been notified of one of
+     the following actions: admission, nonadmission, placement on waiting list, or application
+     withdrawn (by applicant or institution). Admitted applicants should include wait-listed students
+     who were subsequently offered admission.
+C1   Total first-time, first-year (freshman) men who applied                      11,595
+C1   Total first-time, first-year (freshman) women who applied                    14,333
+
+C1   Total first-time, first-year (freshman) men who were admitted                  9,252
+C1   Total first-time, first-year (freshman) women who were admitted               12,152
+
+C1   Total full-time, first-time, first-year (freshman) men who enrolled             2103
+C1   Total part-time, first-time, first-year (freshman) men who enrolled               34
+
+C1   Total full-time, first-time, first-year (freshman) women who enrolled           2822
+C1   Total part-time, first-time, first-year (freshman) women who enrolled             27
+
+C2   Freshman wait-listed students (students who met admission requirements but whose final
+     admission was contingent on space availability)
+                                                                         Yes             No
+C2   Do you have a policy of placing students on a waiting list?          x
+C2   If yes, please answer the questions below for Fall 2019 admissions:
+C2   Number of qualified applicants offered a place on waiting list             12
+C2   Number accepting a place on the waiting list                               10
+C2   Number of wait-listed students admitted                                     4
+                                                                         Yes             No
+C2   Is your waiting list ranked?                                                         x
+C2   If yes, do you release that information to students?
+C2   Do you release that information to school counselors?
+
+     Admission Requirements
+C3   High school completion requirement
+C3   High school diploma is required and GED is
+                                                                  x
+     accepted
+C3   High school diploma is required and GED is not
+     accepted
+C3   High school diploma or equivalent is not required
+
+C4   Does your institution require or recommend a general college-preparatory program for degree-
+     seeking students?
+C4   Require                                               x
+C4   Recommend
+C4   Neither require nor recommend
+
+C5   Distribution of high school units required and/or recommended. Specify the distribution of academic
+     high school course units required and/or recommended of all or most degree-seeking students using
+     Carnegie units (one unit equals one year of study or its equivalent). If you use a different system for
+     calculating units, please convert.
+C5                                           Units             Units
+                                            Required       Recommended
+C5   Total academic units                      15                 1
+C5   English                                   4
+C5   Mathematics                               3                  4
+C5   Science                                   3
+C5     Of these, units that must be
+       lab
+C5   Foreign language                          2
+C5   Social studies                            3
+C5   History
+C5   Academic electives
+C5   Computer Science
+C5   Visual/Performing Arts
+C5   Other (specify)
+
+
+
+                                                                           CDS-C                               Page 7
+                                                            Common Data Set 2019-2020
+
+
+
+
+     Basis for Selection
+C6   Do you have an open admission policy, under which virtually all secondary school graduates or students
+     with GED equivalency diplomas are admitted without regard to academic record, test scores, or other
+     qualifications? If so, check which applies:
+C6   Open admission policy as described above for all students
+C6   Open admission policy as described above for most students, but--
+C6      selective admission for out-of-state students
+C6      selective admission to some programs
+C6   other (explain):
+
+
+C7   Relative importance of each of the following academic and nonacademic factors in first-time, first-
+     year, degree-seeking (freshman) admission decisions.
+C7
+                                        Very Important       Important         Considered      Not Considered
+C7   Academic
+C7     Rigor of secondary school
+                                               x
+       record
+C7     Class rank                              x
+C7     Academic GPA                            x
+C7     Standardized test scores                x
+C7     Application Essay                                                                               x
+C7     Recommendation(s)                                                             x
+C7   Nonacademic
+C7      Interview                                                                                      x
+C7      Extracurricular activities                                                                     x
+C7      Talent/ability                                                               x
+C7      Character/personal qualities                                                 x
+C7      First generation                                                                               x
+C7      Alumni/ae relation                                                                             x
+C7      Geographical residence                                                                         x
+C7      State residency                                                              x
+C7      Religious
+                                                                                                       x
+        affiliation/commitment
+C7      Racial/ethnic status                                                                           x
+C7      Volunteer work                                                                                 x
+C7      Work experience                                                                                x
+C7      Level of applicant’s interest                                                                  X
+
+     SAT and ACT Policies
+C8   Entrance exams
+                                                                                   Yes                  No
+C8A Does your institution make use of SAT, ACT, or SAT Subject Test
+    scores in admission decisions for first-time, first-year, degree-               x
+    seeking applicants?
+C8A If yes, place check marks in the appropriate boxes below to reflect your institution’s policies for use in
+    admission for Fall 2021.
+C8A                                                                      ADMISSION
+C8A                                         Require           Recommend    Require for Some       Consider if      Not
+                                                                                                   Submitted      Used
+C8A SAT or ACT                                 x
+C8A ACT only
+C8A SAT only
+C8A SAT and SAT Subject Tests or
+    ACT
+C8A SAT Subject Tests only
+
+C8B If your institution will make use of the ACT in admission decisions for first-time, first-year, degree-seeking
+    applicants for Fall 2021, please indicate which ONE of the following applies: (regardless of whether the writing
+    score will be used in the admissions process):
+C8B ACT with writing required
+C8B ACT with writing recommended                                                    x
+C8B ACT with or without writing accepted
+
+
+
+
+                                                                         CDS-C                                           Page 8
+                                                                    Common Data Set 2019-2020
+
+
+
+C8B If your institution will make use of the SAT in admission decisions for first-time, first-year, degree-seeking
+    for Fall 2021 please indicate which ONE of the following applies (regardless of whether the Essay score will be used
+    in the admissions process:
+C8B SAT with Essay component required
+C8B SAT with Essay component recommended
+C8B SAT with or without Essay component accepted                                      x
+
+
+
+C8C Please indicate how your institution will use the SAT or ACT writing component; check all that apply:
+C8C                                                                         SAT essay          ACT essay
+C8C For admission
+C8C For placement
+C8C For advising
+C8C In place of an application essay
+C8C
+    As a validity check on the application essay
+C8C No college policy as of now                                                 x                   x
+C8C Not using essay component                                                   x                   x
+
+C8D In addition, does your institution use applicants' test scores for academic advising?
+C8D                                          Yes                 No
+                                                                          x
+
+C8E Latest date by which SAT or ACT scores must be received for fall-                      5/1
+C8E Latest date by which SAT Subject Test scores must be received for
+    fall-term admission
+
+
+
+C8F If necessary, use this space to clarify your test policies (e.g., if tests are recommended for some
+C8F
+
+
+C8G Please indicate which tests your institution uses for placement (e.g., state tests):
+C8G SAT                                                                                    x
+C8G ACT                                                                                    x
+C8G SAT Subject Tests
+C8G AP                                                                                     x
+C8G CLEP                                                                                   x
+C8G Institutional Exam                                                                     x
+C8G State Exam (specify):
+
+      Freshman Profile
+      Provide information for ALL enrolled, degree-seeking, full-time and part-time, first-time, first-year
+      (freshman) students enrolled in Fall 2019, including students who began studies during summer,
+      international students/nonresident aliens, and students admitted under special arrangements.
+
+
+
+
+C9    Percent and number of first-time, first-year (freshman) students enrolled in Fall 2019 who
+      submitted national standardized (SAT/ACT) test scores. Include information for ALL enrolled,
+      degree-seeking, first-time, first-year (freshman) students who submitted test scores. Do not
+      include partial test scores (e.g., mathematics scores but not critical reading for a category of
+      students) or combine other standardized test results (such as TOEFL) in this item. Do not convert
+      SAT scores to ACT scores and vice versa. If a student submitted multiple sets of scores for a
+      single test, report this information according to how you use the data. For example:
+      If you consider the highest scores from either submission, use the highest combination of scores
+      (e.g., verbal from one submission, math from the other).
+      If you average the scores, use the average to report the scores.
+
+C9    Percent submitting SAT scores                        29% Number submitting SAT scores                   1440
+C9    Percent submitting ACT scores                        87% Number submitting ACT scores                   4320
+
+C9                                           25th Percentile      75th Percentile
+      SAT Composite                               1140                 1330
+C9    SAT Evidence-Based Reading
+      and Writing                                   560                  660
+
+
+
+                                                                                 CDS-C                                     Page 9
+                                                            Common Data Set 2019-2020
+
+
+
+C9   SAT Math                                 570                680
+C9   ACT Composite                             22                 29
+C9   ACT Math                                  21                 28
+C9   ACT English                               21                 30
+C9   ACT Writing
+
+C9  Percent of first-time, first-year (freshman) students with scores in each range:
+C9                                         SAT Composite
+C9  1400-1600                             12.36%
+C9  1200-1399                             50.35%
+C9  1000-1199                             33.26%
+C9  800-999                               4.03%
+C9  600-799                               0.00%
+C9  400-599                               0.00%
+    Totals should = 100%                  100.00%
+C9                                         SAT Evidence-
+                                           Based Reading
+                                             and Writing       SAT Math
+C9 700-800                                        11.88%            18.06%
+C9 600-699                                        47.50%            44.31%
+C9 500-599                                        35.28%            32.15%
+C9 400-499                                          5.35%             5.28%
+C9 300-399                                          0.00%             0.21%
+C9 200-299                                          0.00%             0.00%
+    Totals should = 100%                         100.00%           100.00%
+C9                                         ACT Composite      ACT English       ACT Math
+C9 30-36                                          21.25%            25.06%            13.90%
+C9 24-29                                          43.31%            33.66%            47.16%
+C9 18-23                                          33.38%            34.28%            30.32%
+C9 12-17                                            2.06%             6.86%            8.62%
+C9 6-11                                             0.00%             0.14%            0.00%
+C9 Below 6                                          0.00%             0.00%            0.00%
+    Totals should = 100%                         100.00%           100.00%           100.00%
+C10 Percent of all degree-seeking, first-time, first-year (freshman) students who had high school class rank
+    within each of the following ranges (report information for those students from whom you collected high
+    school rank information).
+
+C10 Percent in top tenth of high school graduating class                                32%
+C10 Percent in top quarter of high school graduating class                              63%
+C10 Percent in top half of high school graduating class                                 93% Top half +
+C10 Percent in bottom half of high school graduating class                                7% bottom half = 100%
+C10 Percent in bottom quarter of high school graduating class                             0%
+C10 Percent of total first-time, first-year (freshmen) students who submitted high school
+    class rank:                                                                                           47%
+
+
+C11 Percentage of all enrolled, degree-seeking, first-time, first-year (freshman) students who had high school
+    grade-point averages within each of the following ranges (using 4.0 scale). Report information only for
+    those students from whom you collected high school GPA.
+
+
+
+C11 Percent who had GPA of 4.0                                     27.13%
+C11 Percent who had GPA between 3.75 and 3.99                      27.62%
+C11 Percent who had GPA between 3.50 and 3.74                      19.70%
+C11 Percent who had GPA between 3.25 and 3.49                      14.19%
+C11 Percent who had GPA between 3.00 and 3.24                       7.53%
+C11 Percent who had GPA between 2.50 and 2.99                       3.74%
+C11 Percent who had GPA between 2.0 and 2.49                        0.08%
+C11 Percent who had GPA between 1.0 and 1.99                        0.00%
+C11 Percent who had GPA below 1.0                                   0.00%
+    Totals should = 100%                                          100.00%
+
+C12 Average high school GPA of all degree-seeking, first-time, first-year
+    (freshman) students who submitted GPA:
+                                                                                        3.76
+C12 Percent of total first-time, first-year (freshman) students who
+    submitted high school GPA:                                                      97.51%
+
+
+
+
+                                                                       CDS-C                                      Page 10
+                                                              Common Data Set 2019-2020
+
+
+
+     Admission Policies
+C13 Application Fee
+C13                                           Yes                    No
+C13 Does your institution have an
+                                                x
+    application fee?
+C13 Amount of application fee:                   $40.00
+C13                                           Yes                    No
+C13 Can it be waived for applicants
+                                                x
+    with financial need?
+
+C13 If you have an application fee and an on-line application option,
+C13 Same fee:
+                                              x
+C13 Free:
+C13 Reduced:
+
+C13                                           Yes                    No
+C13 Can on-line application fee be
+    waived for applicants with                  x
+    financial need?
+
+C14 Application closing date
+C14                                           Yes                    No
+C14 Does your institution have an
+    application closing date?                   x
+C14 Application closing date (fall):                  5/1
+C14 Priority date:
+
+C15                                                                                Yes    No
+C15 Are first-time, first-year students accepted for terms other than               x
+
+
+
+C16 Notification to applicants of admission decision sent (fill in one only)
+C16 On a rolling basis beginning
+    (date):                                      8/1
+C16 By (date):
+C16 Other:
+
+
+C17 Reply policy for admitted applicants (fill in one only)
+C17 Must reply by (date):                           5/1
+C17 No set date:
+C17 Must reply by May 1 or within
+    _____ weeks if notified
+    thereafter                                        2
+C17 Other:
+
+C17 Deadline for housing deposit (MM/DD):                                  6/15
+C17 Amount of housing deposit:                                            75.00
+C17 Refundable if student does not enroll?
+C17    Yes, in full
+C17    Yes, in part
+C17    No                                       x
+
+C18 Deferred admission
+C18                                                                                Yes    No
+C18 Does your institution allow students to postpone enrollment after
+    admission?                                                                      x
+
+C18 If yes, maximum period of postponement:                 1 Year
+
+C19 Early admission of high school students
+C19                                                                                Yes    No
+C19 Does your institution allow high school students to enroll as full-time,
+    first-time, first-year (freshman) students one year or more before              x
+    high school graduation?
+
+
+
+
+                                                                           CDS-C               Page 11
+                                                             Common Data Set 2019-2020
+
+
+
+C20 Common Application                  Question removed from CDS.             (Initiated during 2006-2007 cycle)
+
+     Early Decision and Early Action Plans
+C21 Early Decision
+C21                                                                                  Yes                No
+C21 Does your institution offer an early decision plan (an admission plan
+    that permits students to apply and be notified of an admission
+    decision well in advance of the regular notification date and that                                   x
+    asks students to commit to attending if accepted) for first-time, first-
+    year (freshman) applicants for fall enrollment?
+C21 If “yes,” please complete the following:
+C21 First or only early decision plan closing date
+C21 First or only early decision plan notification date
+C21 Other early decision plan closing date
+C21 Other early decision plan notification date
+
+C21 For the Fall 2019 entering class:
+C21 Number of early decision applications received by your institution
+C21 Number of applicants admitted under early decision plan
+C21 Please provide significant details about your early decision plan:
+
+
+C22 Early action
+C22                                                                                  Yes                No
+C22 Do you have a nonbinding early action plan whereby students are
+    notified of an admission decision well in advance of the regular
+    notification date but do not have to commit to attending your                                        x
+    college?
+
+C22 If “yes,” please complete the following:
+C22 Early action closing date
+C22 Early action notification date
+
+C22 Is your early action plan a “restrictive” plan under which you limit students from applying to other early plans?
+C22                Yes                          No
+C22
+
+
+
+
+                                                                         CDS-C                                          Page 12
+                                                               Common Data Set 2019-2020
+
+
+
+
+                                    D. TRANSFER ADMISSION
+
+     Fall Applicants
+D1                                                                          Yes                 No
+D1   Does your institution enroll transfer students? (If no,
+                                                                              x
+     please skip to Section E)
+D1   If yes, may transfer students earn advanced standing
+     credit by transferring credits earned from course work                   x
+     completed at other colleges/universities?
+
+D2   Provide the number of students who applied, were admitted, and enrolled as degree-seeking transfer
+     students in Fall 2019.
+D2                                                    Admitted           Enrolled
+                                    Applicants
+                                                      Applicants        Applicants
+D2   Men                              1,529             1,000              534
+D2   Women                            1,434             1,029              525
+D2   Total                            2,963             2,029             1,059
+
+     Application for Admission
+D3   Indicate terms for which transfers may enroll:
+D3   Fall                               x
+D3   Winter
+D3   Spring                             x
+D3   Summer                             x
+
+D4                                                                          Yes                 No
+D4   Must a transfer applicant have a minimum number of
+     credits completed or else must apply as an entering                      x
+     freshman?
+D4   If yes, what is the minimum number of credits and the unit          24 Sem Hrs
+     of measure?
+
+D5   Indicate all items required of transfer students to apply for admission:
+D5                                 Required of All
+                                                      Recommended      Recommended
+                                                                                          Required of Some   Not Required
+                                                          of All         of Some
+D5   High school transcript                                                                      x
+D5   College transcript(s)                                                                       x
+D5   Essay or personal
+                                                                                                 x
+     statement
+D5   Interview                                                                                                    x
+D5   Standardized test scores                                                                    x
+D5   Statement of good
+     standing from prior                                                                                          x
+     institution(s)
+
+D6   If a minimum high school grade point average is required
+     of transfer applicants, specify (on a 4.0 scale):
+
+D7   If a minimum college grade point average is required of
+     transfer applicants, specify (on a 4.0 scale):
+
+D8   List any other application requirements specific to transfer applicants: 2.0 w/AA/AS Iowa Community
+     College or 2.25 AA Illinois Community College, otherwise 2.50
+
+D9   List application priority, closing, notification, and candidate reply dates for transfer students. If
+     applications are reviewed on a continuous or rolling basis, place a check mark in the “Rolling admission”
+     column.
+D9                                                                                                            Rolling
+                                    Priority Date     Closing Date    Notification Date     Reply Date
+                                                                                                             Admission
+D9   Fall                                                      7/15                                    5/1        x
+D9   Winter                                                                                                       x
+D9   Spring                                                    12/1                                  11/15        x
+D9   Summer                                                                                            5/1        x
+
+D10                                                                         Yes                 No
+D10 Does an open admission policy, if reported, apply to
+                                                                                                 x
+    transfer students?
+
+
+
+
+                                                                            CDS-D                                           Page 13
+                                                                     Common Data Set 2019-2020
+
+
+
+
+D11 Describe additional requirements for transfer admission, if applicable:
+
+
+      Transfer Credit Policies
+D12 Report the lowest grade earned for any course that may
+    be transferred for credit:                                                             D-
+
+D13                                                                            Number             Unit Type
+D13 Maximum number of credits or courses that may be
+                                                                                  60            semester hour
+    transferred from a two-year institution:
+
+D14                                                                            Number             Unit Type
+D14 Maximum number of credits or courses that may be
+                                                                               unlimited
+    transferred from a four-year institution:
+
+D15 Minimum number of credits that transfers must complete
+    at your institution to earn an associate degree:
+
+D16 Minimum number of credits that transfers must complete
+    at your institution to earn a bachelor’s degree:                               30 s.h.
+
+D17 Describe other transfer credit policies:
+
+
+      Military Service Transfer Credit Policies
+D18 Does your institution accept the following military/veteran transfer credits:
+
+                                                                                 Yes                 No
+      American Council on Education (ACE)                                         x
+      College Level Examination Program (CLEP)                                    x
+      DANTES Subject Standardized Tests (DSST)                                    x
+
+D19                                                                            Number             Unit Type
+      Maximum number of credits or courses that may be
+      transferred based on military education evaluated by the
+      American Council on Education (ACE):                                 unlimited
+
+D20                                                                            Number             Unit Type
+      Maximum number of credits or courses that may be transferred
+      based on Department of Defense supported prior learning
+      assessments (College Level Examination Program (CLEP) or                                    semester
+      DANTES Subject Standardized Tests (DSST)):                                           30       hours
+
+                                                                                 Yes                 No
+D21
+      Are the military/veteran credit transfer policies on your website?   x
+
+D21 If yes, please provide the URL where they can be located: https://admissions.uiowa.edu/undergraduate-programs/credit-military-service
+
+
+D22 Describe other military/veteran transfer credit policies unique to your institution:
+
+
+
+
+                                                                                 CDS-D                                                      Page 14
+                                                            Common Data Set 2019-2020
+
+
+
+
+                   E. ACADEMIC OFFERINGS AND POLICIES
+E1   Special study options: Identify those programs available at your institution. Refer to the
+     glossary for definitions.
+E1   Accelerated program                                                                        x
+E1   Cooperative education program                                                              x
+E1   Cross-registration
+E1   Distance learning                                                                          x
+E1   Double major                                                                               x
+E1   Dual enrollment                                                                            x
+E1   English as a Second Language (ESL)                                                         x
+E1   Exchange student program (domestic)                                                        x
+E1   External degree program                                                                    x
+E1   Honors Program                                                                             x
+E1   Independent study                                                                          x
+E1   Internships                                                                                x
+E1   Liberal arts/career combination                                                            x
+E1   Student-designed major                                                                     x
+E1   Study abroad                                                                               x
+E1   Teacher certification program                                                              x
+E1   Weekend college
+E1   Other (specify):
+
+
+E2   This question has been removed from the Common Data Set.
+
+E3   Areas in which all or most students are required to complete some course
+     work prior to graduation:
+E3   Arts/fine arts
+E3   Computer literacy
+E3   English (including composition)                                                           x
+E3   Foreign languages                                                                         x
+E3   History                                                                                   x
+E3   Humanities                                                                                x
+E3   Mathematics                                                                               x
+E3   Philosophy
+E3   Sciences (biological or physical)                                                         x
+E3   Social science                                                                            x
+E3   Other (describe):
+
+
+
+
+                                                                       CDS-E                        Page 15
+                                                             Common Data Set 2019-2020
+
+
+
+
+                                     F. STUDENT LIFE
+F1 Percentages of first-time, first-year (freshman) degree-seeking students and degree-seeking
+   undergraduates enrolled in Fall 2019 who fit the following categories:
+F1                                                       First-time, first-year
+                                                              (freshman)        Undergraduates
+                                                                students
+F1 Percent who are from out of state (exclude
+   international/nonresident aliens from the numerator
+   and denominator)                                                        42%             32%
+F1 Percent of men who join fraternities                                    18%             13%
+F1 Percent of women who join sororities                                    23%             17%
+F1 Percent who live in college-owned, -operated, or -
+   affiliated housing                                                      94%             28%
+F1 Percent who live off campus or commute                                   6%             72%
+F1 Percent of students age 25 and older                                     0%               7%
+F1 Average age of full-time students                                         18               20
+F1 Average age of all students (full- and part-time)                         18               21
+
+F2   Activities offered Identify those programs available at your institution.
+F2   Campus Ministries                   x
+F2   Choral groups                       x
+F2   Concert band                        x
+F2   Dance                               x
+F2   Drama/theater                       x
+F2   International Student
+                                         x
+     Organization
+F2   Jazz band                           x
+F2   Literary magazine                   x
+F2   Marching band                       x
+F2   Model UN                            x
+F2   Music ensembles                     x
+F2   Musical theater                     x
+F2   Opera                               x
+F2   Pep band                            x
+F2   Radio station                       x
+F2   Student government                  x
+F2   Student newspaper                   x
+F2   Student-run film society            x
+F2   Symphony orchestra                  x
+F2   Television station                  x
+F2   Yearbook
+
+F3 ROTC (program offered in cooperation with Reserve Officers' Training Corps)
+F3                                                    At Cooperating           Name of Cooperating
+                                     On Campus
+                                                          Institution              Institution
+F3 Army ROTC is offered:                   x
+F3 Naval ROTC is offered:
+F3 Air Force ROTC is offered:              x
+
+F4 Housing: Check all types of college-owned, -operated, or -affiliated housing available for
+   undergraduates at your institution.
+F4 Coed dorms                          x
+F4 Men's dorms
+F4 Women's dorms
+F4 Apartments for married students
+                                       x
+F4 Apartments for single students        x
+F4 Special housing for disabled
+   students
+F4 Special housing for international
+   students
+F4 Fraternity/sorority housing           x
+F4 Cooperative housing
+F4 Theme housing                         x
+F4 Wellness housing                      x
+F4 Other housing options (specify):      x
+     Living Learning Communities
+
+
+
+
+                                                                         CDS-F                       Page 16
+                                                            Common Data Set 2019-2020
+
+
+
+
+                                     G. ANNUAL EXPENSES
+
+G0 Please provide the URL of your institution’s net price calculator:
+
+     Provide 2020-2021 academic year costs of attendance for the following categories that are
+     applicable to your institution.
+
+   Check here if your institution's 2020-2021 academic year costs of attendance are not available at this
+ x time and provide an approximate date (i.e., month/day) when your institution's final 2020-2021 academic
+   year costs of attendance will be available:
+   Jun-20
+
+G1 Undergraduate full-time tuition, required fees, room and board List the typical tuition, required
+   fees, and room and board for a full-time undergraduate student for the FULL 2020-2021 academic
+   year (30 semester or 45 quarter hours for institutions that derive annual tuition by multiplying
+   credit hour cost by number of credits). A full academic year refers to the period of time generally
+   extending from September to June; usually equated to two semesters, two trimesters, three
+   quarters, or the period covered by a four-one-four plan. Room and board is defined as double
+   occupancy and 19 meals per week or the maximum meal plan. Required fees include only
+   charges that all full-time students must pay that are not included in tuition (e.g., registration,
+   health, or activity fees.) Do not include optional fees (e.g., parking, laboratory use).
+
+
+G1                                             First-Year          Undergraduates
+G1 PRIVATE INSTITUTIONS
+   Tuition:
+G1 PUBLIC INSTITUTIONS
+   Tuition:
+     In-district
+G1 PUBLIC INSTITUTIONS
+     In-state (out-of-district):                        $8,073                   $8,073
+G1 PUBLIC INSTITUTIONS
+     Out-of-state:                                     $30,036                  $30,036
+G1 NONRESIDENT ALIENS
+   Tuition:                                            $30,036                  $30,036
+
+G1 REQUIRED FEES:                                       $1,533                   $1,533
+
+G1 ROOM AND BOARD:
+   (on-campus)
+G1 ROOM ONLY:
+   (on-campus)                                          $7,639                   $7,639
+G1 BOARD ONLY:
+   (on-campus meal plan)                                $3,761                   $3,761
+
+G1 Comprehensive tuition and room and board fee (if your
+   college cannot provide separate tuition and room and
+   board fees):
+
+G1 Other:
+
+
+G2                                                                      Minimum           Maximum
+G2 Number of credits per term a student can take for the
+   stated full-time tuition                                                         12                 18
+
+G3                                                                        Yes                 No
+G3 Do tuition and fees vary by year of study (e.g.,
+                                                                           x
+   sophomore, junior, senior)?
+
+G4                                                                        Yes                 No
+G4 Do tuition and fees vary by undergraduate instructional
+   program?                                                                x
+
+G4
+
+G4 If yes, what percentage of full-time undergraduates pay
+   more than the tuition and fees reported in G1?                        30%
+
+
+
+
+                                                                        CDS-G                                Page 17
+                                                           Common Data Set 2019-2020
+
+
+
+G5 Provide the estimated expenses for a typical full-time undergraduate student:
+G5                                                                  Commuters             Commuters
+                                             Residents
+                                                                 (living at home)     (not living at home)
+G5 Books and supplies                                     $950                 $950                    $950
+G5 Room only
+G5 Board only                                                                $3,306
+G5 Room and board total (if your
+   college cannot provide separate
+   room and board figures for
+   commuters not living at home):                                                                  $9,424
+G5 Transportation                                       $646                 $1,102                $1,102
+G5 Other expenses                                     $2,204                 $2,204                $2,204
+
+
+G6 Undergraduate per-credit-hour charges (tuition only)
+G6 PRIVATE INSTITUTIONS:
+
+G6 PUBLIC INSTITUTIONS
+     In-district:
+G6 PUBLIC INSTITUTIONS
+     In-state (out-of-district):                     $400.00
+G6 PUBLIC INSTITUTIONS
+     Out-of-state:                                 $1,315.00
+G6 NONRESIDENT ALIENS:
+
+
+
+
+                                                                     CDS-G                                    Page 18
+                                                              Common Data Set 2019-2020
+
+
+
+
+                                            H. FINANCIAL AID
+
+     Aid Awarded to Enrolled Undergraduates
+     Enter total dollar amounts awarded to enrolled full-time and less than full-time degree-seeking
+     undergraduates (using the same cohort reported in CDS Question B1, “total degree-seeking”
+     undergraduates) in the following categories. (Note: If the data being reported are final figures for the 2018-
+     2019 academic year (see the next item below), use the 2018-2019 academic year's CDS Question B1
+     cohort.) Include aid awarded to international students (i.e., those not qualifying for federal aid). Aid that is
+     non-need-based but that was used to meet need should be reported in the need-based aid columns. (For
+     a suggested order of precedence in assigning categories of aid to cover need, see the entry for “non-
+     need-based scholarship or grant aid” on the last page of the definitions section.)
+
+
+H1                                                                                    2019-2020            2018-2019
+                                                                                      estimated               final
+H1   Indicate the academic year for which data are reported for items H1,
+                                                                                                                 X
+     H2, H2A, and H6 below:
+
+H3   Which needs-analysis methodology does your institution use in awarding institutional aid?
+H3   Federal methodology (FM)
+H3   Institutional methodology (IM)
+H3   Both FM and IM
+
+H1                                                                                                         Non-need-
+                                                                                    Need-based $
+                                                                                    (Include non-need-
+                                                                                                            based $
+                                                                                     based aid used to   (Exclude non-need-
+                                                                                        meet need.)       based aid used to
+                                                                                                            meet need.)
+H1   Scholarships/Grants
+H1   Federal                                                                           $22,433,213             $172,524
+H1   State (i.e., all states, not only the state in which your institution is
+     located)                                                                           $1,353,444             $246,349
+H1   Institutional: Endowed scholarships, annual gifts and tuition funded
+     grants, awarded by the college, excluding athletic aid and tuition
+     waivers (which are reported below).                                               $51,144,041          $36,090,785
+H1   Scholarships/grants from external sources (e.g., Kiwanis, National
+     Merit) not awarded by the college                                                  $3,798,254           $5,053,138
+H1   Total Scholarships/Grants                                                          $78,728,952          $41,562,796
+H1   Self-Help
+H1   Student loans from all sources (excluding parent loans)                            $62,691,153          $45,120,420
+H1   Federal Work-Study                                                                  $2,511,029
+H1   State and other (e.g., institutional) work-study/employment (Note:
+     Excludes Federal Work-Study captured above.)                                                $0                   $0
+H1   Total Self-Help                                                                    $65,202,182          $45,120,420
+H1   Other
+H1   Parent Loans                                                                       $24,541,154          $29,838,526
+H1   Tuition Waivers
+     Reporting is optional. Report tuition waivers in this row if you choose
+     to report them. Do not report tuition waivers elsewhere.                                    $0                   $0
+H1   Athletic Awards                                                                     $3,176,175           $9,652,581
+
+H2   Number of Enrolled Students Awarded Aid: List the number of degree-seeking full-time and less-than-
+     full-time undergraduates who applied for and were awarded financial aid from any source. Aid that is non-
+     need-based but that was used to meet need should be counted as need-based aid. Numbers should
+     reflect the cohort awarded the dollars reported in H1. Note: In the chart below, students may be counted
+     in more than one row, and full-time freshmen should also be counted as full-time undergraduates.
+
+
+H2                                                                First-time           Full-time           Less Than
+                                                                  Full-time         Undergraduate           Full-time
+                                                                  Freshmen           (Incl. Fresh.)      Undergraduate
+H2   a) Number of degree-seeking undergraduate students
+        (CDS Item B1 if reporting on Fall 2018 cohort)               4710                21595                 1750
+
+H2   b) Number of students in line a who applied for need-
+                                                                     3809                14804                  934
+        based financial aid
+H2   c) Number of students in line b who were determined to
+                                                                     2470                10374                  651
+        have financial need
+
+
+
+
+                                                                            CDS-H                                             Page 19
+                                                                     Common Data Set 2019-2020
+
+
+
+H2    d) Number of students in line c who were awarded any
+                                                                          2470              10372            646
+         financial aid
+H2    e) Number of students in line d who were awarded any
+                                                                          2041               8458            487
+         need-based scholarship or grant aid
+H2    f) Number of students in line d who were awarded any
+                                                                          1928               8116            445
+         need-based self-help aid
+H2    g) Number of students in line d who were awarded any
+                                                                          287                 989             16
+         non-need-based scholarship or grant aid
+H2    h) Number of students in line d whose need was fully met
+         (exclude PLUS loans, unsubsidized loans, and private              353               1310             26
+         alternative loans)
+H2    i) On average, the percentage of need that was met of
+         students who were awarded any need-based aid.
+         Exclude any aid that was awarded in excess of need as
+                                                                        51.0%              52.0%           33.0%
+         well as any resources that were awarded to replace
+         EFC (PLUS loans, unsubsidized loans, and private
+         alternative loans)
+H2    j) The average financial aid package of those in line d.
+         Exclude any resources that were awarded to replace
+                                                                        $ 12,543          $ 12,652         $ 6,137
+         EFC (PLUS loans, unsubsidized loans, and private
+         alternative loans)
+H2       Average need-based scholarship and grant award of
+      k)                                                                 $ 9,744           $ 9,095         $ 3,699
+         those in line e
+H2    l) Average need-based self-help award (excluding PLUS
+         loans, unsubsidized loans, and private alternative loans)       $ 3,238           $ 4,306         $ 3,996
+         of those in line f
+H2    m) Average need-based loan (excluding PLUS loans,
+         unsubsidized loans, and private alternative loans) of
+                                                                         $ 2,367           $ 4,041         $ 3,917
+         those in line f who were awarded a need-based loan
+
+
+
+H2A Number of Enrolled Students Awarded Non-need-based Scholarships and Grants: List the number
+    of degree-seeking full-time and less-than-full-time undergraduates who had no financial need and who
+    were awarded institutional non-need-based scholarship or grant aid. Numbers should reflect the cohort
+    awarded the dollars reported in H1. Note: In the chart below, students may be counted in more than one
+    row, and full-time freshmen should also be counted as full-time undergraduates.
+
+H2A                                                                     First-time          Full-time     Less Than
+                                                                        Full-time          Undergrad       Full-time
+                                                                        Freshmen         (Incl. Fresh.)   Undergrad
+H2A n) Number of students in line a who had no financial need
+           and who were awarded institutional non-need-based
+                                                                          1141               5699            154
+           scholarship or grant aid (exclude those who were
+           awarded athletic awards and tuition benefits)
+H2A o) Average dollar amount of institutional non-need-based
+           scholarship and grant aid awarded to students in line n       $ 6,677           $ 5,677         $ 2,106
+
+H2A p) Number of students in line a who were awarded an
+       institutional non-need-based athletic scholarship or                91                 428             11
+       grant
+H2A q) Average dollar amount of institutional non-need-based
+       athletic scholarships and grants awarded to students in          $ 24,262          $ 21,560        $ 11,345
+       line p
+
+H3    Incorporated into H1 above.
+
+           Note: These are the graduates and loan types to include and exclude in order to fill out CDS H4 and
+           H5.
+           Include: * 2019 undergraduate class: all
+           students who started at your institution as first-
+           time students and received a bachelor's degree
+           between July 1, 2018 and June 30, 2019.
+             * only loans made to students who borrowed
+           while enrolled at your institution.
+             * co-signed loans.
+
+           Exclude: * students who transferred in.
+            * money borrowed at other institutions.
+            * parent loans
+            * students who did not graduate or who graduated with another degree or certificate (but no bachelor's degree)
+
+
+
+
+                                                                                 CDS-H                                       Page 20
+                                                                      Common Data Set 2019-2020
+
+
+
+H4   Provide the number of students in the 2019 undergraduate class who started at your
+     institution as first-time students and received a bachelor's degree between July 1, 2018
+     and June 30, 2019. Exclude students who transferred into your institution
+
+                                                                                                                                3847
+     Number and percent of students in class (defined in H4 above) borrowing from federal, non-federal, and any loan sources, and the
+     average (or mean) amount borrowed. NOTE: The “Average per-undergraduate-borrower cumulative principal borrowed,” is designed
+     to provide better information about student borrowing from federal and nonfederal (institutional, state, commercial) sources. The
+H5   numbers, percentages, and averages for each row should be based only on the loan source specified for the particular row. For
+     example, the federal loans average (row b) should only be the cumulative average of federal loans and the private loans average
+     (row e) should only be the cumulative average of private loans.
+                                                                                                         Average per-
+                                                                                        Percent of the undergraduate-
+                                                                        Number in the class (defined        borrower
+                                                                        class (defined    above) who      cumulative
+                                                                         in H4 above) borrowed from         principal
+                                                                       who borrowed the types of borrowed from
+                                                                       from the types loans specified the types of
+H5                                                                          of loans       in the first loans specified
+                                                                       specified in the      column        in the first
+                         Source/Type of Loan                             first column    (nearest 1%)        column
+        a) Any loan program: Federal Perkins, Federal Stafford
+        Subsidized and Unsubsidized, institutional, state,
+        private loans that your institution is aware of, etc.                1,854                48.00%               $28,328
+        Include both Federal Direct Student Loans and Federal
+        Family Education Loans.
+
+
+
+        b) Federal loan programs: Federal Perkins, Federal
+        Stafford Subsidized and Unsubsidized. Include both                   1,819                47.00%               $22,723
+        Federal Direct Student Loans and Federal Family
+        Education Loans.
+
+
+
+        c) Institutional loan programs.                                        14                  0.00%                $2,668
+
+
+
+
+        d) State loan programs.                                                 0                  0.00%
+
+
+
+
+        e) Private student loans made by a bank or
+                                                                               383                10.00%               $29,113
+        lender.
+
+
+
+     Aid to Undergraduate Degree-seeking Nonresident Aliens (Note: Report numbers and
+     dollar amounts for the same academic year checked in item H1.)
+
+H6   Indicate your institution’s policy regarding institutional scholarship and grant aid for undergraduate degree-
+     seeking nonresident aliens:
+H6   Institutional need-based scholarship or grant aid is available
+H6   Institutional non-need-based scholarship or grant aid is available                  x
+H6   Institutional scholarship or grant aid is not available
+
+H6   If institutional financial aid is available for undergraduate degree-seeking nonresident
+     aliens, provide the number of undergraduate degree-seeking nonresident aliens who
+     were awarded need-based or non-need-based aid:                                                                               573
+
+H6   Average dollar amount of institutional financial aid awarded to undergraduate degree-
+                                                                                                                                7409
+     seeking nonresident aliens:
+
+H6   Total dollar amount of institutional financial aid awarded to undergraduate degree-
+     seeking nonresident aliens:                                                                                        $4,052,654
+
+
+H7   Check off all financial aid forms nonresident alien first-year financial aid applicants must submit:
+
+
+
+
+                                                                                     CDS-H                                               Page 21
+                                                              Common Data Set 2019-2020
+
+
+
+H7    Institution’s own financial aid form
+H7    CSS/Financial Aid PROFILE
+H7    International Student’s Financial Aid Application
+H7    International Student’s Certification of Finances
+H7    Other (specify):
+
+
+      Process for First-Year/Freshman Students
+
+H8    Check off all financial aid forms domestic first-year (freshman) financial aid applicants must submit:
+H8    FAFSA                                                                              x
+H8    Institution's own financial aid form
+H8    CSS/Financial Aid PROFILE
+H8    State aid form
+H8    Noncustodial PROFILE
+H8    Business/Farm Supplement
+H8    Other (specify):
+
+
+H9    Indicate filing dates for first-year (freshman) students:
+H9    Priority date for filing required financial aid forms:                                 12/1
+H9    Deadline for filing required financial aid forms:
+H9    No deadline for filing required forms (applications processed on a
+                                                                                         x
+      rolling basis):
+
+H10 Indicate notification dates for first-year (freshman) students (answer a or b):
+H10 a) Students notified on or about (date):
+H10                                                                 Yes                 No
+H10 b) Students notified on a rolling basis:                         x
+H10    If yes, starting date:                                           1/15
+
+H11 Indicate reply dates:
+H11 Students must reply by (date):
+H11 or within _______ weeks of notification.
+
+      Types of Aid Available
+      Please check off all types of aid available to undergraduates at your institution:
+H12   Loans
+H12   FEDERAL DIRECT STUDENT LOAN PROGRAM (DIRECT LOAN)
+H12   Direct Subsidized Stafford Loans                                                   x
+H12   Direct Unsubsidized Stafford Loans                                                 x
+H12   Direct PLUS Loans                                                                  x
+
+H12   Federal Perkins Loans                                                              x
+H12   Federal Nursing Loans                                                              x
+H12   State Loans
+H12   College/university loans from institutional funds                                  x
+H12   Other (specify):
+
+
+H13   Scholarships and Grants
+H13   NEED-BASED:
+H13   Federal Pell                                                                       x
+H13   SEOG                                                                               x
+H13   State scholarships/grants                                                          x
+H13   Private scholarships                                                               x
+H13   College/university scholarship or grant aid from institutional funds               x
+H13   United Negro College Fund
+H13   Federal Nursing Scholarship
+H13   Other (specify):
+
+
+H14   Check off criteria used in awarding institutional aid. Check all that apply.
+H14                                                            Non-Need Based        Need-Based
+H14   Academics                                                        x                 x
+H14   Alumni affiliation                                               x
+H14   Art                                                              x
+H14   Athletics                                                        x
+H14   Job skills
+
+
+
+
+                                                                           CDS-H                               Page 22
+                                                           Common Data Set 2019-2020
+
+
+
+H14   ROTC                                                          x
+H14   Leadership                                                    x
+H14   Minority status                                               x
+H14   Music/drama                                                   x
+H14   Religious affiliation
+H14   State/district residency                                      x
+
+H15 If your institution has recently implemented any major financial aid policy, program, or
+    initiative to make your institution more affordable to incoming students such as
+    replacing loans with grants, or waiving costs for families below a certain income level
+    please provide details below:
+
+
+
+
+                                                                        CDS-H                  Page 23
+                                                                      Common Data Set 2019-2020
+
+
+
+
+                       I. INSTRUCTIONAL FACULTY AND CLASS SIZE
+     Please report the number of instructional faculty members in each category for Fall 2019. Include
+     faculty who are on your institution’s payroll on the census date your institution uses for
+I1   IPEDS/AAUP.
+     The following definition of full-time instructional faculty is used by the American Association of University Professors
+     (AAUP) in its annual Faculty Compensation Survey (the part time definitions are not used by AAUP). Instructional
+     Faculty is defined as those members of the instructional-research staff whose major regular assignment is instruction,
+     including those with released time for research. Use the chart below to determine inclusions and exclusions:
+
+
+                                                                                                             Full-time        Part-time
+          (a) instructional faculty in preclinical and clinical medicine, faculty who are not paid (e.g.,   Exclude          Include only if
+                                                                                                                             they teach one
+          those who donate their services or are in the military), or research-only faculty, post-
+                                                                                                                             or more non-
+          doctoral fellows, or pre-doctoral fellows                                                                          clinical credit
+                                                                                                                             courses
+
+          (b) administrative officers with titles such as dean of students, librarian, registrar, coach,    Exclude          Include if they
+                                                                                                                             teach one or
+          and the like, even though they may devote part of their time to classroom instruction and
+                                                                                                                             more non-
+          may have faculty status                                                                                            clinical credit
+                                                                                                                             courses
+          (c) other administrators/staff who teach one or more non-clinical credit courses even     Exclude                  Include
+          though they do not have faculty status
+          (d) undergraduate or graduate students who assist in the instruction of courses, but have Exclude                  Exclude
+          titles such as teaching assistant, teaching fellow, and the like
+          (e) faculty on sabbatical or leave with pay                                                       Include          Exclude
+
+          (f) faculty on leave without pay                                                                  Exclude          Exclude
+
+          (g) replacement faculty for faculty on sabbatical leave or leave with pay                         Exclude          Include
+
+
+     Full-time instructional faculty: faculty employed on a full-time basis for instruction (including those with released time for
+     research)
+     Part-time instructional faculty: Adjuncts and other instructors being paid solely for part-time classroom instruction. Also
+     includes full-time faculty teaching less than two semesters, three quarters, two trimesters, or two four-month sessions.
+     Employees who are not considered full-time instructional faculty but who teach one or more non-clinical credit courses
+     may be counted as part-time faculty.
+     Minority faculty: includes faculty who designate themselves as Black, non-Hispanic; American Indian or Alaska Native;
+     Asian, Native Hawaiian or other Pacific Islander, or Hispanic.
+     Doctorate: includes such degrees as Doctor of Philosophy, Doctor of Education, Doctor of Juridical Science, and Doctor
+     of Public Health in any field such as arts, sciences, education, engineering, business, and public administration. Also
+     includes terminal degrees formerly designated as “first professional,” including dentistry (DDS or DMD), medicine (MD),
+     optometry (OD), osteopathic medicine (DO), pharmacy (DPharm or BPharm), podiatric medicine (DPM), veterinary
+     medicine (DVM), chiropractic (DC or DCM), or law (JD).
+     Terminal degree: the highest degree in a field: example, M. Arch (architecture) and MFA (master of fine arts).
+
+
+
+I1                                                                                             Full-Time     Part-Time           Total
+I1   a)   Total number of instructional faculty                                                     1454              214              1668
+I1   b)   Total number who are members of minority groups                                            275               27               302
+I1   c)   Total number who are women                                                                 642              119               761
+I1   d)   Total number who are men                                                                   812               95               907
+I1   e)   Total number who are nonresident aliens (international)                                     64                6                70
+     f)   Total number with doctorate, or other terminal degree
+I1                                                                                                  1294              134              1428
+     g)   Total number whose highest degree is a master's but not a terminal
+I1        master's                                                                                   138              63               201
+I1   h)   Total number whose highest degree is a bachelor's                                           17              16                33
+          Total number whose highest degree is unknown or other (Note:
+     i)
+I1        Items f, g, h, and i must sum up to item a.)                                                  5                1                 6
+          Total number in stand-alone graduate/ professional programs in
+     j)
+I1        which faculty teach virtually only graduate-level students
+
+I2   Student to Faculty Ratio
+     Report the Fall 2019 ratio of full-time equivalent students (full-time plus 1/3 part time) to full-time
+     equivalent instructional faculty (full time plus 1/3 part time). In the ratio calculations, exclude both faculty
+     and students in stand-alone graduate or professional programs such as medicine, law, veterinary,
+     dentistry, social work, business, or public health in which faculty teach virtually only graduate-level
+     students. Do not count undergraduate or graduate student teaching assistants as faculty.
+
+I2   Fall 2019 Student to Faculty ratio                                     15 to 1           (based on          21969 students
+                                                                                                    and           1456 faculty).
+
+
+
+
+                                                                                      CDS-I                                                    Page 24
+                                                            Common Data Set 2019-2020
+
+
+
+
+I3   Undergraduate Class Size
+     In the table below, please use the following definitions to report information about the size of classes and
+     class sections offered in the Fall 2019 term.
+     Class Sections: A class section is an organized course offered for credit, identified by discipline and
+     number, meeting at a stated time or times in a classroom or similar setting, and not a subsection such as
+     a laboratory or discussion session. Undergraduate class sections are defined as any sections in which at
+     least one degree-seeking undergraduate student is enrolled for credit. Exclude distance learning classes
+     and noncredit classes and individual instruction such as dissertation or thesis research, music instruction,
+     or one-to-one readings. Exclude students in independent study, co-operative programs, internships,
+     foreign language taped tutor sessions, practicums, and all students in one-on-one classes. Each class
+     section should be counted only once and should not be duplicated because of course catalog cross-
+     listings.
+     Class Subsections: A class subsection includes any subsection of a course, such as laboratory,
+     recitation, and discussion subsections that are supplementary in nature and are scheduled to meet
+     separately from the lecture portion of the course. Undergraduate subsections are defined as any
+     subsections of courses in which degree-seeking undergraduate students enrolled for credit. As above,
+     exclude noncredit classes and individual instruction such as dissertation or thesis research, music
+     instruction, or one-to-one readings. Each class subsection should be counted only once and should not
+     be duplicated because of cross-listings.
+     Using the above definitions, please report for each of the following class-size intervals the number of
+     class sections and class subsections offered in Fall 2019. For example, a lecture class with 800 students
+     who met at another time in 40 separate labs with 20 students should be counted once in the “100+”
+     column in the class section column and 40 times under the “20-29” column of the class subsections table.
+
+
+
+I3                          Number of Class Sections with Undergraduates Enrolled
+
+I3                                Undergraduate Class Size (provide numbers)
+I3      CLASS             2-9       10-19    20-29     30-39      40-49    50-99              100+       Total
+I3     SECTIONS           487       1070      722       208        140      238                161       3026
+
+I3    CLASS SUB-          2-9        10-19      20-29      30-39       40-49      50-99       100+       Total
+I3     SECTIONS           117         360        917        248         35          7           4        1688
+
+
+
+
+                                                                         CDS-I                                      Page 25
+                                                           Common Data Set 2019-2020
+
+
+
+
+                                       J. DEGREES CONFERRED
+J1   Degrees conferred between July 1, 2018 and June 30, 2019
+J1   For each of the following discipline areas, provide the percentage of diplomas/certificates, associate, and bachelor’s degrees awarded. To
+     determine the percentage, use majors, not headcount (e.g., students with one degree but a double major will be represented twice).
+     Calculate the percentage from your institution’s IPEDS Completions by using the sum of 1st and 2nd majors for each CIP code as the
+     numerator and the sum of the Grand Total by 1st Majors and the Grand Total by 2nd major as the denominator. If you prefer, you can
+     compute the percentages using 1st majors only.
+
+J1                                                                                                                       CIP 2010 Categories
+     Category                                             Diploma/Certificates       Associate          Bachelor’s
+                                                                                                                              to Include
+J1   Agriculture                                                                                                                   1
+J1   Natural resources and conservation                                                                   0.95%                    3
+J1   Architecture                                                                                                                  4
+J1   Area, ethnic, and gender studies                                                                     0.59%                    5
+J1   Communication/journalism                                                                             5.97%                    9
+J1   Communication technologies                                                                                                   10
+J1   Computer and information sciences                                                                    2.99%                   11
+J1   Personal and culinary services                                                                                               12
+J1   Education                                                                                            2.12%                   13
+J1   Engineering                                                                                          7.85%                   14
+J1   Engineering technologies                                                                                                     15
+J1   Foreign languages, literatures, and linguistics                                                      1.57%                   16
+J1   Family and consumer sciences                                                                                                 19
+J1   Law/legal studies                                                                                                            22
+J1   English                                                                                              3.25%                   23
+J1   Liberal arts/general studies                                                                         3.34%                   24
+J1   Library science                                                                                                              25
+J1   Biological/life sciences                                                                             3.29%                   26
+J1   Mathematics and statistics                                                                           2.99%                   27
+J1   Military science and military technologies                                                                                28 & 29
+J1   Interdisciplinary studies                                                                             3.32%                  30
+J1   Parks and recreation                                                                                 12.13%                  31
+J1   Philosophy and religious studies                                                                      0.67%                  38
+J1   Theology and religious vocations                                                                                             39
+J1   Physical sciences                                                                                    1.41%                   40
+J1   Science technologies                                                                                                         41
+J1   Psychology                                                                                           4.37%                   42
+J1   Homeland Security, law enforcement, firefighting,                                                                            43
+     and protective services
+J1   Public administration and social services                                                            0.77%                   44
+J1   Social sciences                                                                                      8.64%                   45
+J1   Construction trades                                                                                                          46
+J1   Mechanic and repair technologies                                                                                             47
+J1   Precision production                                                                                                         48
+J1   Transportation and materials moving                                                                                          49
+J1   Visual and performing arts                                                                           5.11%                   50
+J1   Health professions and related programs                                                              6.02%                   51
+J1   Business/marketing                                                                                  21.82%                   52
+J1   History                                                                                              0.83%                   54
+J1   Other                                                                                                0.00%
+J1   TOTAL (should = 100%)                                       0.00%                 0.00%             100.00%
+
+
+
+
+                                                                       CDS-J                                                                 Page 26
+

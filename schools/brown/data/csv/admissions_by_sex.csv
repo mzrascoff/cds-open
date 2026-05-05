@@ -1,0 +1,10 @@
+year,metric,sex,value
+2025-2026,applied,male,17972
+2025-2026,applied,female,24771
+2025-2026,applied,unknown,31
+2025-2026,admitted,male,1375
+2025-2026,admitted,female,1335
+2025-2026,admitted,unknown,0
+2025-2026,enrolled,male,844
+2025-2026,enrolled,female,875
+2025-2026,enrolled,unknown,0

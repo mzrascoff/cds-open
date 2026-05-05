@@ -1,0 +1,1756 @@
+Common Data Set 2025-2026
+Welcome to the 2025-2026 Common Data Set collection!
+
+
+The Common Data Set (CDS) initiative is a collaborative effort among data providers in the higher education
+community and publishers as represented by the College Board, Peterson’s, and U.S. News & World Report. The
+combined goal of this collaboration is to improve the quality and accuracy of information provided to all involved in a
+student’s transition into higher education, as well as to reduce the reporting burden on data providers.
+
+The CDS is a set of standards and definitions of data items rather than a survey instrument or set of data represented
+in a database. Each of the higher education surveys conducted by the participating publishers incorporates items from
+the CDS as well as unique items proprietary to each publisher. Consequently, the publishers’ surveys differ in that they
+utilize varying numbers of items from the CDS.
+
+Those who report data for their colleges are urged to abide by the definitions and the cohorts specified when answering
+CDS items. They are also urged to use the answers to CDS items when responding to the numerous survey requests
+they receive, by distributing photocopies of their answers, posting them on their websites, or by other effective means.
+
+This Excel template is designed for CSV export. On each section tab, responses are stored in columns AA–AL. Before
+exporting, verify that your entries appear correctly on the Answer Sheet. The Answer Sheet includes field mappings to
+the U.S. News fillable PDF and to the Word version. Please confirm with the receiving organization that it is able to
+accept a CSV of your responses. For more information about the Common Data Set (CDS) initiative, visit
+https://commondataset.org/
+
+Please contact the College Board College Survey team at collegesurvey@collegeboard.org should you have any
+questions about this Excel template.
+
+
+*Note: At the time of publication, not all questions on the Excel template can be matched to a U.S. News fillable PDF
+equivalent. The matching cells for these questions are in light red on the Answer Sheet. Please confirm all questions,
+responses, and mapping before submitting a CSV to another organization.
+
+*Note: As of publication, some questions in the Word template do not map directly—or require different formatting—to
+an equivalent field in the U.S. News fillable PDF and in the Excel template. An example are those questions with
+multiple category options such as "Very Important, Important, Considered, Not Considered". The matching cells for
+these questions may appear as duplicates (light red on the Answer Sheet) or a single category is listed as the code
+value (c7_state_residency_very_important ). Please review and verify all questions, responses, and mapping
+requirements before exporting to CSV or submitting to another organization.
+Common Data Set 2025-2026
+
+
+
+
+                                               A. General Information
+A0   Respondent Information (Not for Publication)
+     First Name:                                                          Caroline
+     Last Name:                                                           Seguin
+     Title:                                                               Director of Institutional Research
+     Office:                                                              Office of Institutional Research
+     Address Line 1:                                                      27 Memorial Dr West
+     Address Line 2:
+     Address Line 3:
+     City:                                                                Bethlehem
+     State                                                                Pennsylvania
+     Zipcode                                                              18015
+     Country:                                                             United States
+     Phone:                                                               610-758-5890
+     Email Address:                                                       oir@lehigh.edu
+
+
+
+
+     Are your responses to the CDS posted for reference on your       x   Yes or No
+     institution's Website?
+
+     If yes, please provide the URL of the corresponding Web page:
+     https://data.lehigh.edu/common-data-set
+
+
+    We invite you to indicate if there are items on the CDS for
+    which you cannot use the requested analytic convention,
+    cannot provide data for the cohort requested, whose
+A0A
+    methodology is unclear, or about which you have questions or
+    comments in general. This information will not be published but
+    will help the publishers further refine CDS items.
+
+
+
+
+A1   Address Information
+     Name of College/University:                                          Lehigh University
+     Street Address Line 1:                                               27 Memorial Dr West
+     Street Address Line 2:
+     Street Address Line 3:
+     City                                                                 Bethlehem
+     State                                                                Pennsylvania
+     Zip                                                                  18015
+     Country:                                                             United States
+     Main Phone Number (Area Code)                                        610
+     Main Phone Number:                                                   758-3000
+     Main Phone Number (Ext):
+     WWW Home Page Address:                                               https://www2.lehigh.edu/
+     Main Institution Email
+
+     Admissions Office
+     Admissions Office Street Address (if different):                       27 Memorial Dr West
+     Street Address (if different) Line 2:
+     Street Address (if different) Line 3:
+     City                                                                   Bethlehem
+     State                                                                  Pennsylvania
+     Zip                                                                    18015
+     Country:                                                               United States
+     Admissions Phone Number (Area Code):                                   610
+     Admissions Phone Number:                                               758-3100
+     Admissions Phone Number (Ext):
+     Admissions Toll-Free Phone Number (Out-of-State Area Code):
+     Admissions Toll-Free Phone Number:
+     Admissions Toll-Free Phone Number (Ext):
+     Admissions Email Address:                                              admissions@lehigh.edu
+     If there is a separate URL for your school’s online application, please specify:
+
+
+
+
+CDS-A                                                                                                          Page 1
+Common Data Set 2025-2026
+
+
+
+
+     https://www2.lehigh.edu/admissions/apply
+     If you have a mailing address other than the above to which applications should be sent, please provide:
+
+
+A2   Source of institutional control (Check only one):
+
+     Public
+ x   Private (nonprofit)
+     Proprietary
+
+A3   Classify your undergraduate institution:
+
+ x   Coeducational college
+     Men's college
+     Women's college
+
+A4   Academic year calendar:
+
+ x   Semester
+     Quarter
+     Trimester
+     4-1-4
+     Continuous
+     Differs by program (describe):
+
+
+     Other (describe):
+
+
+A5   Degrees offered by your institution:
+
+ x  Certificate
+    Diploma
+    Associate
+    Transfer Associate
+    Terminal Associate
+ x Bachelor's
+ x Postbachelor's certificate
+ x Master's
+    Post-master's certificate
+ x Doctoral degree research/scholarship
+    Doctoral degree – professional practice
+    Doctoral degree -- other
+$A$5Doctoral degree -- other
+A6 Campus Belonging Webpage
+
+     If your institution has an office or department dedicated to
+     fostering a welcoming and supportive campus climate for
+     individuals from all backgrounds, please provide the URL of
+     the corresponding Web page:
+     https://www2.lehigh.edu/inclusive-excellence-belonging
+
+
+
+
+CDS-A                                                                                                           Page 2
+Common Data Set 2025-2026
+
+
+
+
+                                                B. ENROLLMENT AND PERSISTENCE
+
+B1   Institutional Enrollment - Males and Females
+         Provide numbers of students for each of the following categories as of the institution's official fall reporting date or as of October 15, 2025.
+     •   Note: Report students formerly designated as “first professional” in the graduate cells.
+     •   For information on reporting study abroad students please see: https://nces.ed.gov/ipeds/pdf/Reporting_Study_Abroad_Students.pdf
+
+
+
+     •   Dual Enrollment: If your institution enrolls high school students in college courses for credit either within a dual enrollment program
+
+
+
+
+     or outside of a dual enrollment program, you may report the unduplicated count as part of the full- or part-time “All other undergraduates” section.
+
+
+
+
+     Undergraduate Students: Full-Time                   Males             Females             Unknown
+     Degree-seeking, first-time first-year
+                                                                 756                779
+     students
+     Other first-year, degree-seeking
+     All other degree-seeking                                  2,264              2,118
+     Total degree-seeking                                      3,020              2,897                      0
+     All other undergraduates enrolled in credit
+                                                                   4                   5
+     courses
+     Total Undergraduate Full-Time Students                    3,024              2,902                      0
+
+     Undergraduate Students: Part-Time                   Males             Females             Unknown
+     Degree-seeking, first-time first-year
+     students
+     Other first-year, degree-seeking
+     All other degree-seeking                                     31                 25
+     Total degree-seeking                                         31                 25                      0
+     All other undergraduates enrolled in credit
+                                                                   2                   2
+     courses
+     Total Undergraduate Part-Time Students                       33                 27                      0
+
+     Undergraduate Students: All                         Males             Females             Unknown
+     Total Undergraduate Students                            3,057              2,929                        0
+
+     Graduate Students: Full-Time                        Males             Females             Unknown
+     Degree-seeking, first-time                                  147                 163
+     All other degree-seeking                                    457                 374                      5
+     All other graduates enrolled in credit
+                                                                    2                   1
+     courses
+     Total Graduate Full-Time Students                           606                 538                      5
+
+     Graduate Students: Part-Time                        Males             Females             Unknown
+     Degree-seeking, first-time                                   44                  76                      1
+     All other degree-seeking                                    259                 306                      2
+     All other graduates enrolled in credit
+                                                                   25                 60                      1
+     courses
+     Total Graduate Part-Time Students                           328                 442                      4
+
+     Graduate Students: All                              Males             Females             Unknown
+     Total Graduate Students                                     934                 980                     9
+
+     All Students: Total                                 Males             Females             Unknown
+     Total Full-Time Students                                3,630              3,440                        5
+     Total Part-Time Students                                  361                469                        4
+     Total All students                                      3,991              3,909                        9
+
+     Total all undergraduates                                  5,986
+     Total all graduate                                         1923
+     GRAND TOTAL ALL STUDENTS                                  7,909
+B2   Enrollment by Racial/Ethnic Category.
+     Provide numbers of undergraduate students for each of the following categories as of the institution’s official fall reporting
+     date or as of October 15, 2025.
+     •   Include international students only in the category "Nonresidents."
+     •   Complete the “Total Undergraduates” column only if you cannot provide data for the first two columns.
+     •   Report as your institution reports to IPEDS: persons who are Hispanic should be reported only on the Hispanic line,
+     not under any race, and persons who are non-Hispanic multi-racial should be reported only under "Two or more races."
+     •   New guidance from IPEDS for reporting aggregate data:
+
+
+
+
+CDS-B                                                                                                                                                       Page 3
+Common Data Set 2025-2026
+
+
+
+
+     Racial/ethnic designations are requested only for United States citizens, residents, and other eligible non-citizens.
+     Eligible non-citizens include all students who completed high school or a GED equivalency within the United States
+     (including DACA and undocumented students)
+     and who were not on an F-1 non-immigrant student visa at the time of high school graduation.
+     More information about other eligible (for financial aid purposes) non-citizens is available at:
+     https://studentaid.gov/understandaid/eligibility/requirements/non-us-citizens.
+     Nonresident - A person who is not a citizen or national of the United States and who is in this country on a student visa
+     or temporary
+     basis and does not have the right to remain indefinitely. Do not include DACA, undocumented, or other
+     eligible noncitizens in this category.
+     NOTE - Nonresidents are to be reported separately, in the boxes provided, rather than included in any of the
+     seven racial/ethnic categories or in race/ethnicity unknown.
+
+     Dual Enrollment: If your institution enrolls high school students in college courses for credit either within a dual enrollment
+     program or outside of a dual enrollment program, you may report the unduplicated count as part of the non-degree-
+     seeking students included in the “Total Undergraduates (both degree & non-degree-seeking)” section.
+
+                                                                                                  Degree-Seeking                 Total
+                                                                         Degree-Seeking
+                                                                                                  Undergraduates         Undergraduates (both
+                                                                           First-Time
+                                                                                              (include first-time first- degree & non-degree-
+                                                                            First Year
+                                                                                                       year)                   seeking)
+
+     Nonresidents                                                                    71                        360                     370
+     Hispanic/Latino                                                                194                        693                     693
+     Black or African American, non-Hispanic                                         48                        254                     254
+     White, non-Hispanic                                                            943                      3,584                   3,585
+     American Indian or Alaska Native, non-Hispanic                                   1                          3                       3
+     Asian, non-Hispanic                                                            159                        652                     653
+     Native Hawaiian or other Pacific Islander, non-Hispanic                              2                       7                       7
+     Two or more races, non-Hispanic                                                  73                       278                     278
+     Race and/or ethnicity unknown                                                    44                       142                     143
+     TOTAL                                                                         1,535                     5,973                   5,986
+
+     Persistence
+B3   Number of degrees awarded by your institution from July 1, 2024, to June 30, 2025.
+     Certificate/diploma                             7
+     Associate degrees
+     Bachelor's degrees                            1448
+     Postbachelor's certificates                     34
+     Master's degrees                               482
+     Post-Master's certificates
+     Doctoral degrees – research/scholarship        107
+     Doctoral degrees – professional practice
+     Doctoral degrees – other
+     B4-B21: Graduation Rates
+     The items in this section correspond to data elements collected by the IPEDS Web-based Data Collection System’s Graduation Rate Survey
+     (GRS).
+
+     •   For complete instructions and definitions of data elements, see the IPEDS GRS Forms and Instructions
+         for the 2025-2026 Survey. https://nces.ed.gov/ipeds/use-the-data/survey-components/9/graduation-rates
+
+     In the following section for bachelor’s or equivalent programs, please disaggregate the Fall 2018 and Fall 2019 cohorts (formerly CDS B4-B11)
+     into four groups:
+     • Students who received a Federal Pell Grant*
+     • Recipients of a subsidized Stafford Loan who did not receive a Pell Grant
+     • Students who did not receive either a Pell Grant or a subsidized Stafford Loan
+     • Total (all students, regardless of Pell Grant or subsidized loan status)
+
+     *Students who received both a Federal Pell Grant and a subsidized Stafford Loan should be reported in the "Recipients of a Federal Pell Grant"
+     column.
+
+     For each graduation rate grid below, the numbers in the first three columns for Questions A-G should sum to the cohort total in the fourth column
+     (formerly CDS B4-B11).
+
+                                               For Bachelor’s or Equivalent Programs
+
+     Please provide data for the Fall 2019 cohort if available. If Fall 2019 cohort data are not available, provide data for the Fall 2018 cohort.
+
+                                                           Fall 2019 Cohort
+
+                                                                        Recipients of a
+                                                                                               Students who did
+                                                                          Subsidized                                      Total
+                                                     Recipients of a                          not receive either a
+                                                                        Stafford Loan
+                                                      Federal Pell                              Pell Grant or a
+                                                                          who did not                              (sum of 3 columns to
+                                                         Grant                                subsidized Stafford
+                                                                         receive a Pell                                  the left)
+
+
+
+
+CDS-B                                                                                                                                                    Page 4
+Common Data Set 2025-2026
+
+
+
+
+                                                                                             receive a Pell                                the left)
+                                                                                                                        Loan
+                                                                                                 Grant
+
+    Initial 2019 cohort of first-time, full-time,
+A   bachelor's (or equivalent) degree-seeking                          282               260                   864                  1406
+    undergraduate students
+
+
+
+    Of the initial 2019 cohort, how many did not persist and
+    did not graduate for the following reasons:
+    • Deceased
+    • Permanently Disabled
+B   • Armed Forces
+                                                             0                           0                     1                    1
+    • Foreign Aid Service of the Federal Government
+    • Official church missions
+    • Report Total Allowable Exclusions
+
+
+
+    Final 2019 cohort, after adjusting for allowable
+C                                                                      282               260                   863                  1405
+    exclusions
+
+    Of the initial 2019 cohort, how many completed
+D   the program in four years or less (by Aug. 31,                     204               206                   654                  1064
+    2023)
+
+
+    Of the initial 2019 cohort, how many completed
+    the program in more than four years but in five
+E                                                                      26                16                    73                   115
+    years or less (after Aug. 31, 2023 and by Aug.
+    31, 2024)
+
+
+    Of the initial 2019 cohort, how many completed
+    the program in more than five years but in six
+F                                                                      5                 1                     12                   18
+    years or less (after Aug. 31, 2024 and by Aug.
+    31, 2025)
+
+
+    Total graduating within six years (sum of lines D,
+G                                                      235                               223                   739                  1197
+    E, and F)
+
+
+    Six-year graduation rate for 2019 cohort (G
+H                                                                      83.33%            85.77%                85.63%               85.20%
+    divided by C)
+
+
+
+
+                                                                             Fall 2018 Cohort
+
+                                                                                             Recipients of a
+                                                                                                                Students who did
+                                                                                               Subsidized                                  Total
+                                                                       Recipients of a                         not receive either a
+                                                                                             Stafford Loan
+                                                                        Federal Pell                             Pell Grant or a
+                                                                                               who did not                          (sum of 3 columns to
+                                                                           Grant                               subsidized Stafford
+                                                                                              receive a Pell                              the left)
+                                                                                                                      Loan
+                                                                                                  Grant
+
+
+    Initial 2018 cohort of first-time, full-time,
+A   bachelor's (or equivalent) degree-seeking                                225                  271                   779                 1275
+    undergraduate students
+
+
+
+    Of the initial 2018 cohort, how many did not persist and did not
+    graduate for the following reasons:
+    • Deceased
+    • Permanently Disabled
+B   • Armed Forces                                                              0                  0                     1                    1
+    • Foreign Aid Service of the Federal Government
+    • Official church missions
+    • Report Total Allowable Exclusions
+
+
+
+
+    Final 2018 cohort, after adjusting for allowable
+C                                                                            225                  271                   778                 1274
+    exclusions
+
+    Of the initial 2018 cohort, how many completed
+D   the program in four years or less (by Aug. 31,                           163                  216                   636                 1015
+    2022)
+
+
+    Of the initial 2018 cohort, how many completed
+    the program in more than four years but in five
+E                                                                            22                    18                   50                   90
+    years or less (after Aug. 31, 2022 and by Aug.
+    31, 2023)
+
+
+
+
+CDS-B                                                                                                                                                      Page 5
+Common Data Set 2025-2026
+
+
+
+
+      Of the initial 2018 cohort, how many completed
+      the program in more than five years but in six
+F                                                                     5                     5             5                15
+      years or less (after Aug. 31, 2023 and by Aug.
+      31, 2024)
+
+      Total graduating within six years (sum of lines D,
+G                                                                   190                    239           691              1120
+      E, and F)
+
+      Six-year graduation rate for 2018 cohort (G
+H                                                                84.44%                   88.19%        88.82%          87.91%
+      divided by C)
+
+      For Two-Year Institutions
+
+      Please provide data for the 2022 cohort if available. If 2022 cohort data are not available, provide data for the 2021 cohort.
+
+                                                                                                                     2022 Cohort         2021 Cohort
+B12 Initial cohort, total of first-time, full-time degree/certificate-seeking students:
+
+      Of the initial cohort, how many did not persist and did not graduate for the following reasons:
+      • Death
+      • Permanently Disability
+B13   • Service in the armed forces,
+      • Foreign aid service of the federal government
+      • Official church missions
+      • Report total allowable exclusions
+
+
+B14 Final cohort, after adjusting for allowable exclusions:                                                                         0                        0
+B15 Completers of programs of less than two years duration (total):
+
+B16 Completers of programs of less than two years within 150 percent of normal time:
+
+B17 Completers of programs of at least two but less than four years (total):
+
+B18 Completers of programs of at least two but less than four-years within 150 percent of normal time:
+
+B19 Total transfers-out (within three years) to other institutions:
+B20 Total transfers to two-year institutions:
+B21 Total transfers to four-year institutions:
+
+
+B22. Retention Rates
+
+      Report for the cohort of all full-time, first-time bachelor’s (or equivalent) degree-seeking undergraduate students who entered in Fall 2024 (or the
+      preceding summer term).
+
+      • The initial cohort may be adjusted for students who departed for the following reasons:
+
+      * Death
+      * Permanent Disability
+      * Service in the armed forces
+      * Foreign aid service of the federal government
+      * Official church missions
+      * No other adjustments to the initial cohort should be made.
+
+      Report the number of all first-time, full-time, bachelor’s (or equivalent) degree-seeking undergraduate students who
+B22                                                                                                                                          1500
+      entered in Fall 2024 (or the preceding summer term).
+
+
+
+
+      From this group, identify how many were still enrolled at your institution as of the official enrollment date in Fall 2025.            1415
+
+
+
+
+      Calculate the percentage of the Fall 2024 entering cohort who remained enrolled on the official census date.                          94.33%
+
+
+        Total students retained = students from the Fall 2024 cohort who are still enrolled as of Fall 2025 + students from Fall
+        2024 cohort who completed their bachelor’s program as of Fall 2025
+
+        (Students from the Fall 2024 cohort still enrolled as of Fall 2025 + Students from Fall 2024 cohort who completed
+        their bachelor’s program as of Fall 2025)/(Adjusted Fall 2024 cohort) *100
+
+        Note: The number of first-time students seeking a bachelor’s degree (or equivalent) who attain a bachelor’s degree
+        (or equivalent) by their second fall term is expected to be zero or very small. In exceptional cases when a first-time
+        student does satisfy all degree requirements including full credit completion (e.g., typically 120 credit hours) and is
+        awarded a bachelor’s degree (or equivalent) by their second fall term, they are to be considered “retained” for EF
+        reporting purposes.
+
+
+
+
+CDS-B                                                                                                                                                            Page 6
+Common Data Set 2025-2026
+
+
+
+
+                              C. FIRST-TIME, FIRST-YEAR ADMISSION
+     C1-C2: Applications
+     First-time, first-year students: Provide the number of degree-seeking, first-time, first-year students who applied,
+C1
+     were admitted, and enrolled (full- or part-time) in Fall 2025.
+     •   Include early decision, early action, and students who began studies during summer in this cohort.
+     •   Applicants should include only those students who fulfilled the requirements for consideration for
+         admission (i.e., who completed actionable applications) and who have been notified of one of the
+         following actions: admission, non-admission, placement on waiting list, or application withdrawn (by
+         applicant or institution).
+     • Note that recent high school graduates and other students without prior postsecondary experience will still be
+     considered "first-time students" for fall enrollment reporting purposes even if they enrolled in the summer prior to
+     fall enrollment.
+
+
+
+                       First-Time, First-Year Student Applicants                          Total
+     Total first-time, first-year males who applied                                       9791
+     Total first-time, first-year females who applied                                     9542
+     Total first-time, first-year students of unknown sex who applied                       9
+
+                          First-Time, First-Year Student Admits                           Total
+     Total first-time, first-year males who were admitted                                 2690
+     Total first-time, first-year females who were admitted                               2911
+     Total first-time, first-year students of unknown sex who were admitted
+
+                        First-Time, First-Year Student Enrollees                          Total
+     Total first-time, first-year males who enrolled                                       756
+     Total first-time, first-year females who enrolled                                     779
+     Total first-time, first-year students of unknown sex who enrolled
+
+                  First-Time, First-Year Student Enrollees by Status                      Total
+     Total full-time, first-time, first-year males who enrolled                            756
+     Total part-time, first-time, first-year males who enrolled
+     Total full-time, first-time, first-year females who enrolled                          779
+     Total part-time, first-time, first-year females who enrolled
+     Total full-time, first-time, first-year students of unknown sex who enrolled
+     Total part-time, first-time, first-year students of unknown sex who enrolled
+
+     If available, please provide residency breakdowns for total applicants, admits, and enrolled students: Fall 2025
+     Please report based on known physical address at time of application.
+
+                       First-Time, First-Year Student Applicants                         In-State         Out-of-State  International   Total
+     Total first-time, first-year (degree-seeking) who applied                                   3090             12070          4182      19342
+     Total first-time, first-year (degree-seeking) who were admitted                             1010              4415           176       5601
+     Total first-time, first-year (degree-seeking) who enrolled                                   352              1112            71       1535
+
+
+
+
+C2   First-time, first-year wait-listed students
+     Students who met admission requirements but whose final admission was contingent on space availability
+
+                                                                       Yes or No
+     Do you have a policy of placing students on a waiting list?         Yes
+
+
+     If yes, please answer the questions below for Fall 2025 admissions:
+
+                                   WAITING LIST                                          TOTAL
+     Number of qualified applicants offered a place on waiting list:                      4083
+     Number accepting a place on the waiting list:                                        1988
+     Number of wait-listed students admitted:                                              80
+
+                                                                       Yes or No
+     Is your waiting list ranked?                                         No
+     If yes, do you release that information to students?                  -
+     Do you release that information to school counselors?                No
+
+     C3-C5: Admission Requirements
+
+C3   High school completion requirement
+
+
+
+
+CDS-C                                                                                                                                              Page 7
+Common Data Set 2025-2026
+
+
+
+
+     Check the appropriate box to identify your high school completion requirement for degree-seeking entering
+     students:
+ x   High school diploma is required and GED is accepted
+     High school diploma is required and GED is not accepted
+     High school diploma or equivalent is not required
+
+     Does your institution require or recommend a general college-preparatory program for degree-seeking
+C4
+     students?
+ x   Require
+     Recommend
+     Neither require nor recommend
+
+     Distribution of high school units required and/or recommended. Specify the distribution of academic high
+     school course units required and/or recommended of all or most degree-seeking students using Carnegie units
+C5
+     (one unit equals one year of study or its equivalent). If you use a different system for calculating units, please
+     convert.
+                                                  Units              Units
+     Distribution of high school units
+                                                 Required        Recommended
+     Total academic units                            16                 18
+     English                                         4                  4
+     Mathematics                                     3                  4
+     Science                                         2                  4
+       Of these, units that must be
+                                                     2                  2
+       lab
+     Foreign language                                2                  2
+     Social studies                                  2                  4
+     History                                         2                  2
+     Academic electives                              2                  2
+     Computer Science                                1                  2
+     Visual/Performing Arts                          1                  1
+     Other (specify)
+
+     C6-C7: Basis for Selection
+     Do you have an open admission policy, under which virtually all secondary school graduates or students with
+C6   GED equivalency diplomas are admitted without regard to academic record, test scores, or other qualifications?
+     If so, check which applies:
+     Open admission policy as described above for all students
+
+     Open admission policy as described above for most students, but--
+     selective admission for out-of-state students
+     selective admission to some programs
+
+     other (explain):
+
+
+
+
+     Relative importance of each of the following academic and nonacademic factors in your first-time, first-
+C7
+     year, degree-seeking general (not including programs with specific criteria) admissions decisions.
+
+     Academic                                 Very Important        Important         Considered       Not Considered
+     Rigor of secondary school record                x
+     Class rank                                                          x
+     Academic GPA                                    x
+     Standardized test scores                                           x
+     Application Essay                                                  x
+     Recommendation(s)                                                  x
+     Nonacademic                              Very Important        Important         Considered       Not Considered
+     Interview                                                                            x
+     Extracurricular activities                                          x
+     Talent/ability                                                      x
+     Character/personal qualities                                        x
+     First generation                                                                       x
+     Alumni/ae relation                                                                     x
+     Geographical residence                                                                 x
+     State residency                                                                        x
+     Religious affiliation/commitment                                                                          x
+     Volunteer work                                                      x
+     Work experience                                                                        x
+     Level of applicant’s interest                                       x
+
+
+
+
+CDS-C                                                                                                                     Page 8
+Common Data Set 2025-2026
+
+
+
+
+      Please provide additional information if the importance of any specific academic or nonacademic factors differ by
+      academic program.
+
+
+      C8: SAT and ACT Policies
+      Entrance exams
+                                                                                            Yes or No
+    Does your institution make use of SAT or ACT scores in admission
+C8A                                                                                            Yes
+    decisions for first-time, first-year, degree-seeking applicants?
+
+
+      If yes, place check marks in the appropriate boxes below to reflect your institution’s policies for use in admission for students applying
+      for Fall 2027.
+                                                                                                                                  Not
+                                                                                                            Not required for   considered
+                                                  Required to be
+                                                                        Required for                        admission, but         for
+                       Admission                  considered for                           Recommended
+                                                                           some                              considered if     admission,
+                                                    admission
+                                                                                                              submitted          even if
+                                                                                                                               submitted
+
+
+      SAT or ACT                                                                                x
+
+      ACT Only                                                                                  x
+
+      SAT Only                                                                                  x
+
+
+C8B Has been removed from the CDS.
+
+C8C Has been removed from the CDS.
+                                                                                                               Yes or No
+
+C8D In addition, does your institution use applicants' test scores for academic advising?                 No
+
+
+
+
+C8E Latest date by which SAT or ACT scores must be received for fall-term admission                              1-Jan
+
+
+C8F
+      If necessary, use this space to clarify your test policies
+      (e.g., if tests are recommended for some students, or if        Submission of SAT/ACT scores are optional and will
+      tests are not required of some students due to                  be considered only if an applicant indicates that they
+      differences by academic program, student academic               want official scores to be added into the review and
+      background, or if other examinations may be considered                    final decision of their application.
+      in lieu of the SAT and ACT):
+
+
+
+C8G Please indicate which tests your institution uses for placement (e.g., state tests):
+
+      SAT
+      ACT
+x     AP
+      CLEP
+      Institutional Exam
+      State Exam (specify):
+
+
+
+
+      C9-C12: First-time, first-year Profile
+      Provide information for ALL enrolled, degree-seeking, full-time and part-time, first-time, first-year students
+      enrolled in Fall 2025, including students who began studies during summer, international students/nonresidents,
+      and students admitted under special arrangements.
+
+
+      Percent and number of first-time, first-year students enrolled in Fall 2025 who submitted national
+C9
+      standardized (SAT/ACT) test scores.
+      •   Include information for ALL enrolled, degree-seeking, first-time, first-year students who submitted
+
+
+
+
+CDS-C                                                                                                                                              Page 9
+Common Data Set 2025-2026
+
+
+
+
+    •   Do not include partial test scores (e.g., mathematics scores but not critical reading for a category of
+        students) or combine other standardized test results (such as TOEFL) in this item.
+    •   Do not convert SAT scores to ACT scores and vice versa.
+    •   If a student submitted multiple sets of scores for a single test, report this information according to how
+        you use the data. For example:
+    •   If you consider the highest scores from either submission, use the highest combination of scores
+        (e.g., verbal from one submission, math from the other).
+    •   If you average the scores, use the average to report the scores.
+
+                                                 Percent             Number
+    Submitting SAT Scores                        33.03%                507
+    Submitting ACT Scores                        10.29%                158
+
+
+    For each assessment listed below, report the score that represents
+    the 25th percentile (the score that 25 percent of the first-time, first-
+    year population scored at or below) and the 75th percentile score (the
+    score that 25 percent scored at or above).
+
+
+
+
+                                             25th Percentile     50th Percentile    75th Percentile
+                  Assessment
+                                                 Score               Score              Score
+
+    SAT Composite                                  1380                1430               1480
+
+    SAT Evidence-Based Reading and
+                                                    680                710                 740
+    Writing
+
+    SAT Math                                        690                720                 760
+
+    ACT Composite                                   31                  33                 34
+
+    ACT Math                                        29                  31                 33
+
+    ACT English                                     31                  34                 35
+
+    ACT Writing                                      -                   -                  -
+
+    ACT Science                                     30                  32                 34
+
+    ACT Reading                                     32                  34                 35
+
+
+    Percent of first-time, first-year students with scores in each range:
+
+                                             SAT Evidence-
+                Score Range                  Based Reading          SAT Math
+                                              and Writing
+                   700-800                          63.12%                72.78%
+                   600-699                          35.50%                25.25%
+                   500-599                           1.18%                 1.77%
+                   400-499                           0.20%                 0.20%
+                   300-399                           0.00%                 0.00%
+                   200-299                           0.00%                 0.00%
+    Totals should = 100%                           100.00%               100.00%
+
+                Score Range                 SAT Composite
+                  1400-1600                 68.64%
+                  1200-1399                 30.97%
+                  1000-1299                 0.39%
+                   800-999                  0%
+                   600-799                  0%
+                   400-599                  0%
+    Totals should = 100%                    100.00%
+
+                Score Range                  ACT Composite        ACT English          ACT Math          ACT Reading ACT Science
+                   30-36                            96.20%              82.28%              68.35%             95.57%     84.18%
+
+
+
+
+CDS-C                                                                                                                              Page 10
+Common Data Set 2025-2026
+
+
+
+
+                      24-29                               3.80%             17.72%               31.65%           3.80%    15.19%
+                      18-23                                                                                       0.63%     0.63%
+                      12-17
+                       6-11
+                     Below 6
+      Totals should = 100%                             100.00%             100.00%             100.00%         100.00%     100.00%
+
+    Percent of all degree-seeking, first-time, first-year students who had high school class rank within each
+C10 of the following ranges (report information for those students from whom you collected high school rank
+    information)
+                                          Assessment                                       Percent
+      Percent in top tenth of high school graduating class                                     60.00%
+      Percent in top quarter of high school graduating class                                   86.76%
+      Percent in top half of high school graduating class                                      98.31% Top half +
+      Percent in bottom half of high school graduating class                                    1.69% bottom half = 100%
+      Percent in bottom quarter of high school graduating class                                 0.28%
+      Percent of total first-time, first-year students who submitted high school               23.13%
+
+
+      Percentage of all enrolled, degree-seeking, first-time, first-year students who had high school grade-
+C11
+      point averages within each of the following ranges (using 4.0 scale).
+
+      * Report information only for those students from whom you collected high school GPA.
+      * If you are able to report GPA ranges separately for students that also submitted at least one test score
+      versus those who did not submit a test score, please do so in the respective columns. If you are unable
+      to report these data, please report the ranges for all students.
+
+
+                                                                      Percent               Percent
+                                                                                                          Percent (All
+                                                                   (Students who         (Students who
+                                Range                                                                       enrolled
+                                                                     submitted           did not submit
+                                                                                                           students)
+                                                                      scores)                scores)
+      Percent who had GPA of 4.0
+      Percent who had GPA between 3.75 and 3.99
+      Percent who had GPA between 3.50 and 3.74
+      Percent who had GPA between 3.25 and 3.49
+      Percent who had GPA between 3.00 and 3.24
+      Percent who had GPA between 2.50 and 2.99
+      Percent who had GPA between 2.0 and 2.49
+      Percent who had GPA between 1.0 and 1.99
+      Percent who had GPA below 1.0
+      Totals should = 100%                                                     0.00%              0.00%           0.00%
+
+C12 Average high school GPA of all degree-seeking, first-time, first-year
+    Percent of total first-time, first-year students who submitted high school
+    GPA:
+
+
+
+
+      C13-C20: Admission Policies
+
+
+C13 Application Fee
+    If your institution has waived its application fee for the Fall 2026 admission cycle please select no.
+
+                                                                      Yes or No
+      Does your institution have an application fee?                    Yes
+
+      Amount of application fee:                                                   $75
+
+                                                                      Yes or No
+      Can it be waived for applicants with financial need?              Yes
+
+      If you have an application fee and an on-line application option, please indicate policy for students who
+
+ x    Same fee
+      Free
+      Reduced
+                                                                      Yes or No
+      Can on-line application fee be waived for applicants               Yes
+
+
+
+
+CDS-C                                                                                                                                Page 11
+Common Data Set 2025-2026
+
+
+
+
+C14 Application closing date
+                                                                       Yes or No
+     Does your institution have an application closing date?             Yes
+
+                                                      Date
+     Application closing date (fall)                   1/1
+     Priority Date                                     1/1
+
+
+                                                                                           Yes or No
+C15 Are first-time, first-year students accepted for terms other than the                     No
+
+
+
+C16 Notification to applicants of admission decision sent (fill in one only)
+
+     On a rolling basis beginning (date):
+ x   By (date):                                     20-Mar
+     Other:
+
+
+
+C17 Reply policy for admitted applicants (fill in one only)
+
+ x   Must reply by (date):                           1-May
+     No set date
+     Must reply by May 1st or within                                weeks if notified thereafter
+     Other:
+
+     Deadline for housing deposit (MMDD):            1-May
+
+     Amount of housing deposit:                              $500
+
+     Refundable if student does not enroll?
+
+
+
+     Yes, in full
+     Yes, in part
+ x   No
+
+C18 Deferred admission
+                                                                                           Yes or No
+     Does your institution allow students to postpone enrollment after
+                                                                                               Yes
+     admission?
+     If yes, maximum period of postponement:                              1 year
+
+C19 Early admission of high school students
+                                                                                           Yes or No
+
+     Does your institution allow high school students to enroll as full-time, first-
+                                                                                               No
+     time, first-year students one year or more before high school graduation?
+
+
+C20 Common Application: Question removed from CDS. (Initiated during 2006-2007 cycle)
+
+     C21-C22: Early Decision and Early Action Plans
+
+C21 Early Decision
+                                                                                           Yes or No
+
+     Does your institution offer an early decision plan (an admission plan that
+     permits students to apply and be notified of an admission decision well in
+                                                                                               Yes
+     advance of the regular notification date and that asks students to commit to
+     attending if accepted) for first-time, first-year applicants for fall enrollment?
+
+     If “yes,” please complete the following:
+     First or only early decision plan closing date                                           11/1
+     First or only early decision plan notification date                                      12/5
+     Other early decision plan closing date                                                   1/1
+     Other early decision plan notification date                                              2/5
+
+
+
+
+CDS-C                                                                                                  Page 12
+Common Data Set 2025-2026
+
+
+
+
+    For the Fall 2025 entering class:
+    Number of early decision applications received by your institution                2040
+    Number of applicants admitted under early decision plan                           966
+    Please provide significant details about your early decision plan:
+
+
+
+
+C22 Early action
+                                                                                    Yes or No
+    Do you have a nonbinding early action plan whereby students are notified
+    of an admission decision well in advance of the regular notification date but      No
+    do not have to commit to attending your college?
+    If “yes,” please complete the following:
+    Early action closing date
+    Early action notification date
+
+                                                                                    Yes or No
+
+    Is your early action plan a “restrictive” plan under which you limit students
+    from applying to other early plans?
+
+
+
+
+CDS-C                                                                                           Page 13
+Common Data Set 2025-2026
+
+
+
+
+                                      D. TRANSFER ADMISSION
+     D1-D2: Fall Applicants
+                                                                      Yes or No
+D1   Does your institution enroll transfer students? (If no, please
+                                                                           x
+     skip to Section E)
+     If yes, may transfer students earn advanced standing credit
+     by transferring credits earned from course work completed             x
+     at other colleges/universities?
+
+D2   Provide the number of students who applied, were admitted, and enrolled as degree-seeking transfer
+     students in Fall 2025.
+
+
+     Transfer Admission             Applicants         Admitted        Enrolled
+     Males                            452                104             35
+     Females                          352                91              25
+     Unknown                             -                -               -
+     Total                            804                195             60
+
+     D3-D11: Application for Admission
+D3   Indicate terms for which transfers may enroll:
+
+ x   Fall
+     Winter
+ x   Spring
+     Summer
+                                                                      Yes or No
+     Must a transfer applicant have a minimum number of
+     credits completed or else must apply as an entering first-           Yes
+     year student?
+
+
+
+                                                                       Number        Unit Type
+
+
+     If yes, what is the minimum number of credits and the unit
+D4                                                                        24        Credit Hours
+     of measure?
+
+
+
+D5   Indicate all items required of transfer students to apply for admission:
+
+                                                       Recommended    Recommended
+              Requirements           Required of All                                Required of Some   Not Required
+                                                           of All        of Some
+     High school transcript                x
+     College transcript(s)                 x
+     Essay or personal
+                                                            x
+     statement
+     Interview                                                                                              x
+     Standardized test scores                                                                               x
+     Statement of good standing
+                                           x
+     from prior institution(s)
+
+
+D6   If a minimum high school grade point average is required of
+
+
+
+D7   If a minimum college grade point average is required of
+     transfer applicants, specify (on a 4.0 scale):                        3
+
+
+
+
+D8   List any other application requirements specific to transfer applicants:
+
+
+
+
+CDS-D                                                                                                                 Page 14
+Common Data Set 2025-2026
+
+
+
+
+D9
+      List application priority, closing, notification, and candidate reply dates for transfer students. If applications
+      are reviewed on a continuous or rolling basis, place a check mark in the “Rolling admission” column.
+
+
+                                                                                                              Rolling
+                  Term                 Priority Date    Closing Date   Notification Date   Reply Date
+                                                                                                             Admission
+
+      Fall                                 4/1             4/15              5/15             6/15
+      Winter
+      Spring                              11/1             11/15             12/1             1/10
+      Summer
+
+
+
+
+                                                                          Yes or No
+D10 Does an open admission policy, if reported, apply to
+                                                                              No
+      transfer students?
+
+
+
+D11 Describe additional requirements for transfer admission, if applicable:
+
+
+      D12-D17: Transfer Credit Policies
+D12
+      Report the lowest grade earned for any
+                                                             C
+      course that may be transferred for credit:
+
+
+
+                                                                           Number          Unit Type
+D13
+      Maximum number of credits or courses that may be
+                                                                              60             Credits
+      transferred from a two-year institution:
+
+
+
+                                                                           Number          Unit Type
+D14 Maximum number of credits or courses that may be
+                                                                              90             Credits
+    transferred from a four-year institution:
+
+
+
+                                                                           Number          Unit Type
+
+D15 Minimum number of credits that transfers must complete at
+                                                                              --                --
+    your institution to earn an associate degree:
+
+
+
+
+                                                                           Number          Unit Type
+
+D16 Minimum number of credits that transfers must complete at
+                                                                              60             Credits
+      your institution to earn a bachelor’s degree:
+
+
+
+D17 Describe other transfer credit policies:
+
+
+      D18-D22: Military Service Transfer Credit Policies
+D18 Does your institution accept the following military/veteran transfer credits:
+
+                                                                          Yes or No
+      American Council on Education (ACE)                                    No
+      College Level Examination Program (CLEP)                               No
+      DANTES Subject Standardized Tests (DSST)                               No
+
+                                                                           Number          Unit Type
+
+
+
+
+CDS-D                                                                                                                      Page 15
+Common Data Set 2025-2026
+
+
+
+
+D19 Maximum number of credits or courses that may be
+    transferred based on military education evaluated by the
+    American Council on Education (ACE):
+
+                                                                          Number           Unit Type
+D20 Maximum number of credits or courses that may be transferred
+      based on Department of Defense supported prior learning
+      assessments (College Level Examination Program (CLEP) or
+      DANTES Subject Standardized Tests (DSST)):
+
+
+                                                                          Yes or No
+D21 Are the military/veteran credit transfer policies published on your
+      website?
+
+      If yes, please provide the URL where the policy can be located:
+
+
+D22 Describe other military/veteran transfer credit policies unique to your institution:
+
+
+
+
+CDS-D                                                                                                  Page 16
+Common Data Set 2025-2026
+
+
+
+
+                    E. ACADEMIC OFFERINGS AND POLICIES
+      Special study options: Identify those programs available at your institution.
+E1
+      Refer to the glossary for definitions.
+
+      Accelerated program
+      Comprehensive transition and postsecondary program for students with intellectual disabilities
+  x   Cross-registration
+  x   Distance learning
+  x   Double major
+      Dual enrollment
+  x   English as a Second Language (ESL)
+  x   Exchange student program (domestic)
+  x   External degree program
+  x   Honors Program
+  x   Independent study
+  x   Internships
+  x   Liberal arts/career combination
+      Student-designed major
+  x   Study abroad
+      Teacher certification program
+  x   Undergraduate Research
+      Weekend college
+  x   Other (specify):
+      View Lehigh Catalog: https://catalog.lehigh.edu/undergraduatestudies/
+
+E2    Has been removed from the CDS.
+
+      Areas in which all or most students are required to complete some course
+E3
+      work prior to graduation:
+      Arts/fine arts
+ x    Computer literacy
+ x    English (including composition)
+      Foreign languages
+      History
+      Physical Education
+ x    Humanities
+ x    Intensive writing
+ x    Mathematics
+      Philosophy
+ x    Sciences (biological or physical)
+ x    Social science
+      Other (describe):
+
+
+
+
+                                                                        CDS-E                          Page 17
+Common Data Set 2025-2026
+
+
+
+
+                                                     F. STUDENT LIFE
+     Percentages of first-time, first-year degree-seeking students and degree-seeking undergraduates enrolled in Fall
+F1
+     2025 who fit the following categories:
+
+                                                    First-time, first-
+                                                                         Undergraduates
+                                                     year students
+
+     Percent who are from out of state (exclude
+     international/nonresidents from the                75.82%              73.67%
+     numerator and denominator)
+     Percent of males who join fraternities                 -               17.83%
+     Percent of females who join sororities                 -               24.74%
+     Percent who live in college-owned, -
+                                                        97.26%              60.29%
+     operated, or -affiliated housing
+     Percent who live off campus or commute              2.74%              39.71%
+     Percent of students age 25 and older                0.00%               0.22%
+     Average age of full-time students                     18                  20
+     Average age of all students (full- and part-
+                                                           18                  21
+     time)
+
+     Activities offered. Identify those programs
+F2
+     available at your institution.
+
+ x   Campus Ministries
+ x   Choral groups
+ x   Concert band
+ x   Dance
+ x   Drama/theater
+ x   International Student Organization
+ x   Jazz band
+ x   Literary magazine
+ x   Marching band
+ x   Model UN
+ x   Music ensembles
+     Musical theater
+     Opera
+ x   Pep band
+ x   Radio station
+ x   Student government
+ x   Student newspaper
+ x   Student-run film society
+ x   Symphony orchestra
+     Television station
+ x   Yearbook
+
+F3 ROTC (program offered in cooperation with Reserve Officers' Training Corps)
+                                                                                                                    Name of
+                                                      Marine Option                        At Cooperating
+                      Programs                                            On Campus                               Cooperating
+                                                    (for Naval ROTC)                          Institution
+                                                                                                                   Institution
+     Army ROTC is offered:                           Not Applicable            x                   -                    -
+     Naval ROTC is offered:                                 -                  -                   -                    -
+     Air Force ROTC is offered:                      Not Applicable            -                   -                    -
+
+F4 Housing: Check all types of college-owned, -operated, or -affiliated housing available for undergraduates at your institution.
+ x Coed residence halls
+ x Men's residence halls
+   Women's residence halls
+ x Apartments for married students
+ x Apartments for single students
+ x Special housing for disabled students
+ x Special housing for international students
+ x Fraternity/sorority housing
+   Cooperative housing
+ x Theme housing
+   Wellness housing
+ x Living Learning Communities
+ x Other housing options (specify):
+   Gender Neutral
+
+
+
+
+                                                                               CDS-F                                                Page 18
+Common Data Set 2025-2026
+
+
+
+
+                                            G. ANNUAL EXPENSES
+
+G0 Please provide the URL of your institution’s net price calculator:
+     https://www.lehigh.edu/admissions/net-price-calculator
+
+     Provide 2026-2027 academic year costs of attendance for the following categories that are applicable to
+     your institution.
+
+ x Check here if your institution's 2026-2027 academic year costs of attendance are not available at this time and
+   provide an approximate date (i.e., month/day) when your institution's final 2065-2027 academic year costs of
+   attendance will be available:
+   1-Mar
+
+G1 Undergraduate full-time tuition, required fees, food and housing
+   List the typical tuition, required fees, and food and housing for a full-time undergraduate student for the FULL
+   2026-2027 academic year. (30 semester hours or 45 quarter hours for institutions that derive annual tuition by
+   multiplying credit hour cost by number of credits).
+     •   A full academic year refers to the period of time generally extending from September to June; usually
+         equated to two semesters, two trimesters, three quarters, or the period covered by a four-one-four plan.
+     •   Food and housing is defined as double occupancy and 19 meals per week or the maximum meal plan.
+     •   Required fees include only charges that all full-time students must pay that are not included in tuition
+         (e.g., registration, health, or activity fees.)
+     •   Do not include optional fees (e.g., parking, laboratory use).
+
+G1 PRIVATE INSTITUTIONS                             First-Year           Undergraduates
+   Tuition:
+
+     PUBLIC INSTITUTIONS                            First-Year           Undergraduates
+     Tuition: In-district
+     Tuition: In-state (out-of-district):
+     Tuition: Out-of-state:
+     Tuition: Nonresident
+
+     FOR ALL INSTITUTIONS                           First-Year           Undergraduates
+     Required Fees:
+     Food and housing (on-campus):
+     Housing Only (on-campus):
+     Food Only (on-campus meal plan):
+
+     Comprehensive tuition and food and housing fee (if your college cannot provide
+     separate tuition and food and housing fees):
+
+
+     Other:
+
+                                                                            Minimum                 Maximum
+   Number of credits per term a student can take for the stated
+G2
+   full-time tuition.
+
+                                                                            Yes or No
+     Do tuition and fees vary by year of study (e.g., sophomore,
+G3
+     junior, senior)?
+     Do tuition and fees vary by undergraduate instructional
+G4
+     program?
+     If yes, what percentage of full-time undergraduates pay more
+     than the tuition and fees reported in G1?
+
+
+G5 Provide the estimated expenses for a typical full-time undergraduate student:
+                                                                            Commuters              Commuters
+                                                   Residents
+                                                                         (living at home)      (not living at home)
+     Books and supplies:
+     Housing only:                               Not Applicable          Not Applicable
+     Food only:                                  Not Applicable
+
+
+
+
+CDS-G                                                                                                                 Page 19
+Common Data Set 2025-2026
+
+
+
+
+    Food and housing total*                     Not Applicable          Not Applicable
+    Transportation:
+    Other expenses:
+    * If your college cannot provide separate food and housing figures for commuters not living at home
+
+G6 Undergraduate per-credit-hour charges (tuition only):
+   PRIVATE INSTITUTIONS:
+   PUBLIC INSTITUTIONS:                       Not Applicable
+   In-district:
+   In-state (out-of-district):
+   Out-of-state:
+   NONRESIDENTS:
+
+
+
+
+CDS-G                                                                                                     Page 20
+Common Data Set 2025-2026
+
+
+
+
+                         I. INSTRUCTIONAL FACULTY AND CLASS SIZE
+     Please report the number of instructional faculty members in each category for Fall 2025. Include
+I-1. faculty who are on your institution’s payroll on the census date your institution uses for
+     IPEDS/AAUP.
+
+       The following definition of full-time instructional faculty is used by the American Association of University Professors
+       (AAUP) in its annual Faculty Compensation Survey (the part time definitions are not used by AAUP). Instructional Faculty
+       is defined as those members of the instructional-research staff whose major regular assignment is instruction, including
+       those with released time for research. Use the chart below to determine inclusions and exclusions:
+
+                                                                                                             Full-time    Part-time
+                                                                                                                          Include only if
+            Instructional faculty in preclinical and clinical medicine, faculty who are not paid (e.g.,                  they teach one
+        A   those who donate their services or are in the military), or research-only faculty, post-          Exclude      or more non-
+            doctoral fellows, or pre-doctoral fellows                                                                      clinical credit
+                                                                                                                              courses
+
+                                                                                                                         Include if they
+            Administrative officers with titles such as dean of students, librarian, registrar, coach, and                teach one or
+        B   the like, even though they may devote part of their time to classroom instruction and may         Exclude      more non-
+            have faculty status                                                                                           clinical credit
+                                                                                                                             courses
+            Other administrators/staff who teach one or more non-clinical credit courses even though
+        C                                                                                                     Exclude        Include
+            they do not have faculty status
+            Undergraduate or graduate students who assist in the instruction of courses, but have
+        D                                                                                                     Exclude       Exclude
+            titles such as teaching assistant, teaching fellow, and the like
+        E   Faculty on sabbatical or leave with pay                                                            Include      Exclude
+        F   Faculty on leave without pay                                                                      Exclude       Exclude
+        G   Replacement faculty for faculty on sabbatical leave or leave with pay                             Exclude        Include
+
+
+
+       Full-time instructional faculty: faculty employed on a full-time basis for instruction (including those with released time
+       for research)
+
+       Part-time instructional faculty: Adjuncts and other instructors being paid solely for part-time classroom instruction.
+       Also includes full-time faculty teaching less than two semesters, three quarters, two trimesters, or two four-month
+       sessions. Employees who are not considered full-time instruction faculty but who teach one or more non-clinical credit
+       courses may be counted as part-time faculty.
+
+       Minority faculty: includes faculty who designate themselves as Black, non-Hispanic; American Indian or Alaska Native;
+       Asian, Native Hawaiian or other Pacific Islander, or Hispanic.
+
+       Doctorate: includes such degrees as Doctor of Philosophy, Doctor of Education, Doctor of Juridical Science, and Doctor
+       of Public Health in any field such as arts, sciences, education, engineering, business, and public administration. Also
+       includes terminal degrees formerly designated as “first professional,” including dentistry (DDS or DMD), medicine (MD),
+       optometry (OD), osteopathic medicine (DO), pharmacy (DPharm or BPharm), podiatric medicine (DPM), veterinary
+       medicine (DVM), chiropractic (DC or DCM), or law (JD).
+
+       Terminal master’s degree: a master’s degree that is considered the highest degree in a field: example, M. Arch (in
+       architecture) and MFA (master of fine arts in art or theater).
+
+
+I-1.                                                                                             Full-Time   Part-Time       Total
+        A Total number of instructional faculty                                                     593        173            766
+        B Total number who are members of minority groups                                           157        18             175
+        C Total number who are females                                                              243        83             326
+        D Total number who are males                                                                349        82             431
+        E Total number who are nonresidents (international)                                         40          8             48
+        F Total number with doctorate, or other terminal degree                                     555        65             620
+          Total number whose highest degree is a master’s but not a terminal
+        G                                                                                            35         43             78
+          master’s
+        H Total number whose highest degree is a bachelor’s                                           2         37             39
+          Total number whose highest degree is unknown or other (Note:
+        I                                                                                             1         28             29
+          Items f, g, h, and i must sum up to item a.)
+          Total number in stand-alone graduate/professional programs in
+        J                                                                                             0          0              0
+          which faculty teach virtually only graduate-level students
+
+I-2. Student to Faculty Ratio
+     Report the Fall 2025 ratio of full-time equivalent undergraduate and graduate students (full-time plus 1/3
+     part time) to full-time equivalent instructional faculty of undergraduate and graduate students (full-time plus
+     1/3 part time). In the ratio calculations, exclude both faculty and students in stand-alone graduate or
+     professional programs such as medicine, law, veterinary, dentistry, social work, business, or public health
+     in which faculty teach virtually only graduate level students.
+
+
+
+
+CDS-I                                                                                                                                        Page 21
+Common Data Set 2025-2026
+
+
+
+
+    • Do not count undergraduate or graduate student teaching assistants as faculty.
+
+    Fall 2025 Student to Faculty ratio                        11     to 1        (based on     7353     students
+                                                                                       and    650.67    faculty).
+I-3. Undergraduate Class Size
+    In the table below, please use the following definitions to report information about the size of classes and
+    class sections offered in the Fall 2025 term.
+
+
+
+
+    Class Sections: A class section is an organized course offered for credit, identified by discipline and
+    number, meeting at a stated time or times in a classroom or similar setting, and not a subsection such as a
+    laboratory or discussion session. Undergraduate class sections are defined as any sections in which at
+    least one degree-seeking undergraduate student is enrolled for credit. Exclude distance learning classes
+    and noncredit classes and individual instruction such as dissertation or thesis research, music instruction,
+    or one-to-one readings. Exclude students in independent study, co-operative programs, internships, foreign
+    language taped tutor sessions, practicums, and all students in one-on-one classes. Each class section
+    should be counted only once and should not be duplicated because of course catalog cross-listings.
+
+
+
+    Class Subsections: A class subsection includes any subsection of a course, such as laboratory,
+    recitation, and discussion subsections that are supplementary in nature and are scheduled to meet
+    separately from the lecture portion of the course. Undergraduate subsections are defined as any
+    subsections of courses in which degree-seeking undergraduate students enrolled for credit. As above,
+    exclude noncredit classes and individual instruction such as dissertation or thesis research, music
+    instruction, or one-to-one readings. Each class subsection should be counted only once and should not be
+    duplicated because of cross-listings.
+
+
+
+    Using the above definitions, please report for each of the following class-size intervals the number of class
+    sections and class subsections offered in Fall 2025. For example, a lecture class with 800 students who
+    met at another time in 40 separate labs with 20 students should be counted once in the “100+” column in
+    the class section column and 40 times under the “20-29” column of the class subsections table.
+
+
+
+    Number of Class Sections with Undergraduates Enrolled
+
+    Undergraduate Class Size (provide numbers)
+                       2-9       10-19    20-29             30-39       40-49      50-99       100+        Total
+        CLASS
+                       98         332      270               174            56       65         35         1030
+      SECTIONS
+
+                          2-9        10-19      20-29       30-39       40-49      50-99       100+        Total
+        CLASS SUB-
+                           43         116        135          36            5        10          6         351
+         SECTIONS
+
+
+
+
+CDS-I                                                                                                               Page 22
+Common Data Set 2025-2026
+
+
+
+
+                              J. Disciplinary areas of DEGREES CONFERRED
+
+J1   Degrees conferred between July 1, 2024 and June 30, 2025
+     For each of the following discipline areas, provide the percentage of diplomas/certificates, associate, and bachelor’s degrees
+     awarded. To determine the percentage, use majors, not headcount (e.g., students with one degree but a double major will be
+     represented twice). Calculate the percentage from your institution’s IPEDS Completions by using the sum of 1st and 2nd
+     majors for each CIP code as the numerator and the sum of the Grand Total by 1st Majors and the Grand Total by 2nd major
+     as the denominator. If you prefer, you can compute the percentages using 1st majors only.
+                                                          Diploma/
+                                                                                                             CIP 2020 Categories
+                          Category                        Certificat     Associate          Bachelor’s
+                                                                                                                  to Include
+                                                             es
+     Agriculture                                                                                                      01
+     Natural resources and conservation                                                             0.75%             03
+     Architecture                                                                                   1.88%             04
+     Area, ethnic, and gender studies                                                               0.13%             05
+     Communication/journalism                                                                       1.76%             09
+     Communication technologies                                                                                       10
+     Computer and information sciences                                                             11.47%             11
+     Personal and culinary services                                                                                   12
+     Education                                                                                                        13
+     Engineering                                                                                   20.25%             14
+     Engineering technologies                                                                                         15
+     Foreign languages, literatures, and linguistics                                                0.44%             16
+     Family and consumer sciences                                                                                     19
+     Law/legal studies                                                                                                22
+     English                                                                                        1.25%             23
+     Liberal arts/general studies                                                                                     24
+     Library science                                                                                                  25
+     Biological/life sciences                                                                       6.02%             26
+     Mathematics and statistics                                                                     1.50%             27
+     Military science and military technologies                                                                     28 & 29
+     Interdisciplinary studies                                                                      3.20%             30
+     Parks and recreation                                                                                             31
+     Philosophy and religious studies                                                               0.63%             38
+     Theology and religious vocations                                                                                 39
+     Physical sciences                                                                              2.51%             40
+     Science technologies                                                                                             41
+     Psychology                                                                                     6.14%             42
+     Homeland Security, law enforcement, firefighting,
+                                                                                                                      43
+     and protective services
+     Public administration and social services                                                                        44
+     Social sciences                                                                                7.84%             45
+     Construction trades                                                                                              46
+     Mechanic and repair technologies                                                                                 47
+     Precision production                                                                                             48
+     Transportation and materials moving                                                                              49
+     Visual and performing arts                                                                     2.01%             50
+     Health professions and related programs                                                        3.64%             51
+     Business/marketing                                       100%                                 27.96%             52
+     History                                                                                        0.63%             54
+     Other
+     TOTAL (should = 100%)                                100.00%          0.00%             100.00%
+
+
+
+
+                                                                        CDS-J                                                         Page 23
+

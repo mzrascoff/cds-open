@@ -1,0 +1,13 @@
+year,category,male,female,unknown
+2023-2024,undergrad_FT_total,9044,11576,2
+2023-2024,undergrad_PT_total,660,848,0
+2023-2024,undergrad_total,9704,12424,2
+2023-2024,graduate_FT_total,2190,2788,2
+2023-2024,graduate_PT_total,1438,1493,1
+2023-2024,graduate_total,3628,4281,3
+2023-2024,total_undergraduates,22130,,
+2023-2024,total_graduate,7912,,
+2023-2024,grand_total,30042,,
+2019-2020,total_undergraduates,23482,,
+2019-2020,total_graduate,7758,,
+2019-2020,grand_total,31240,,

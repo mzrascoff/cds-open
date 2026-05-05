@@ -1,0 +1,52 @@
+{
+  "A": {
+    "_section_label": "A.? General Information",
+    "A1": {
+      "label": ". General information",
+      "raw_text": "A1. General information\n    Name of College/University:                     Boston University\n    Mailing Address:                                One Silber Way\n                                                    Boston MA 02215\n    Street Address (if different)\n\n\n    Main Phone:                                     (617) 353-2000\n    www Home Page Address:                          http://www.bu.edu\n\n\n    Admissions Phone Number:                        (617) 353-2300\n    Admissions Toll-Free Number:                    N/A\n    Admissions Office Mailing Address:              233 Bay State Road\n                                                    Boston MA 02215\n    Admissions Fax Number:\n    Admissions E-mail Address:                      admissions@bu.edu; International: intadmis@bu.edu\n    Separate URL application site:                  https://www.commonapp.org/\n                                                    https://www.questbridge.org"
+    },
+    "A2": {
+      "label": ". Institutional control",
+      "raw_text": "A2. Institutional control\n    Public\n    Private (nonprofit)                                   X\n    Proprietary"
+    },
+    "A3": {
+      "label": ". Institution classification",
+      "raw_text": "A3. Institution classification\n    Coeducational college                                 X\n    Men's college\n    Women's college"
+    },
+    "A4": {
+      "label": ". Academic year calendar",
+      "raw_text": "A4. Academic year calendar\n    Semester                                              X\n    Quarter\n    Trimester\n    \"4-1-4\"\n    Continuous\n    Differs by program (describe):\n    Other (describe):\n\n\n\n\nBoston University\nAnalytical Services & Institutional Research                                                            2023-2024\n\fBoston University Common Data Set                         2"
+    },
+    "A5": {
+      "label": ". Degrees offered",
+      "raw_text": "A5. Degrees offered\n    Certificate                                X\n    Diploma\n    Associate\n    Transfer associate\n    Terminal associate\n    Bachelor's                                 X\n    Postbachelor's certificate                 X\n    Master's                                   X\n    Post-master's certificate                  X\n    Doctoral - Research and Scholarship        X\n    Doctoral - Professional Practice           X\n\n\n\n\nBoston University\nAnalytical Services & Institutional Research       2023-2024"
+    }
+  },
+  "B": {
+    "_section_label": "B.? ENROLLMENT AND PERSISTENCE"
+  },
+  "C": {
+    "_section_label": "C.? FIRST-TIME,? FIRST-YEAR (?:\\(?FRESHMAN\\)? )?ADMISSION"
+  },
+  "D": {
+    "_section_label": "D.? TRANSFER ADMISSION"
+  },
+  "E": {
+    "_section_label": "E.? ACADEMIC OFFERINGS AND POLICIES"
+  },
+  "F": {
+    "_section_label": "F.? STUDENT LIFE"
+  },
+  "G": {
+    "_section_label": "G.? (?:ANNUAL EXPENSES|ANNUAL EXPENSE)"
+  },
+  "H": {
+    "_section_label": "H.? FINANCIAL AID"
+  },
+  "I": {
+    "_section_label": "I.? INSTRUCTIONAL FACULTY AND CLASS SIZE"
+  },
+  "J": {
+    "_section_label": "J.? (?:DEGREES?|DISCIPLINARY) (?:CONFERRED|AREAS?)"
+  }
+}
