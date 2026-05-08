@@ -42,10 +42,16 @@ Then open `http://localhost:3000`.
 
 ## Deploying to Vercel
 
-The `vercel.json` at the repo root tells Vercel to build from `web/`.
-Connect the repo in the Vercel dashboard once; every push to `main`
-will rebuild. Each rebuild re-parses the master CSVs, so updating data
-just means updating CSVs and merging.
+In the Vercel project settings:
+
+1. **Settings → General → Root Directory:** set to `web`
+2. **Framework preset:** Next.js (auto-detected once root is set)
+3. Leave Build Command, Install Command, Output Directory empty —
+   Vercel's Next.js adapter handles them.
+
+Every push then rebuilds. Each rebuild re-parses the master CSVs (via
+the `prebuild` hook), so updating data just means updating CSVs and
+merging — no separate data step.
 
 ## Adding insights
 
