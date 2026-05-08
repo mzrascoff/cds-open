@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.vercel/
+out/
+*.log
+.env*.local
+.DS_Store
+lib/data/cds.generated.json
+next-env.d.ts
+*.tsbuildinfo
