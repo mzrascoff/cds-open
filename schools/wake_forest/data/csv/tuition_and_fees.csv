@@ -3,7 +3,7 @@ year,expense,amount
 2024-2025,tuition_out_of_state,1202
 2024-2025,tuition_nonresident,2881.0
 2024-2025,required_fees,1202
-2024-2025,food_and_housing,120
+2024-2025,food_and_housing,22104
 2024-2025,housing_only,12054
 2024-2025,food_only,10050
 2024-2025,books_supplies,1718.0
@@ -12,7 +12,7 @@ year,expense,amount
 2023-2024,tuition_first_year,66470
 2023-2024,tuition_out_of_state,1172
 2023-2024,required_fees,1172
-2023-2024,food_and_housing,117
+2023-2024,food_and_housing,21312
 2023-2024,housing_only,11650
 2023-2024,food_only,9662
 2023-2024,books_supplies,1680
@@ -21,4 +21,4 @@ year,expense,amount
 2018-2019,tuition_first_year,54430
 2018-2019,tuition_in_state,2256
 2018-2019,tuition_out_of_state,54430
-2018-2019,room_and_board,900
+2018-2019,room_and_board,15018
