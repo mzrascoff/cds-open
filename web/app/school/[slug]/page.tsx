@@ -8,6 +8,7 @@ import {
 } from "@/lib/data/load";
 import { METRICS, METRICS_BY_KEY, formatValue, formatYear } from "@/lib/data/metrics";
 import { defaultPeerGroupFor, PEER_GROUPS_BY_ID } from "@/lib/data/schools";
+import { colorForSchool } from "@/lib/data/colors";
 import MetricChart from "@/components/MetricChart";
 
 export function generateStaticParams() {
@@ -87,6 +88,7 @@ export default async function SchoolPage({ params }: Props) {
                 schoolDisplay={meta.display}
                 peerLabel={peerGroup.label}
                 height={200}
+                color={colorForSchool(slug)}
               />
             </div>
           </div>

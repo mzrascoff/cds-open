@@ -7,6 +7,7 @@ import {
 } from "@/lib/data/load";
 import { PEER_GROUPS, PEER_GROUPS_BY_ID, defaultPeerGroupFor } from "@/lib/data/schools";
 import { HERO_METRICS, METRICS_BY_KEY } from "@/lib/data/metrics";
+import { colorForSchool } from "@/lib/data/colors";
 import SchoolPicker from "@/components/SchoolPicker";
 import PeerGroupToggle from "@/components/PeerGroupToggle";
 import MetricCard from "@/components/MetricCard";
@@ -61,7 +62,7 @@ export default async function ComparePage({ params, searchParams }: Props) {
             {meta.display} <span className="font-normal text-ink-500">vs {peerGroup.label}</span>
           </h1>
           <p className="mt-1 text-sm text-ink-500">
-            School line in red · peer-group mean dashed · shaded band shows mid 50% of peers
+            School line in its brand color · peer-group mean dashed · shaded band shows mid 50% of peers
           </p>
         </div>
         <SchoolPicker schools={schools} current={school} className="w-full sm:w-auto" />
@@ -79,6 +80,7 @@ export default async function ComparePage({ params, searchParams }: Props) {
             points={series.points}
             schoolDisplay={meta.display}
             peerLabel={peerGroup.label}
+            color={colorForSchool(school)}
           />
         ))}
       </div>

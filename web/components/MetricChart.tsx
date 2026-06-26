@@ -20,6 +20,8 @@ interface Props {
   schoolDisplay: string;
   peerLabel: string;
   height?: number;
+  /** School brand color for the school line; falls back to the house accent. */
+  color?: string;
 }
 
 const ACCENT = "#c8102e";
@@ -32,6 +34,7 @@ export default function MetricChart({
   schoolDisplay,
   peerLabel,
   height = 220,
+  color = ACCENT,
 }: Props) {
   // Recharts needs both p25 and p75 for the band; convert to [low, high] tuple.
   const data = points.map((p) => ({
@@ -88,7 +91,7 @@ export default function MetricChart({
             width={48}
             domain={["auto", "auto"]}
           />
-          <Tooltip content={<CustomTooltip metric={metric} schoolDisplay={schoolDisplay} peerLabel={peerLabel} />} />
+          <Tooltip content={<CustomTooltip metric={metric} schoolDisplay={schoolDisplay} peerLabel={peerLabel} color={color} />} />
           <Area
             type="monotone"
             dataKey="band"
@@ -113,9 +116,9 @@ export default function MetricChart({
           <Line
             type="monotone"
             dataKey="school"
-            stroke={ACCENT}
+            stroke={color}
             strokeWidth={2.5}
-            dot={{ r: 3, fill: ACCENT, strokeWidth: 0 }}
+            dot={{ r: 3, fill: color, strokeWidth: 0 }}
             activeDot={{ r: 4 }}
             name="school"
             isAnimationActive={false}
@@ -133,9 +136,10 @@ interface TooltipProps {
   metric: MetricMeta;
   schoolDisplay: string;
   peerLabel: string;
+  color?: string;
 }
 
-function CustomTooltip({ active, payload, metric, schoolDisplay, peerLabel }: TooltipProps) {
+function CustomTooltip({ active, payload, metric, schoolDisplay, peerLabel, color = "#c8102e" }: TooltipProps) {
   if (!active || !payload || payload.length === 0) return null;
   const p = payload[0].payload;
   return (
@@ -143,7 +147,7 @@ function CustomTooltip({ active, payload, metric, schoolDisplay, peerLabel }: To
       <div className="font-medium text-ink-700">{formatYear(p.year)}</div>
       <div className="mt-1 space-y-0.5">
         <div className="flex items-center gap-2">
-          <span className="inline-block h-2 w-2 rounded-full bg-accent" />
+          <span className="inline-block h-2 w-2 rounded-full" style={{ background: color }} />
           <span className="text-ink-600">{schoolDisplay}</span>
           <span className="ml-auto font-medium tabular-nums">{formatValue(metric.unit, p.school)}</span>
         </div>

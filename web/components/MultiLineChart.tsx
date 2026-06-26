@@ -13,17 +13,7 @@ import {
 import type { MetricMeta, Row } from "@/lib/data/types";
 import { formatValue, formatYear } from "@/lib/data/metrics";
 import { SCHOOLS_BY_SLUG } from "@/lib/data/schools";
-
-const COLORS = [
-  "#c8102e", // accent
-  "#0f766e",
-  "#1d4ed8",
-  "#a16207",
-  "#7c3aed",
-  "#be185d",
-  "#0369a1",
-  "#65a30d",
-];
+import { colorForSchool } from "@/lib/data/colors";
 
 interface Props {
   rows: Row[];
@@ -112,18 +102,21 @@ export default function MultiLineChart({ rows, metric, schoolSlugs, height = 280
             formatter={(v) => SCHOOLS_BY_SLUG[v as string]?.display ?? v}
             iconType="line"
           />
-          {schoolSlugs.map((slug, i) => (
-            <Line
-              key={slug}
-              type="monotone"
-              dataKey={slug}
-              stroke={COLORS[i % COLORS.length]}
-              strokeWidth={2.25}
-              dot={{ r: 3 }}
-              isAnimationActive={false}
-              connectNulls
-            />
-          ))}
+          {schoolSlugs.map((slug) => {
+            const c = colorForSchool(slug);
+            return (
+              <Line
+                key={slug}
+                type="monotone"
+                dataKey={slug}
+                stroke={c}
+                strokeWidth={2.25}
+                dot={{ r: 3, fill: c, strokeWidth: 0 }}
+                isAnimationActive={false}
+                connectNulls
+              />
+            );
+          })}
         </LineChart>
       </ResponsiveContainer>
     </div>

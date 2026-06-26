@@ -8,9 +8,10 @@ interface Props {
   points: ChartPoint[];
   schoolDisplay: string;
   peerLabel: string;
+  color?: string;
 }
 
-export default function MetricCard({ metric, points, schoolDisplay, peerLabel }: Props) {
+export default function MetricCard({ metric, points, schoolDisplay, peerLabel, color }: Props) {
   const latestSchool = [...points].reverse().find((p) => p.school !== null);
   const latestPeer = [...points].reverse().find((p) => p.peerMean !== null);
 
@@ -66,6 +67,7 @@ export default function MetricCard({ metric, points, schoolDisplay, peerLabel }:
           metric={metric}
           schoolDisplay={schoolDisplay}
           peerLabel={peerLabel}
+          color={color}
         />
       </div>
     </div>
