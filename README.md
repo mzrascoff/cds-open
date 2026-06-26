@@ -4,6 +4,8 @@ Machine-readable extraction of Common Data Set reports from **44 U.S.
 universities**. Built by a single reusable Claude skill (`SKILL.md` at
 the repo root) — no per-school code.
 
+**Live data explorer:** https://cds-open.vercel.app
+
 ## Quick start
 
 ```bash
